@@ -1,6 +1,6 @@
 ---
 title: "VS Code Extensions: My Workflows"
-date: 2024-02-21T14:31:00-04:00
+date: '2024-02-21T14:31:00-04:00'
 author: Ryan Robinson
 layout: post
 permalink: /websites/vs-code/extensions-2024/
