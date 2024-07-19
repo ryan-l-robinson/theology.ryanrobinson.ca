@@ -30,7 +30,7 @@ Only one thing needs to change from the default Apache configuration file: telli
 
 That’s done by changing the document root from `"${GITPOD_REPO_ROOT}"` to `"${GITPOD_REPO_ROOT}/web"`, so the relevant section of the file looks something like this:
 
-```apache
+```text
 # Directory and files to be served
 DirectoryIndex index.html index.htm index.php
 DocumentRoot "${GITPOD_REPO_ROOT}/web"
