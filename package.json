@@ -25,6 +25,7 @@
 	"scripts": {
 		"start": "npm run eleventy-watch & npm run gulp-watch",
 		"a11yproject": "npm start",
+		"build-ghpages": "npx @11ty/eleventy --pathprefix=/eleventy-base-blog/",
 		"publish": "eleventy & gulp",
 		"clean": "rm -rf ./dist",
 		"eleventy-build": "eleventy",
