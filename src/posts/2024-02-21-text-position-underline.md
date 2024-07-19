@@ -1,6 +1,6 @@
 ---
 title: 'Text Underline Position'
-date: '2024-02-21T11:22:00-04:00"'
+date: '2024-02-21T11:22:00-04:00'
 author: 'Ryan Robinson'
 layout: post
 permalink: /websites/text-underline-position/
