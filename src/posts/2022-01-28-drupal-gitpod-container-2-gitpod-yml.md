@@ -130,7 +130,7 @@ apachectl start
 
 The GitPod.yml file optionally defines ports and what to do when they open. You don’t need to have this section. The ports will open either way. But it can be nice to specify in advance what you want to do when each port opens. In this case, I’m ignoring everything except for 8001, which I will open in the browser, since that is the port for the Apache access. If you don’t specify, it will give you a popup with each port opened asking what you want to do, so this saves some time.
 
-```gitpod
+```yml
 ports:
   - port: 8001
     onOpen: open-browser
@@ -146,7 +146,7 @@ ports:
 
 This section starts with a somewhat misleading key “github.” These functions are not exclusive to GitHub – they can be used with any of the supported version control platforms with GitLab and Bitbucket as well. The main valuable thing here to me is defining prebuilds, which enables GitPod to start building the new image as soon as code changes are submitted to the repository. That saves time when you’re ready to start working and it’s already good to go, instead of waiting a few minutes.
 
-```gitpod
+```yml
 github:
   prebuilds:
     master: true
@@ -165,7 +165,7 @@ The final section of this file is to install [VS Code](/tags/visual-studio-code/
 
 Here’s my Drupal 9 friendly set of extensions:
 
-```gitpod
+```yml
 vscode:
   extensions:
     - eamodio.gitlens
