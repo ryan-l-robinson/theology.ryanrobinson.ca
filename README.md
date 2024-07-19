@@ -1,8 +1,10 @@
+# Ryan Robinson Tech Blog
+
 ![A11Y.](https://github.com/a11yproject/a11yproject.com/blob/main/src/img/social/og-image-home.png?raw=true)
 
-# The A11Y Project
+## The A11Y Project
 
-The Accessibility [(A11Y)](https://a11yproject.com/posts/a11y-and-other-numeronyms/) Project is an Open-source, community-driven effort to make digital accessibility easier.
+Based on the The Accessibility [(A11Y)](https://a11yproject.com/posts/a11y-and-other-numeronyms/) Project which is an Open-source, community-driven effort to make digital accessibility easier. The remainder of this README for now is simply copied from theirs.
 
 ## Contributing
 
