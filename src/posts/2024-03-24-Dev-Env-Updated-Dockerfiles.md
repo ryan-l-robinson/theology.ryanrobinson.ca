@@ -22,7 +22,7 @@ A while ago I wrote about building a [Docker Desktop dev environment for Drupal]
 
 This new setup has both Apache and PHP in the same container, is about 40% of the total image size compared to the previous one, and runs much faster, probably because Apache and PHP are in the same container instead of having to communicate across the network. Let's start with the basic start to the image and its shell.
 
-```Dockerfile
+```text
 FROM drupal:php8.2-apache
 USER root
 SHELL ["/bin/bash", "-c"]
@@ -30,7 +30,7 @@ SHELL ["/bin/bash", "-c"]
 
 Install the extra useful packages - some of the most essential ones are already included in the Drupal image - and PHP development settings. The file copied from the PHP folder covers some of the XDebug configuration settings.
 
-```Dockerfile
+```text
 # Install needed repositories and general packages, and put the php.ini in place
 RUN apt-get update -y \
     && apt-get install -y wget git zip which sudo vim locales default-mysql-client docker nodejs npm \
@@ -51,7 +51,7 @@ COPY /php /usr/local/etc/php/conf.d
 
 Let the default www-data user have sudo permission without passwords, which would not be the way to go in production but in a development environment is pretty useful in case you ever need to do things like install a new package without rebuilding the whole environment.
 
-```Dockerfile
+```text
 # Add www-data user to sudo group, and allow those users to sudo without password
 RUN usermod -a -G sudo www-data \
     && usermod -d /user/www-data www-data \
@@ -66,7 +66,7 @@ RUN usermod -a -G sudo www-data \
 
 Fix a locale error that shows up once Apache is running, by specifying the locale it is running in. In my case, that's Canada, with Canadian English.
 
-```Dockerfile
+```text
 # Fixes locale errors, must happen before Apache. This is using my locale of Canada
 RUN echo "LC_ALL=en_CA.UTF-8" >> /etc/environment \
     && echo "en_CA.UTF-8 UTF-8" >> /etc/locale.gen \
@@ -76,7 +76,7 @@ RUN echo "LC_ALL=en_CA.UTF-8" >> /etc/environment \
 
 Add a self-signed certificate for the Apache configuration, so that we'll be able to browse the site locally with HTTPS.
 
-```Dockerfile
+```text
 # Apache configuration, including SSL certificates and logs
 COPY /apache /etc/apache2
 RUN a2enmod ssl \
@@ -88,7 +88,7 @@ RUN a2enmod ssl \
 
 Increase some of the default resource limits for PHP. The defaults never seem to be nearly enough for Drupal. These go much larger, larger than you really need on production, but on local development it is easier to be safe than sorry.
 
-```Dockerfile
+```text
 # Increase resources for PHP
 RUN sed -i "s/max_execution_time = 30/max_execution_time = 300/g" /usr/local/etc/php/php.ini \
     && sed -i "s/max_input_time = 60/max_input_time = 600/g" /usr/local/etc/php/php.ini \
@@ -100,7 +100,7 @@ RUN sed -i "s/max_execution_time = 30/max_execution_time = 300/g" /usr/local/etc
 
 This is a minor thing, but I like when I grep through code to see results with the colour highlights, making it much easier to read. That can be done by setting an environment variable and putting an alias for grep into a bashrc file.
 
-```Dockerfile
+```text
 # Set up nicer grep results
 ENV GREP_COLORS='mt=1;37;41'
 COPY .bashrc /user/www-data/.bashrc
@@ -108,21 +108,21 @@ COPY .bashrc /user/www-data/.bashrc
 
 Line up the script that will be run after creating the images. That script will handle setting up the Drupal database, but I'll cover that more in the next post.
 
-```Dockerfile
+```text
 # Scripts for further actions to take on creation and attachment
 COPY ./scripts/postCreateCommand.sh /postCreateCommand.sh
 ```
 
 Copy the Drupal settings file and the local services file. The former is the essential settings for any Drupal site, including being able to connect to the database. The latter is not essential but enables some of the development features that are ideal in local development, like seeing comments in the generated HTML code that shows you what template is being used to generate it.
 
-```Dockerfile
+```text
 # Drupal configuration
 COPY /drupal /web/sites
 ```
 
 Finally, set the permissions on the main Drupal folder as well as on the script that we'll need to be able to run.
 
-```Dockerfile
+```text
 RUN chown -R www-data:www-data /opt/drupal \
     && chown www-data:www-data /postCreateCommand.sh \
     && chmod 777 /postCreateCommand.sh
@@ -137,7 +137,7 @@ Much of this is the same as the previous version: adding a self-signed SSL certi
 
 Here's the entire Dockerfile:
 
-```Dockerfile
+```text
 # Use the default MariaDB image
 FROM mariadb:latest
 
