@@ -41,19 +41,19 @@ The most important pieces are near the top. This includes:
 
 Where to find the Docker composer file:
 
-```devcontainer
+```json
   "dockerComposeFile": "../docker-compose.yml",
 ```
 
 What user to connect as:
 
-```devcontainer
+```json
   "remoteUser": "drupal",
 ```
 
 What service to connect to and what other services to start up in the background:
 
-```devcontainer
+```json
   "service": "web",
   "runServices": ["web", "php", "db"],
 ```
@@ -62,13 +62,13 @@ In my case, my primary is called web for the main Apache container, with two oth
 
 What location on the container should be your workspace after connecting:
 
-```devcontainer
+```json
   "workspaceFolder": "/var/www/html",
 ```
 
 You can also define what extensions and settings should be installed in this container. Unlike [the GitPod equivalent](/websites/drupal/drupal-gitpod-container-2-gitpod-yml/), this can be any VS Code extension, not only the Open VSX ones. I’ve written [some of my favourite extensions in the past](/websites/favourite-visual-studio-code-extensions/), but this is a good sample of some I use specifically with Drupal:
 
-```devcontainer
+```json
     "extensions": [
       "gruntfuggly.todo-tree",
       "eamodio.gitlens",
@@ -89,12 +89,12 @@ You can trigger other scripts to run at various points in the process.
 
 The primary one I made use of is postCreateCommand. This will run only once when the container is first built. This one is much more complicated building the entire site. I’ll have another post dedicated to that script.
 
-```devcontainer
+```json
     "postCreateCommand": "/bin/bash -c \"/postCreateCommand.sh\"",
 ```
 
 I also have a much simpler postAttachCommand. This only sources the ~/.bashrc to ensure the user knows where to find commands like drush and composer, which were set up by the postCreateCommand script.
 
-```devcontainer
+```json
     "postAttachCommand": "/bin/bash -c \"source ~/.bashrc\"",
 ```
