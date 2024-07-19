@@ -27,7 +27,7 @@ I split this into two pieces, taking advantage of [GitLab’s ability to extend 
 
 To be able to test, I first need a general Oracle Linux 8 image that can run PHP 8.0 and composer for a Drupal site.
 
-```gitlab
+```yml
 ## Build an Oracle Linux 8 container, used by other tests below ##
 .ol8_lamp_build:
   stage: test
@@ -45,7 +45,7 @@ To be able to test, I first need a general Oracle Linux 8 image that can run PHP
 
 Part one is a project containing a few generic CI job templates. One of those, in the tests.yml file, is a PHP lint test. Saying that I want to test every php file in a certain folder is not as easy as you’d think – there is no flag for applying it recursively – so it requires a loop:
 
-```gitlab
+```yml
 ### PHP lint test ###
 .php_lint:
   stage: test
@@ -78,7 +78,7 @@ This has variables for the directory to start testing from, as well as what exte
 
 Part two is the specific project that then references those generic templates. Using the full project reference, under the assumption that in a real situation this would be in a differernt GitLab project, that looks something like this in the project’s .gitlab-ci.yml file:
 
-```gitlab
+```yml
 # Includes general CI jobs to extend from
 include:
  
