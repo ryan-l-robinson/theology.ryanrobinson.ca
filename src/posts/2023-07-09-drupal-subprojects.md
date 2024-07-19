@@ -94,8 +94,8 @@ git submodule add [URL to module]
 
 This generates a .gitmodules file at the project root that looks something like this:
 
-```gitmodule
+```text
 [submodule "web/modules/custom/demo-module"]
-	path = web/modules/custom/demo-module
-	url = [URL to module]
+  path = web/modules/custom/demo-module
+  url = [URL to module]
 ```
