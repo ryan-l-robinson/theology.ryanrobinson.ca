@@ -27,7 +27,7 @@ This post picks up in a [mini-series](/tags/gitpod-drupal/) describing how I cre
 
 More of the remaining work is done by the .gitpod.yml file, including referencing the Dockerfile image described in the previous part, as the starting point.
 
-```gitpod
+```yml
 image:
   file: .gitpod/GitPod.Dockerfile
 ```
