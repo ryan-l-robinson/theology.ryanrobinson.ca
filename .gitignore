@@ -1,7 +1,6 @@
 # Project-specific files and folders
 dist/
 
-
 # Generic files to ignore
 *~
 *.DS_Store
@@ -15,7 +14,6 @@ dist/
 .Trashes
 ehthumbs.db
 Thumbs.db
-
 
 # Project Files
 *.project
@@ -32,7 +30,6 @@ dwsync.xml
 node_modules
 npm-debug.log
 
-
 # Compiled source
 *.com
 *.class
@@ -41,12 +38,10 @@ npm-debug.log
 *.o
 *.so
 
-
 # Logs and databases
 *.log
 *.sql
 *.sqlite
-
 
 # Packages (better to unpack these files and commit the raw source)
 *.7z
