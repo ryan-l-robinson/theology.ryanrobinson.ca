@@ -78,11 +78,6 @@ tags:
 			<h2 class="c-heading-larger" id="recent-posts">
 				Recent posts
 			</h2>
-			<ul class="c-linkroll">
-				{% for post in collections.posts | head(-3) | reverse %}
-					{% include "linkroll.njk" %}
-				{% endfor %}
-			</ul>
 		</div>
 	</div>
 
