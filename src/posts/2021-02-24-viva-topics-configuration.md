@@ -1,18 +1,9 @@
 ---
 title: 'Microsoft Viva Topics: Configuration'
 description: 'Temporary description to try to get this working.'
-date: '2021-02-24T21:12:00-05:00'
+date: 2021-02-24
 author: 'Ryan Robinson'
-layout: post
-permalink: /microsoft-365/sharepoint/viva-topics-configuration/
-image: 
-    src: /assets/img/logo/SharePoint.png
-    width: 300
-    height: 300
-    alt: "SharePoint logo: stylized S"
-categories:
-    - "Microsoft 365"
-    - SharePoint
+category: "Microsoft 365"
 tags:
     - Security
 ---
