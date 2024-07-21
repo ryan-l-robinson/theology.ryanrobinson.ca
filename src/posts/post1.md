@@ -12,7 +12,7 @@ further_reading:
     url: https://support.apple.com/en-ca/guide/iphone/iph3e2e415f/ios
     source: Apple
 tags:
-  - assistivetechnology
+  - Accessibility
 ---
 
 VoiceOver is a screen-reading tool built into Apple Inc.'s iOS. It helps people navigate and use their iPhone without needing to see the screen. First introduced in 2009 with the iPod Shuffle and iPhone 3GS, VoiceOver has been in the picture in every Apple's iOS release ever since.
