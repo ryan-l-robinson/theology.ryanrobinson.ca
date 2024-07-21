@@ -39,7 +39,7 @@ jobs:
       - name: Copy CSS
         run: |
           mkdir -p ./dist/css
-          cp -r ./src/css/ ./dist/css/
+          cp -r ./src/css/ ./dist/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
