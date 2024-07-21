@@ -39,7 +39,7 @@ jobs:
       - name: Compile CSS from SCSS files
         uses: gha-utilities/sass-build@v0.4.7
         with:
-          source: ./src/scss/base/_all.scss
+          source: ./src/css/base/_all.scss
           destination: ./dist/css/main.css 
 
       - name: Deploy
