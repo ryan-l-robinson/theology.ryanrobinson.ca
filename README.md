@@ -1,72 +1,122 @@
-# Ryan Robinson Tech Blog
+# eleventy-base-blog v8
 
-![A11Y.](https://github.com/a11yproject/a11yproject.com/blob/main/src/img/social/og-image-home.png?raw=true)
+A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) site generator (using the [v2.0 release](https://www.11ty.dev/blog/eleventy-v2/)).
 
-## The A11Y Project
+## Getting Started
 
-Based on the The Accessibility [(A11Y)](https://a11yproject.com/posts/a11y-and-other-numeronyms/) Project which is an Open-source, community-driven effort to make digital accessibility easier. The remainder of this README for now is simply copied from theirs.
+* [Want a more generic/detailed getting started guide?](https://www.11ty.dev/docs/getting-started/)
 
-## Contributing
+1. Make a directory and navigate to it:
 
-You can learn about helping this project by reading our [Code of Conduct](https://a11yproject.com/code-of-conduct/), [Contributor documentation](https://a11yproject.com/contributing-guidelines/), and [Content Style Guide](https://a11yproject.com/content-style-guide/). Please familiarize yourself with them before submitting content.
+```
+mkdir my-blog-name
+cd my-blog-name
+```
 
-This `README` is focused on the technical side of the project. If you are interested in contributing information like Posts or Resources, please refer to our [Contributing Guidelines](https://a11yproject.com/contributing-guidelines/).
+2. Clone this Repository
 
-## Development
+```
+git clone https://github.com/11ty/eleventy-base-blog.git .
+```
 
-### Technology
+_Optional:_ Review `eleventy.config.js` and `_data/metadata.js` to configure the site’s options and data.
 
-The A11Y Project uses [Eleventy](https://www.11ty.io/) to manage its content. Eleventy relies on [Markdown](https://daringfireball.net/projects/markdown/syntax), [Sass](https://sass-lang.com/), [Nunjucks](https://mozilla.github.io/nunjucks/), and [JSON](https://www.json.org/) to function.
+3. Install dependencies
 
-It may be helpful to familiarize yourself with these technologies, depending on what you want to do. For more information, check out our [Contributor documentation](https://a11yproject.com/contributing-guidelines/).
+```
+npm install
+```
 
-### Requirements
+4. Run Eleventy
 
-You'll need access to the following programs and technology in order to get the website running on your computer to work on:
+Generate a production-ready build to the `_site` folder:
 
-1. A command line application such as Terminal.
-    - If you want to learn more about working in the command line, Wes Bos offers [a great free course](https://commandlinepoweruser.com/).
-    - If you are using Windows, [Hyper](https://hyper.is/) is a good, free command-line application you can download, install, and run.
-1. [Git](https://git-scm.com/) version control and a [GitHub account](https://github.com/).
-    - You can check to see if Git is already installed on your computer by typing `git --version` into your command line application. If it is installed it will list the currently installed version (e.g. `git version 2.18.0`).
-    - If you prefer to use a GUI to work with version control, GitHub offers a [free desktop app](https://desktop.github.com).
-1. [Node.js](https://nodejs.org/en/), a programming environment powered by JavaScript.
-    - You can check to see if Node.js is already installed on your computer by typing `node -v` into your command line application. If it is installed it will list the currently installed version (e.g. `v16.4.0`). The A11Y Project requires a minimum version of `16.0.0`.
-    - It may also be helpful to use a program such as [nvm](https://github.com/creationix/nvm) to help manage your Node.js versions. This will ensure that the version of Node.js your computer uses to run various things won't conflict with an updated version. For Windows users, you could use [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows).
+```
+npx @11ty/eleventy
+```
 
-### Installation
+Or build and host on a local development server:
 
-Once you have met [the prerequisites](#requirements), follow these steps to install the website on your computer:
+```
+npx @11ty/eleventy --serve
+```
 
-1. Clone this repository by entering this command into your command line application: `git clone https://github.com/a11yproject/a11yproject.com.git`. It will create a version-controlled copy of the website in the directory you entered the command in.
-1. Navigate into the project's [root directory](https://en.m.wikipedia.org/wiki/Root_directory) by typing `cd a11yproject.com` in your command line application.
-1. Install the project's Node.js modules by typing `npm install` into your command line application. A list of these modules should be displayed after they are downloaded and installed.
+Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the internals.
 
-### Running the website
+## Features
 
-After cloning and installing project Node.js modules, you will need to tell Node.js to compile the project and turn it into a website. To do this:
+- Using [Eleventy v2.0](https://www.11ty.dev/blog/eleventy-v2/) with zero-JavaScript output.
+	- Content is exclusively pre-rendered (this is a static site).
+	- Can easily [deploy to a subfolder without changing any content](https://www.11ty.dev/docs/plugins/html-base/)
+	- All URLs are decoupled from the content’s location on the file system.
+	- Configure templates via the [Eleventy Data Cascade](https://www.11ty.dev/docs/data-cascade/)
+- **Performance focused**: four-hundos Lighthouse score out of the box!
+	- [View the Lighthouse report for the latest build](https://eleventy-base-blog.netlify.app/reports/lighthouse/) courtesy of the [Netlify Lighthouse plugin](https://github.com/netlify/netlify-plugin-lighthouse).
+	- _0 Cumulative Layout Shift_
+	- _0ms Total Blocking Time_
+- Local development live reload provided by [Eleventy Dev Server](https://www.11ty.dev/docs/dev-server/).
+- Content-driven [navigation menu](https://www.11ty.dev/docs/plugins/navigation/)
+- [Image optimization](https://www.11ty.dev/docs/plugins/image/) via the `{% image %}` shortcode.
+	- Zero-JavaScript output.
+	- Support for modern image formats automatically (e.g. AVIF and WebP)
+	- Prefers `<img>` markup if possible (single image format) but switches automatically to `<picture>` for multiple image formats.
+	- Automated `<picture>` syntax markup with `srcset` and optional `sizes`
+	- Includes `width`/`height` attributes to avoid [content layout shift](https://web.dev/cls/).
+	- Includes `loading="lazy"` for native lazy loading without JavaScript.
+	- Includes [`decoding="async"`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/decoding)
+	- Images can be co-located with blog post files.
+	- View the [Image plugin source code](https://github.com/11ty/eleventy-base-blog/blob/main/eleventy.config.images.js)
+- Per page CSS bundles [via `eleventy-plugin-bundle`](https://github.com/11ty/eleventy-plugin-bundle).
+- Built-in [syntax highlighter](https://www.11ty.dev/docs/plugins/syntaxhighlight/) (zero-JavaScript output).
+- Blog Posts
+	- Draft posts: use `draft: true` to mark a blog post as a draft. Drafts are **only** included during `--serve`/`--watch` and are excluded from full builds. View the [Drafts plugin source code](https://github.com/11ty/eleventy-base-blog/blob/main/eleventy.config.drafts.js).
+	- Automated next/previous links
+	- Accessible deep links to headings
+- Generated Pages
+	- Home, Archive, and About pages.
+	- [Feeds for Atom and JSON](https://www.11ty.dev/docs/plugins/rss/)
+	- `sitemap.xml`
+	- Zero-maintenance tag pages ([View on the Demo](https://eleventy-base-blog.netlify.app/tags/))
+	- Content not found (404) page
 
-- **macOS and Linux:** Type `npm start` into your command line application.
-- **Windows:** Type `npm run eleventy-watch & npm run gulp-watch` into your command line application.
+## Demos
 
-Your command line application will then display some information about Eleventy, including a line that starts with `Local:`. You can copy the URL it points to (it should read something like [`http://localhost:3000`](http://localhost:3000)) and paste it into a browser tab. This will load a local copy of the website that you can interact with to preview your changes.
+- [Netlify](https://eleventy-base-blog.netlify.app/)
+- [Vercel](https://demo-base-blog.11ty.dev/)
+- [GitHub Pages](https://11ty.github.io/eleventy-base-blog/)
+- [Remix on Glitch](https://glitch.com/~11ty-eleventy-base-blog)
+- [Cloudflare Pages](https://eleventy-base-blog-d2a.pages.dev/)
 
-You can also use the `External` URL to preview the local copy on another device connected to the same network, which helps you check to see how the site looks and functions on things like smartphones. This is done via [Browsersync](https://www.browsersync.io/).
+## Deploy this to your own site
 
-### Updating the website
+Deploy this Eleventy site in just a few clicks on these services:
 
-Saving project files will make Node.js regenerate the website to reflect the changes you made. Your command line application will display some new messaging to reflect this, including any errors you might accidentally make. Don't worry! Since the site uses version control, you're not in danger of seriously breaking anything. If you fix the error, Node.js should continue to run.
+- [Deploy this to **Netlify**](https://app.netlify.com/start/deploy?repository=https://github.com/11ty/eleventy-base-blog)
+- [Deploy this to **Vercel**](https://vercel.com/import/project?template=11ty%2Feleventy-base-blog)
+- Look in `.github/workflows/gh-pages.yml.sample` for information on Deploying to **GitHub Pages**.
+- [Try it out on **Stackblitz**](https://stackblitz.com/github/11ty/eleventy-base-blog)
+- If you run Eleventy locally you can drag your `_site` folder to [`netlify.com/drop`](https://netlify.com/drop) to upload it without using `git`.
+- Read more about [Deploying an Eleventy project](https://www.11ty.dev/docs/deployment/) to the web.
 
-Make sure you edit the files in the `src/` subdirectory. Any edits made in the `dist` subdirectory will be overwritten by the next change to any file in `src/` and all your hard work will be lost!
+### Implementation Notes
 
-### Quitting
+- `content/about/index.md` is an example of a content page.
+- `content/blog/` has the blog posts but really they can live in any directory. They need only the `posts` tag to be included in the blog posts [collection](https://www.11ty.dev/docs/collections/).
+- Use the `eleventyNavigation` key (via the [Eleventy Navigation plugin](https://www.11ty.dev/docs/plugins/navigation/)) in your front matter to add a template to the top level site navigation. This is in use on `content/index.njk` and `content/about/index.md`.
+- Content can be in _any template format_ (blog posts needn’t exclusively be markdown, for example). Configure your project’s supported templates in `eleventy.config.js` -> `templateFormats`.
+- The `public` folder in your input directory will be copied to the output folder (via `addPassthroughCopy` in the `eleventy.config.js` file). This means `./public/css/*` will live at `./_site/css/*` after your build completes.
+- Provides two content feeds:
+	- `content/feed/feed.njk`
+	- `content/feed/json.njk`
+- This project uses three [Eleventy Layouts](https://www.11ty.dev/docs/layouts/):
+	- `_includes/layouts/base.njk`: the top level HTML structure
+	- `_includes/layouts/home.njk`: the home page template (wrapped into `base.njk`)
+	- `_includes/layouts/post.njk`: the blog post template (wrapped into `base.njk`)
+- `_includes/postslist.njk` is a Nunjucks include and is a reusable component used to display a list of all the posts. `content/index.njk` has an example of how to use it.
 
-You can tell Node.js to stop running by pressing the <kbd>Control</kbd> and <kbd>C</kbd> keys at the same time in your command line application, or by closing the command line application window or tab.
+#### Content Security Policy
 
-### Code Tour
+If your site enforces a [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) (as public-facing sites should), you have a few choices (pick one):
 
-If you use [Visual Studio Code](https://code.visualstudio.com/) as your code editor, you can take an introductory tour of the repository via the [CodeTour extension](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour).
-
-## Troubleshooting
-
-Please refer to our [Troubleshooting documentation](https://github.com/a11yproject/a11yproject.com/blob/main/TROUBLESHOOTING.md) for help with issues running the site.
+1. In `base.njk`, remove `<style>{% getBundle "css" %}</style>` and uncomment `<link rel="stylesheet" href="{% getBundleFileUrl "css" %}">`
+2. Configure the server with the CSP directive `style-src: 'unsafe-inline'` (less secure).
