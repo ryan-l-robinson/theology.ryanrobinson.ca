@@ -24,11 +24,12 @@
 		{#- Add the contents of a file to the bundle #}
 		{%- css %}{% include "public/css/index.css" %}{% endcss %}
 		{%- css %}{% include "public/css/nav.css" %}{% endcss %}
+		{%- css %}{% include "public/css/layout.css" %}{% endcss %}
 
 		<link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
 	</head>
 	<body>
-		<nav title="Main navigation">
+		<nav title="Main navigation" class="left-nav">
 			<ul>
 				<li><a href="/">Home</a></li>
 				<li><a href="/about">About</a></li>
@@ -74,21 +75,23 @@
 			</ul>
 			<a href="/feed/feed.xml" aria-label="rss"> <i class="fas fa-rss"></i> </a>
 		</nav>
-		<a href="#skip" class="visually-hidden">Skip to main content</a>
+		<div class="main">
+			<a href="#skip" class="visually-hidden">Skip to main content</a>
 
-		<header>
-			<p>Can I put a search box here somewhere?</p>
-		</header>
+			<header>
+				<p>Can I put a search box here somewhere?</p>
+			</header>
 
-		<main id="skip">
-			{{ content | safe }}
-		</main>
+			<main id="skip">
+				{{ content | safe }}
+			</main>
 
-		<footer>
-			<p>&copy; 2024 Ryan Robinson.</p>
-			<p>Powered by <a href="https://www.11ty.dev/">Eleventy</a> on <a href="https://pages.github.com/">GitHub Pages</a>.</p>
-		</footer>
+			<footer>
+				<p>&copy; 2024 Ryan Robinson.</p>
+				<p>Powered by <a href="https://www.11ty.dev/">Eleventy</a> on <a href="https://pages.github.com/">GitHub Pages</a>.</p>
+			</footer>
 
-		<!-- This page `{{ page.url | htmlBaseUrl }}` was built on {% currentBuildDate %} -->
+			<!-- This page `{{ page.url | htmlBaseUrl }}` was built on {% currentBuildDate %} -->
+		</div>
 	</body>
 </html>
