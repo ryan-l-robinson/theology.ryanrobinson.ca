@@ -1,47 +1,6 @@
-# eleventy-base-blog v8
+# Ryan Robinson Technology
 
-A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) site generator (using the [v2.0 release](https://www.11ty.dev/blog/eleventy-v2/)).
-
-## Getting Started
-
-* [Want a more generic/detailed getting started guide?](https://www.11ty.dev/docs/getting-started/)
-
-1. Make a directory and navigate to it:
-
-```
-mkdir my-blog-name
-cd my-blog-name
-```
-
-2. Clone this Repository
-
-```
-git clone https://github.com/11ty/eleventy-base-blog.git .
-```
-
-_Optional:_ Review `eleventy.config.js` and `_data/metadata.js` to configure the site’s options and data.
-
-3. Install dependencies
-
-```
-npm install
-```
-
-4. Run Eleventy
-
-Generate a production-ready build to the `_site` folder:
-
-```
-npx @11ty/eleventy
-```
-
-Or build and host on a local development server:
-
-```
-npx @11ty/eleventy --serve
-```
-
-Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the internals.
+This is the technology blog of Ryan Robinson, built using Eleventy.
 
 ## Features
 
@@ -78,41 +37,6 @@ Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the
 	- `sitemap.xml`
 	- Zero-maintenance tag pages ([View on the Demo](https://eleventy-base-blog.netlify.app/tags/))
 	- Content not found (404) page
-
-## Demos
-
-- [Netlify](https://eleventy-base-blog.netlify.app/)
-- [Vercel](https://demo-base-blog.11ty.dev/)
-- [GitHub Pages](https://11ty.github.io/eleventy-base-blog/)
-- [Remix on Glitch](https://glitch.com/~11ty-eleventy-base-blog)
-- [Cloudflare Pages](https://eleventy-base-blog-d2a.pages.dev/)
-
-## Deploy this to your own site
-
-Deploy this Eleventy site in just a few clicks on these services:
-
-- [Deploy this to **Netlify**](https://app.netlify.com/start/deploy?repository=https://github.com/11ty/eleventy-base-blog)
-- [Deploy this to **Vercel**](https://vercel.com/import/project?template=11ty%2Feleventy-base-blog)
-- Look in `.github/workflows/gh-pages.yml.sample` for information on Deploying to **GitHub Pages**.
-- [Try it out on **Stackblitz**](https://stackblitz.com/github/11ty/eleventy-base-blog)
-- If you run Eleventy locally you can drag your `_site` folder to [`netlify.com/drop`](https://netlify.com/drop) to upload it without using `git`.
-- Read more about [Deploying an Eleventy project](https://www.11ty.dev/docs/deployment/) to the web.
-
-### Implementation Notes
-
-- `content/about/index.md` is an example of a content page.
-- `content/blog/` has the blog posts but really they can live in any directory. They need only the `posts` tag to be included in the blog posts [collection](https://www.11ty.dev/docs/collections/).
-- Use the `eleventyNavigation` key (via the [Eleventy Navigation plugin](https://www.11ty.dev/docs/plugins/navigation/)) in your front matter to add a template to the top level site navigation. This is in use on `content/index.njk` and `content/about/index.md`.
-- Content can be in _any template format_ (blog posts needn’t exclusively be markdown, for example). Configure your project’s supported templates in `eleventy.config.js` -> `templateFormats`.
-- The `public` folder in your input directory will be copied to the output folder (via `addPassthroughCopy` in the `eleventy.config.js` file). This means `./public/css/*` will live at `./_site/css/*` after your build completes.
-- Provides two content feeds:
-	- `content/feed/feed.njk`
-	- `content/feed/json.njk`
-- This project uses three [Eleventy Layouts](https://www.11ty.dev/docs/layouts/):
-	- `_includes/layouts/base.njk`: the top level HTML structure
-	- `_includes/layouts/home.njk`: the home page template (wrapped into `base.njk`)
-	- `_includes/layouts/post.njk`: the blog post template (wrapped into `base.njk`)
-- `_includes/postslist.njk` is a Nunjucks include and is a reusable component used to display a list of all the posts. `content/index.njk` has an example of how to use it.
 
 #### Content Security Policy
 
