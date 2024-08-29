@@ -4,9 +4,9 @@ eleventyNavigation:
   key: Home
   order: 1
 eleventyImport:
-  collections: ["post"]
+  collections: ["posts"]
 ---
 <h1>Latest Posts</h1>
 
-{% set postslist = collections.post %}
+{% set postslist = collections.posts %}
 {% include "postslist.njk" %}
