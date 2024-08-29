@@ -43,18 +43,12 @@ html {
 }
 
 body {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: var(--background-color);
+    color: var(--text-color);
     font-family: "Atkinson Hyperlegible", sans-serif;
     font-size: 16pt;
-}
-
-header {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 1em;
-    padding: 0 var(--main-gutter-x);
-    background-color: var(--red);
-    color: var(--white);
 }
 
 p {

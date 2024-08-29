@@ -5,7 +5,7 @@
 	<article class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
 		<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}<h2>{{ post.data.title }}</h2>{% else %}<code>{{ post.url }}</code>{% endif %}</a>
 		<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL dd, yyyy") }}</time>
-		{% if post.data.description %}<div class="postlist-item-desc">{{ post.data.description }}</div>{% endif %}
+		{% if post.data.description %}<div class="postlist-item-desc">Put the description here!</div>{% endif %}
 	</article>
 {% endfor %}
 </div>
