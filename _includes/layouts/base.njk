@@ -40,7 +40,7 @@
 				<p>Ryan Robinson Technology</p>
 				<p>Search box goes here?</p>
 				{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-				<nav aria-describedby="top-nav">
+				<nav class="top-nav" aria-describedby="top-nav">
 					<h2 class="visually-hidden" id="top-nav">Top level navigation menu</h2>
 					<ul class="nav">
 					{%- for entry in collections.all | eleventyNavigation %}
