@@ -4,8 +4,8 @@ This is the technology blog of Ryan Robinson, built using Eleventy.
 
 ## TODO
 
-- Sidebar: responsive, larger font, link back to the main ryanrobinson.ca, RSS feed link
-- Header: red background, site name, ideally a search box
+- Sidebar: responsive
+- Header: add a search box - there's probably an eleventy module for that?
 - Static pages About and Tools: add styles
 - Homepage: longer list of all posts in a readable way
 - Posts: template and styles
