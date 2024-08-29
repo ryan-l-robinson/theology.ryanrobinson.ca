@@ -1,6 +1,6 @@
 {
-	"name": "ryan-robinson-technology",
-	"version": "0.0.1",
+	"name": "eleventy-base-blog",
+	"version": "8.0.0",
 	"description": "Ryan Robinson's tech blog, built using eleventy on the starter theme",
 	"scripts": {
 		"build": "npx @11ty/eleventy",
