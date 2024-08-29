@@ -1,7 +1,9 @@
 ---
+layout: layouts/base.njk
 title: About
-icon: fas fa-info-circle
-order: 4
+eleventyNavigation:
+  key: About
+  order: 2
 ---
 
 Hi, I’m Ryan Robinson. I’ve been working in technology for over 10 years, especially websites, Microsoft 365, and CRM systems. On this site I document some of the work I’ve done, whether within a full-time job, freelance work, or as a personal side project.

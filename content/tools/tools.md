@@ -1,7 +1,9 @@
 ---
+layout: layouts/base.njk
 title: Tools
-icon: fas fa-info-circle
-order: 5
+eleventyNavigation:
+  key: Tools
+  order: 3
 ---
 
 Here are some of my favourite tools I make use of in my tech work:
