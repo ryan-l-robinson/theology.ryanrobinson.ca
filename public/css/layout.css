@@ -28,6 +28,11 @@ footer {
 footer {
     position: absolute;
     bottom: 0;
+    width: 100%;
     background-color: var(--red);
     font-size: 0.7em;
+}
+
+footer a {
+    color: var(--white);
 }

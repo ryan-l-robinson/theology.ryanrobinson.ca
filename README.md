@@ -4,7 +4,7 @@ This is the technology blog of Ryan Robinson, built using Eleventy.
 
 ## TODO
 
-- Sidebar: responsive
+- Navigation: keep it in the sidebar, or header since there are so few links? Do I need the sidebar at all? If not, move social links to footer.
 - Header: add a search box - there's probably an eleventy module for that?
 - Static pages About and Tools: add styles
 - Homepage: longer list of all posts in a readable way
