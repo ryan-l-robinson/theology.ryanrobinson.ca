@@ -2,6 +2,16 @@
 
 This is the technology blog of Ryan Robinson, built using Eleventy.
 
+## TODO
+
+- Change base font to Atkinson Hyperlegible
+- Sidebar: responsive, larger font, link back to the main ryanrobinson.ca, RSS feed link
+- Header: Site name, ideally a search box
+- Static pages About and Tools: add styles
+- Homepage: longer list of all posts in a readable way
+- Posts: template and styles
+- Clean up anything left over from the base theme that I didn't use
+
 ## Features
 
 - Using [Eleventy v2.0](https://www.11ty.dev/blog/eleventy-v2/) with zero-JavaScript output.
