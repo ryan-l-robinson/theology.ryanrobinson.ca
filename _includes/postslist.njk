@@ -1,11 +1,9 @@
 {%- css %}.postlist { counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }} }{% endcss %}
-{%- css %}{% include "public/css/posts-summaries.css" %}{% endcss %}
-<div class="postlist">
+<ol reversed class="postlist">
 {% for post in postslist | reverse %}
-	<article class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-		<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}<h2>{{ post.data.title }}</h2>{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-		<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL dd, yyyy") }}</time>
-		{% if post.data.description %}<div class="postlist-item-desc">Put the description here!</div>{% endif %}
-	</article>
+	<li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+		<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+		<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL yyyy") }}</time>
+	</li>
 {% endfor %}
-</div>
+</ol>
