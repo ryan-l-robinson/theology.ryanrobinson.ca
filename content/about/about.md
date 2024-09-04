@@ -8,7 +8,7 @@ eleventyNavigation:
 
 Hi, I’m Ryan Robinson. I’ve been working in technology for my adult life, especially websites, Microsoft 365, and CRM systems. On this site I document some of the work I’ve done, whether within a full-time job, freelance work, or as a personal side project.
 
-If you're interested in more from me beyond tech, see [https://ryanrobinson.ca](ryanrobinson.ca).
+If you're interested in more from me beyond tech, see [ryanrobinson.ca](https://ryanrobinson.ca).
 
 ## Technical Education and Certifications
 
