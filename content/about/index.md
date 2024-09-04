@@ -18,22 +18,22 @@ More recently, I have obtained Microsoft 365 certifications:
 
 ### Microsoft 365 Certified: Enterprise Administrator Expert
 
-![Enterprise Administrator Expert badge](../assets/img/microsoft-365-certified-enterprise-administrator-expert.png "Enterprise Administrator badge")
+![Enterprise Administrator Expert badge](../img/microsoft-365-certified-enterprise-administrator-expert.png "Enterprise Administrator badge")
 _Exams MS-700, MS-100, and MS-101_
 
 ### Microsoft 365 Certified: Teams Administrator Associate
 
-![Microsoft Teams Administrator Associate badge](../assets/img/microsoft-365-certified-teams-administrator-associate.png "Teams Administrator badge")
+![Microsoft Teams Administrator Associate badge](../img/microsoft-365-certified-teams-administrator-associate.png "Teams Administrator badge")
 _Exam MS-700_
 
 ### Microsoft Certified: Power Platform App Maker Associate
 
-![Microsoft Power Platform App Maker Associate badge](../assets/img/microsoft-certified-power-platform-app-maker-associate.png "Power Platform App Maker badge")
+![Microsoft Power Platform App Maker Associate badge](../img/microsoft-certified-power-platform-app-maker-associate.png "Power Platform App Maker badge")
 _Exam PL-100_
 
 ### Microsoft Certified: Information Protection Administrator Associate
 
-![Microsoft Information Protection Administrator Associate badge](../assets/img/microsoft-certified-information-protection-administrator-associate.png "Information Protection Administrator badge")
+![Microsoft Information Protection Administrator Associate badge](../img/microsoft-certified-information-protection-administrator-associate.png "Information Protection Administrator badge")
 _Exam SC-400_
 
 ## Alliteration Applications
