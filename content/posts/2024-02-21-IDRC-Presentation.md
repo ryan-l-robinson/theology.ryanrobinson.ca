@@ -1,6 +1,7 @@
 ---
 title: IDRC Presentation on Open Menu
-date: 2024-08-14T23:22:36.000Z
+description: "I recently presented to the Inclusive Design Research Centre about work on an open menu concept. Here are some of my key takeaways."
+date: 2024-02-21T23:22:36.000Z
 author: Ryan Robinson
 category: Websites
 tags:
