@@ -1,11 +1,11 @@
 {%- css %}.postlist { counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }} }{% endcss %}
-{%- css %}{% include "public/css/post-summaries.css" %}{% endcss %}
+{%- css %}{% include "public/css/postslist.css" %}{% endcss %}
 <div class="postlist">
 {% for post in postslist | reverse %}
 	<article class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-		<h2><a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h2>
-		<p><time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL d, yyyy") }}</time></p>
-		{% if post.data.description %}<p class="article-description">{{ post.data.description }}</p>{% endif %}
+		<h2 class="postlist-item-title"><a href="{{ post.url }}" class="postlist-item-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h2>
+		<p class="postlist-item-time-container"><time class="postlist-item-time" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL d, yyyy") }}</time></p>
+		{% if post.data.description %}<p class="postlist-item-description">{{ post.data.description }}</p>{% endif %}
 	</article>
 {% endfor %}
 </div>
