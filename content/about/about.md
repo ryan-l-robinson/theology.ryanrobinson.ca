@@ -6,13 +6,13 @@ eleventyNavigation:
   order: 2
 ---
 
-Hi, I’m Ryan Robinson. I’ve been working in technology for over 10 years, especially websites, Microsoft 365, and CRM systems. On this site I document some of the work I’ve done, whether within a full-time job, freelance work, or as a personal side project.
+Hi, I’m Ryan Robinson. I’ve been working in technology for my adult life, especially websites, Microsoft 365, and CRM systems. On this site I document some of the work I’ve done, whether within a full-time job, freelance work, or as a personal side project.
 
-## Education and Certifications
+If you're interested in more from me beyond tech, see [https://ryanrobinson.ca](ryanrobinson.ca).
+
+## Technical Education and Certifications
 
 I have a Bachelor of Computing Honours from Queen's University in Kingston, Ontario, Canada, with a specialization in Cognitive Science.
-
-I also have a Master of Divinity, but that is not as relevant for this site.
 
 More recently, I have obtained Microsoft 365 certifications:
 
@@ -40,4 +40,4 @@ _Exam SC-400_
 
 I have previously completed freelance work under the name of Alliteration Applications. This started with some BlackBerry mobile applications but progressed to websites (mostly WordPress), email migrations, Microsoft 365 support, and occasional other bits and pieces of IT support.
 
-I have begun winding down the use of that branding as my focus is on my full-time employment. I am still open to occasional freelance work, but the Alliteration Applications name and official business is being phased out.
+I have phased out the use of that as my focus is on my full-time employment. I am still open to occasional freelance work that would fit within my schedule, but not actively seeking it out.
