@@ -2,9 +2,8 @@
 title: 'Microsoft Viva Topics: User Experience'
 date: '2021-02-25T11:12:00-05:00'
 author: 'Ryan Robinson'
-category: "Microsoft 365"
 tags:
-    - posts
+    - Microsoft 365
 ---
 
 In [my previous post](/microsoft-365/sharepoint/viva-topics-configuration/), I walked through my thoughts on the configuration process for the new Microsoft Viva Topics functionality within Microsoft 365. In this post I’ll dive into what the experience is like for users once it is configured.

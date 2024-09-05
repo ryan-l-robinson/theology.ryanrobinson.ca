@@ -1,10 +1,10 @@
 ---
 title: "SharePoint: Desktop Sync Files"
+description: "The differences between SharePoint and OneDrive, and which approach to use for desktop sync, can be confusing. Here's some help on the advantages of each."
 date: "2021-04-02T07:18:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - Microsoft 365
 ---
 
 ## What Goes Where?

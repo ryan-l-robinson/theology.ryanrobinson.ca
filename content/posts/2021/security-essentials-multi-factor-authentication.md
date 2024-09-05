@@ -2,9 +2,7 @@
 title: "Security Essentials: Multi-factor Authentication"
 date: "2021-03-07T17:33:08-05:00"
 author: "Ryan Robinson"
-category: "General Tech Tools"
 tags:
-  - posts
   - Security
 ---
 

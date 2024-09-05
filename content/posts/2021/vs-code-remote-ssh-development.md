@@ -1,10 +1,9 @@
 ---
 title: "Visual Studio Code: Remote SSH Development"
+description: "An overview of connecting to SSH servers using VS Code."
 date: "2021-04-12T10:27:00-04:00"
 author: "Ryan Robinson"
-category: Websites
 tags:
-  - posts
   - "Visual Studio Code"
 ---
 

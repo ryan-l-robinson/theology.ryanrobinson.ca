@@ -1,10 +1,10 @@
 ---
 title: "CiviCRM: Overview"
+description: "CiviCRM is a good tool for a non-profit CRM. Here's my summary of the good and the bad."
 date: "2021-03-31T11:37:00-04:00"
 author: "Ryan Robinson"
-category: Websites
 tags:
-  - posts
+  - CRM
   - Security
 ---
 

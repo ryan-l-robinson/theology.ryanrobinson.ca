@@ -1,10 +1,9 @@
 ---
 title: "Visual Studio Code: Using GitHub"
+description: "An overview of working with GitHub from VS Code"
 date: "2021-04-09T07:39:00-04:00"
 author: "Ryan Robinson"
-category: Websites
 tags:
-  - posts
   - GitHub
   - "Visual Studio Code"
 ---

@@ -2,9 +2,7 @@
 title: "Security Essentials: Password Manager"
 date: "2021-03-07T13:58:14-05:00"
 author: "Ryan Robinson"
-category: "General Tech Tools"
 tags:
-  - posts
   - Security
 ---
 

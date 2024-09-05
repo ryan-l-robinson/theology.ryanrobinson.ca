@@ -3,9 +3,9 @@ title: 'Microsoft Viva Topics: Configuration'
 description: 'An introduction to Microsoft Viva Topics and how to configure it.'
 date: 2021-02-24
 author: 'Ryan Robinson'
-category: "Microsoft 365"
 tags:
     - Security
+    - Microsoft 365
 ---
 
 Microsoft recently launched [their new Viva platform](https://www.microsoft.com/en-us/microsoft-viva). Nothing about the announcement was radically new – everything had at least been previewed – but the new Viva branding helps tie them together with the shared goal of improving the employee experience.

@@ -1,10 +1,10 @@
 ---
 title: "Microsoft Search: Introduction"
+description: "Microsoft Search has more power than initially appears. Here's some key features."
 date: "2021-04-07T10:16:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - Microsoft 365
 ---
 
 Microsoft Search may be the most underrated feature available as part of Microsoft 365. Maybe that’s because Microsoft themselves haven’t been promoting it that heavily, or maybe it’s because it is associated with Bing, the mention of which usually prompts the question “Bing still exists?” But those people are missing out on the potential productivity benefits that comes from having one search tool to find your data across all your Microsoft systems as well as yes, public Bing search.
@@ -13,7 +13,7 @@ This was a common scenario for me in my previous job: I’m trying to help a cli
 
 But that’s not all Microsoft Search can do. It starts with bringing together search results from many places into one, but also offers some more precise helpful tools.
 
-## Q&amp;A
+## Q&A
 
 Microsoft Search supports an admin defining common questions and answers for their organization. This can be a great solution if you’re finding that people in your organization are asking the same questions over and over again. These could be common processes within a workday or could be common administrative questions.
 

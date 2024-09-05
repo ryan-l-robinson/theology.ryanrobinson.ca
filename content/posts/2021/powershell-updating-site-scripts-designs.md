@@ -1,10 +1,11 @@
 ---
 title: "PowerShell: Updating Site Scripts and Designs"
+description: "Part of the SharePoint Site Provisioning project, here are some scripts for updating site scripts and designs from PowerShell."
 date: "2021-04-05T11:20:00-04:00"
 author: "Ryan Robinson"
 category: "Microsoft 365"
 tags:
-  - posts
+  - Microsoft 365
   - "SharePoint Site Provisioning"
 ---
 

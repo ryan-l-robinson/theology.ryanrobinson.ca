@@ -1,10 +1,10 @@
 ---
 title: Microsoft Ignite News Day
+description: "A recap of news coming out of Microsoft Ignite 2021"
 date: 2021-03-02T17:14:47-05:00
 author: Ryan Robinson
-category: Microsoft 365
 tags:
-    - posts
+    - Microsoft 365
 ---
 
 Today was the first day of the spring edition of Microsoft Ignite, the primary conference for Microsoft IT professionals. The first day always includes a lot of news for upcoming features which tend to get dumped all at once the same time as the opening keynote. After reviewing several of these news blogs and watching video sessions most of the day, here are the features which stand out to me. I will not cover nearly everything, but provided some links for more details.

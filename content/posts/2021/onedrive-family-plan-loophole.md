@@ -1,10 +1,10 @@
 ---
 title: "OneDrive: the Family Plan Loophole"
+description: "Are you trying to optimize cloud storage in OneDrive? A family plan loophole can help."
 date: "2021-04-14T07:35:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - Microsoft 365
 ---
 
 When you get a Microsoft 365 Home plan, you get 1TB of OneDrive storage per user. That’s a good amount of storage, but you might want more. For example, I have a lot of photos going back almost 20 years. Tens of thousands of photos. A significant subset of those also have copies of the original RAW file taken from the DSLR, which are much larger. 1TB is a lot, but it’s reasonable that even for typical consumer purposes you might hit your limit.

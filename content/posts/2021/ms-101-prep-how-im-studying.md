@@ -1,9 +1,10 @@
 ---
-title: "MS-101 Prep: How I&#8217;m Studying"
+title: "MS-101 Prep: How I'm Studying"
+description: "A brief overview of the tools used for studying for the MS-101"
 date: "2021-02-25T10:30:56-05:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
+  - Microsoft 365
   - MS-101
 ---
 
