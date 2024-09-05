@@ -4,8 +4,8 @@ date: 2024-02-21T14:31:00-04:00
 author: Ryan Robinson
 category: Websites
 tags:
-  - posts
   - Visual Studio Code
+  - Drupal
 ---
 
 When it comes to my VS Code extensions, I have mine set up a few different ways depending on what kind of project I'm working on:

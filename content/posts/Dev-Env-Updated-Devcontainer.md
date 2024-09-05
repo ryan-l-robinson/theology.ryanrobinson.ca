@@ -1,10 +1,10 @@
 ---
 title: "Drupal Dev Environment Updated: The DevContainer"
+description: "An updated version of the devcontainer for a Drupal dev environment."
 date: 2024-04-08T15:46:00.000Z
 author: Ryan Robinson
 category: Websites
 tags:
-  - posts
   - Drupal Docker
 ---
 

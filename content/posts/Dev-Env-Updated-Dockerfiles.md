@@ -1,10 +1,10 @@
 ---
 title: "Drupal Dev Environment Updated: The Dockerfiles"
+description: "An updated version of the Dockerfiles for a Drupal dev environment."
 date: 2024-03-25T00:16:00.000Z
 author: Ryan Robinson
 category: Websites
 tags:
-  - posts
   - Drupal Docker
 ---
 
