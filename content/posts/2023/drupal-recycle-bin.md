@@ -2,9 +2,8 @@
 title: "Drupal: Recycle Bin"
 date: 2023-03-01T18:46:00-05:00
 author: Ryan Robinson
-category: Websites
 tags:
-  - posts
+  - Drupal
 ---
 
 Drupal does not come with any kind of recycle bin / trash system out of the box, unlike the other technologies I have worked with most (WordPress, SharePoint). There were a few modules available at the time I looked into this (admittedly over a year ago now), but they were all rough, either old or barely developed. None were reliable enough to count on. In this post I’ll describe a simple halfway approach that did not require any extra code.

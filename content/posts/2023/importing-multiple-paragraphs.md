@@ -2,9 +2,8 @@
 title: "Drupal: Importing Multiple Paragraphs"
 date: 2023-01-04T16:46:00.000Z
 author: Ryan Robinson
-category: Websites
 tags:
-  - posts
+  - Drupal
 ---
 
 A few months ago I was part of migrating content from an old Drupal 7 website to a new Drupal 9 website. Much about the data structures were similar, but some components were not. The biggest one was a field on the old site using field collections while the new site needed the newer [paragraphs](https://www.drupal.org/project/paragraphs) module instead. Each field collection/paragraph contains two fields, one for a title and one for a longer description. That already gives us one complication in a migration strategy, because those (collection or paragraph) are separate entities which are linked to the main node, so it is a bit harder to create those and link them in one smooth import.

@@ -2,9 +2,8 @@
 title: 'Drupal: Paragraphs Sidebar'
 date: '2023-03-29T17:46:00-05:00'
 author: 'Ryan Robinson'
-category: Websites
 tags:
-  - posts
+  - Drupal
 ---
 
 Suppose you want to be able to specify a contact person for most nodes of content on a site, which will then show up in the sidebar with a label and some information about the contact person. Each node could have zero contacts, could have one contact, or could have several contacts.

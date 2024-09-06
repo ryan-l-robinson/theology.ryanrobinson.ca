@@ -2,9 +2,8 @@
 title: "Drupal: OpenAI Module"
 date: 2023-05-03T18:46:00-05:00
 author: Ryan Robinson
-category: Websites
 tags:
-  - posts
+  - Drupal
 ---
 
 AI, or more specifically large language models (LMMs) are all the rage these days, so it shouldn't come as too much of a surprise that there is now [a Drupal module that integrates OpenAI](https://www.drupal.org/project/openai).

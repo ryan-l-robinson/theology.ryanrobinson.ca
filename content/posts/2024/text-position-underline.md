@@ -2,9 +2,8 @@
 title: Text Underline Position
 date: 2024-02-21T15:22:00.000Z
 author: Ryan Robinson
-category: Websites
 tags:
-  - posts
+  - CSS
   - Accessibility
 ---
 

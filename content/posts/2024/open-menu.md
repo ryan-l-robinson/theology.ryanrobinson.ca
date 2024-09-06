@@ -2,9 +2,8 @@
 title: "Drupal: Open Menu"
 date: 2024-02-21T17:44:00-05:00
 author: Ryan Robinson
-category: Websites
 tags:
-  - posts
+  - Drupal
   - Accessibility
 ---
 

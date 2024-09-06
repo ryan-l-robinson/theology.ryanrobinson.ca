@@ -2,9 +2,8 @@
 title: Dark Content Mode
 date: 2024-02-21T21:46:00.000Z
 author: Ryan Robinson
-category: Websites
 tags:
-  - posts
+  - CSS
   - Accessibility
 ---
 

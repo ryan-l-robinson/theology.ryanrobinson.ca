@@ -2,9 +2,8 @@
 title: "Drupal: Include Default View in Module"
 date: 2023-02-23T22:46:00.000Z
 author: Ryan Robinson
-category: Websites
 tags:
-  - posts
+  - Drupal
   - PHP
 ---
 

@@ -4,7 +4,7 @@ date: 2023-07-09T14:12:00-05:00
 author: Ryan Robinson
 category: Websites
 tags:
-  - posts
+  - Drupal
 ---
 
 Suppose you want to tie in another private git package, such as something that is not listed on the Drupal directory - as part of your standard build process. Here are two approaches to do that:

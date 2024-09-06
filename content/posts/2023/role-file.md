@@ -2,9 +2,8 @@
 title: "Drupal: Add Role Based on File"
 date: 2023-08-07T17:46:00.000Z
 author: Ryan Robinson
-category: Websites
 tags:
-  - posts
+  - Drupal
 ---
 
 A while ago I wrote about, and shared sample code for, adding a role to a user when they log in if their name appears in a file on the server. That was a Drupal 7 sample.

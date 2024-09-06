@@ -2,9 +2,7 @@
 title: "A11yTalks: Cognitive Ease"
 date: 2023-01-14T13:46:00-05:00
 author: Ryan Robinson
-category: Websites
 tags:
-  - posts
   - Accessibility
 ---
 

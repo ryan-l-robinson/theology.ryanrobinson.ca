@@ -2,9 +2,7 @@
 title: Mastodon Apps on Android
 date: 2023-02-21T08:18:09-05:00
 author: Ryan Robinson
-category: General Tech Tools
 tags:
-  - posts
   - Mastodon
 ---
 

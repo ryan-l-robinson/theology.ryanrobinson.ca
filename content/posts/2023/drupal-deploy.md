@@ -2,9 +2,8 @@
 title: "GitLab DevOps: Drupal Deployment"
 date: 2023-01-02T15:47:05.000Z
 author: Ryan Robinson
-category: Websites
 tags:
-  - posts
+  - Drupal
   - GitLab
   - GitLab DevOps
   - PHP
