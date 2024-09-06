@@ -4,6 +4,7 @@ date: 2022-02-09T14:03:00.000Z
 author: Ryan Robinson
 tags:
   - Git, GitLab, and GitHub
+  - DevOps
   - GitLab DevOps
 ---
 

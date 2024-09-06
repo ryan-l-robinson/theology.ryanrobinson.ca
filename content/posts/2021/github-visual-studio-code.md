@@ -26,7 +26,7 @@ That’s it. It’s a pretty intuitive process even if you are brand new to GitH
 
 Once it’s set up, you get a few useful features:
 
-## Visual cues
+## Visual Cues
 
 The most valuable component to me is the visual cues of changes. It’s like having a constant diff between your current version and the last commit. If you add a line, that line will be marked green in the sidebar. If you change a line, that line will be marked blue in the sidebar. If you delete a line, there will be a little red arrow where it was.
 
@@ -35,7 +35,7 @@ Clicking on the area of those colour indicators will pop up a full diff of the c
 ![Blue bar on side indicates changed lines, and the diff is shown below](/assets/img/2021/04/VSCode-GitDiff.png)
 _Demo of an altered line, after clicking on the blue bar to see the diff_
 
-## Commit and push
+## Commit and Push
 
 Your standard git workflow actions can all be done from the Source Control section in the sidebar. It will show you everything that has changed since the last commit, with options to open the file, discard changes, or stage the file for the next commit. Above the file list you can enter your commit message and hit the checkmark to commit. Other actions like pushing and pulling are tucked away in the ellipses overflow menu.
 

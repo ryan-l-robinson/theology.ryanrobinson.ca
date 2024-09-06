@@ -8,9 +8,9 @@ tags:
 
 I've now broken down some of what I've learned about different virtualization/containerization options:
 
-- [Vagrant](/tags/vagrant)
-- [Docker](/tags/docker/)
-- [GitPod](/tags/gitpod/)
+- Vagrant
+- Docker
+- GitPod
 
 I also learned that each of these options have some pro's and con's attached to consider.
 
