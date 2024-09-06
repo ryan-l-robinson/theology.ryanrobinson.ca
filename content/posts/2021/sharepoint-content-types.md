@@ -2,9 +2,8 @@
 title: "SharePoint: Content Types"
 date: "2021-05-24T16:22:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - Microsoft 365
 ---
 
 Content types are one of those features of SharePoint where you can be using SharePoint for years and never notice is there. They often aren’t an absolute necessity. But they do make some things much easier. The average user may not need to be familiar with them, but administrators should be.

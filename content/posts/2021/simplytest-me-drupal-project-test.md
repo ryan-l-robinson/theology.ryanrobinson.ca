@@ -2,9 +2,8 @@
 title: 'SimplyTest.Me: Drupal Project Test'
 date: '2021-09-10T09:14:00-04:00'
 author: 'Ryan Robinson'
-category: Websites
 tags:
-  - posts
+  - Drupal
 ---
 
 Have you ever wanted to test out a Drupal module without actually installing it on your site? [SimplyTest.Me](https://simplytest.me/#) is the answer. All you have to do is pick a module or theme, including a specific version, that you want to test and it will generate a sandbox site for you to check it out. It’s fairly comprehensive and spins up the sandbox within a few minutes.

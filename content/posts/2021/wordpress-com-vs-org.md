@@ -2,9 +2,8 @@
 title: "WordPress: .com vs .org"
 date: "2021-03-16T11:22:00-04:00"
 author: "Ryan Robinson"
-category: Websites
 tags:
-  - posts
+  - WordPress
 ---
 
 For years I’ve built most of my sites using the open source WordPress platform, i.e. WordPress.org. I recently decided to try the free offering of WordPress.com instead.

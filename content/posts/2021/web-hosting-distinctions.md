@@ -2,9 +2,6 @@
 title: "Web Hosting Distinctions"
 date: "2021-07-08T14:15:00-04:00"
 author: "Ryan Robinson"
-category: Websites
-tags:
-  - posts
 ---
 
 There’s a confusing thing that has come up with several clients who don’t know all the intricacies of website work (completely understandably; that’s why they pay me). When we talk about hosting services around website work, there are a few different things we could be referring to: the domain, the DNS, the website content, and email. To make it more confusing, sometimes all of them are with the same provider and other times they’ve divided up in different combinations.

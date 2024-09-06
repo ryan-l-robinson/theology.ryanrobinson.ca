@@ -2,9 +2,8 @@
 title: "SMTP Through a Google Account"
 date: "2021-04-28T15:55:00-04:00"
 author: "Ryan Robinson"
-category: Websites
 tags:
-  - posts
+  - CRM
 ---
 
 Many applications like business scanners or hosted CRM systems come with features that send email. To do so, it has to be able to connect to an email account that it sends on behalf of. The main challenge is that most good modern email services are strict about allowing emails to be sent on their behalf. Microsoft 365 is particularly strict. Google is a bit easier, but does require an extra step which is not obvious.

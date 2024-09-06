@@ -2,9 +2,8 @@
 title: "Power Automate: Temporary Site Scripts and Designs"
 date: "2021-05-28T07:00:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - "Microsoft 365"
   - "SharePoint Site Provisioning"
 ---
 This post continues a series on [SharePoint site provisioning](/tags/sharepoint-site-provisioning/), unpacking some of the problems I’ve faced and overcome in building SharePoint site provisioning solutions.

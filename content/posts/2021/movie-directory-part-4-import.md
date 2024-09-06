@@ -2,9 +2,8 @@
 title: "Movie Directory Part 4: Import"
 date: "2021-07-01T11:03:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - "Microsoft 365"
   - "Movie Directory"
 ---
 

@@ -2,9 +2,8 @@
 title: "The Time I Recommended Yammer"
 date: "2021-06-07T07:38:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - Microsoft 365
 ---
 
 Yammer is often the forgotten piece of Microsoft 365. Some people would even argue that Microsoft has largely forgotten about it. It’s an enterprise social network. It feels a lot like using Facebook, but it’s restricted to your organization.

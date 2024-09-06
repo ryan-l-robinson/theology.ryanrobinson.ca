@@ -2,9 +2,8 @@
 title: "Movie Directory Part 3: View and Edit"
 date: "2021-06-29T07:05:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - "Microsoft 365"
   - "Movie Directory"
 ---
 

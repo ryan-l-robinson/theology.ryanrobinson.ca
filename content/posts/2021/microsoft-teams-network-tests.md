@@ -2,9 +2,8 @@
 title: "Microsoft Teams: Network Tests"
 date: "2021-08-05T08:19:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - "Microsoft 365"
   - MS-700
 ---
 

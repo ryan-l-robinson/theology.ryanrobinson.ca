@@ -2,9 +2,8 @@
 title: 'Microsoft Teams: Phone Numbers'
 date: '2021-08-19T02:58:00-04:00'
 author: 'Ryan Robinson'
-category: "Microsoft 365"
 tags:
-    - posts
+    - "Microsoft 365"
     - MS-700
 ---
 

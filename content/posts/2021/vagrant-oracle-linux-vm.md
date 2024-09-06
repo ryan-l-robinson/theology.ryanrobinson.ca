@@ -3,7 +3,7 @@ title: "Vagrant: Oracle Linux VM"
 date: 2021-11-10T21:34:00.000Z
 author: Ryan Robinson
 tags:
-    - GitHub
+    - Git, GitLab, and GitHub
     - GitLab DevOps
     - PHP
     - Linux

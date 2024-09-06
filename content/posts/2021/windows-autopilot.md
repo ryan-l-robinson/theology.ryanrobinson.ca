@@ -2,9 +2,8 @@
 title: "Microsoft Endpoint Manager: Windows Autopilot"
 date: "2021-05-19T16:08:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - Microsoft 365
   - MS-101
 ---
 

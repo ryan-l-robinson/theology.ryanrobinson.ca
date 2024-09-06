@@ -2,9 +2,8 @@
 title: "Power Automate: Create Site with SharePoint REST API"
 date: "2021-05-21T12:13:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - "Microsoft 365"
   - "SharePoint Site Provisioning"
 ---
 
