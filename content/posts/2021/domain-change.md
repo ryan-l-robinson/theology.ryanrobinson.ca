@@ -2,9 +2,6 @@
 title: 'Domain Change'
 date: '2021-09-19T15:46:56-04:00'
 author: 'Ryan Robinson'
-category: Websites
-tags:
-  - posts
 ---
 
 This site is now ryanrobinson.technology instead of alliterationapplications.com. I felt that it was more representative of what this site has evolved to become. It is a repository of my technology knowledge and experience. It isn’t just about the rare freelance work that I do under the Alliteration Applications banner. Many of the blog posts came from personal study, personal projects, and (generalized versions of) work done within a full-time job – not from Alliteration Applications at all.
