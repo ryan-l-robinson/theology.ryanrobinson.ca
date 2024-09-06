@@ -5,7 +5,7 @@ This is the technology blog of Ryan Robinson, built using Eleventy.
 ## TODO
 
 - Static pages About and Tools: fix images
-- Posts overall list: add pagination to view posts in blocks of 20 or so at a time instead of all at once.
+- Posts overall list: add pagination to view posts in blocks of 20 or so at a time instead of all at once, show tags.
 - Posts page: add a general posts page at /posts so that the URL is consistent, even if the page is the same as home.
 - Individual post display: show the description at the top, in a separately styled box, as a brief overview.
 - Posts by year: add a page for each year, filtering to that year.
