@@ -12,6 +12,7 @@ This is the technology blog of Ryan Robinson, built using Eleventy.
 - Sidebar: list of tags? list by year?
 - Posts: add descriptions to all posts, review tags, remove categories that aren't doing anything
 - Header: add a search box - there's probably an eleventy module for that?
+- Footer: add Bluesky icon
 - Different colour scheme for dark vs light mode
 - Remove the homepage message box. Keep the functionality in case I want to use that again, or cut it out entirely?
 - Clean up anything left over from the base theme that I didn't use
