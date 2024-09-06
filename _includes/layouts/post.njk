@@ -13,9 +13,9 @@ layout: layouts/base.njk
 	{%- endfor %}
 </div>
 
-{% if data.page.excerpt %}
+{% if page.excerpt %}
 	<p class="post-description">
-		{{ data.page.excerpt }}
+		{{ page.excerpt }}
 	</p>
 {% endif %}
 
