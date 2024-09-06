@@ -3,11 +3,9 @@ title: "GitLab DevOps: Local Workflows"
 date: 2022-06-27T01:54:15.000Z
 author: Ryan Robinson
 tags:
-    - Docker
     - GitLab
     - GitLab DevOps
     - GitPod
-    - Vagrant
     - Visual Studio Code
 ---
 

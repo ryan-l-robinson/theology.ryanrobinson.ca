@@ -4,7 +4,6 @@ date: 2022-03-18T12:38:00.000Z
 author: Ryan Robinson
 tags:
   - Drupal
-  - Docker
   - Drupal Docker
   - GitPod
   - PHP

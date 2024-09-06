@@ -2,10 +2,8 @@
 title: "HTwoO in SharePoint Framework"
 date: "2021-06-04T13:48:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
-  - "SharePoint Framework"
+  - Microsoft 365
 ---
 
 I recently learned about a new framework for a fully HTML and CSS implementation of Microsoft’s Fluent Design system. This can make your life a lot easier when designing web apps that stick to that design. I haven’t tried it out yet – I’m hoping to get a full SharePoint Framework experiment together soon – but it looks very promising.
