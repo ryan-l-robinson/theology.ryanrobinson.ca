@@ -7,10 +7,14 @@ layout: layouts/base.njk
 
 <div class="post-metadata">
 	<p><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate("LLLL d, yyyy") }}</time></p>
-	{%- for tag in tags | filterTagList %}
-	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<p>Tags: <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</p>
-	{%- endfor %}
+	{% if tags %}
+		<p>Tags: 
+		{%- for tag in tags | filterTagList %}
+		{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+		<a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}
+		{%- endfor %}
+		</p>
+	{% endif %}
 </div>
 
 {# This doesn't work yet. Trying to add the description here. #}
