@@ -2,9 +2,7 @@
 title: GitHub Copilot
 date: 2021-10-23T01:37:15.000Z
 author: Ryan Robinson
-category: Websites
 tags:
-    - posts
     - GitHub
     - PHP
     - Visual Studio Code

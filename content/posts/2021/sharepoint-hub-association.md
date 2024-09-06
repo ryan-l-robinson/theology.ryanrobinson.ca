@@ -2,9 +2,8 @@
 title: "SharePoint: Hub to Hub Association"
 date: 2021-12-16T12:15:00.000Z
 author: Ryan Robinson
-category: Microsoft 365
 tags:
-  - posts
+  - Microsoft 365
 ---
 
 A long-awaited feature has arrived in SharePoint: [the ability to associate one hub site with another hub site](https://docs.microsoft.com/en-gb/SharePoint/hub-to-hub-association). Over a year ago I saw references to a PowerShell cmdlet to do this in the official documentation pages, but with a note that it was in limited preview so most of us wouldn’t be able to do it yet. Now it has finally rolled out to general availability.

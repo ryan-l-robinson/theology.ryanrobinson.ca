@@ -2,9 +2,7 @@
 title: "Android: Email Apps"
 date: 2021-11-12T13:18:09.000Z
 author: Ryan Robinson
-category: General Tech Tools
 tags:
-    - posts
     - Security
 ---
 

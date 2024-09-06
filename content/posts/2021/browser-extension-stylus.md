@@ -2,9 +2,8 @@
 title: 'Browser Extension: Stylus'
 date: '2021-09-21T11:33:00-04:00'
 author: 'Ryan Robinson'
-category: Websites
 tags:
-  - posts
+  - Accessibility
 ---
 
 The [stylus extension](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) is a new addition to my browser ([Edge](/web-browser-microsoft-edge-vs-chrome/), available for all Chromium browsers). The core idea: it allows for changing stylesheets on websites while you browse without actually changing the server.

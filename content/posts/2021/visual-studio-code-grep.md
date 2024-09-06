@@ -2,10 +2,9 @@
 title: "Visual Studio Code: Grep"
 date: 2021-10-04T14:14:00.000Z
 author: Ryan Robinson
-category: Websites
 tags:
-    - posts
     - Visual Studio Code
+    - Linux
 ---
 
 This is a quick post about a feature I discovered by accident in Visual Studio Code that I really like:

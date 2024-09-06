@@ -2,9 +2,9 @@
 title: 'Microsoft 365: Tools for Recognizing Sensitive Data'
 date: '2021-09-27T07:46:00-04:00'
 author: 'Ryan Robinson'
-category: 'Microsoft 365'
 tags:
-  - posts
+  - Microsoft 365
+  - Security
 ---
 
 There are a handful of tools in Microsoft 365 to help you with information protection. Which one is the best option will depend on the scenario you will need to use it for. Once you’ve identified sensitive data using one of these tools, you can use it apply compliance rules like blocking sharing outside the organization or retaining for a certain number of years.

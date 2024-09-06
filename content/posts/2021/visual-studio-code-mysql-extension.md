@@ -2,9 +2,7 @@
 title: "Visual Studio Code: MySQL Extension"
 date: 2021-09-29T20:16:00.000Z
 author: Ryan Robinson
-category: Websites
 tags:
-    - posts
     - MySQL
     - Visual Studio Code
 ---

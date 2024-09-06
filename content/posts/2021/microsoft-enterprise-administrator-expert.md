@@ -2,9 +2,8 @@
 title: Microsoft Enterprise Administrator Expert
 date: 2021-11-21T22:25:43.000Z
 author: Ryan Robinson
-category: Microsoft 365
 tags:
-    - posts
+    - Microsoft 365
     - MS-101
     - MS-700
 ---

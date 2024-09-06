@@ -2,9 +2,7 @@
 title: "Vagrant: Oracle Linux VM"
 date: 2021-11-10T21:34:00.000Z
 author: Ryan Robinson
-category: Websites
 tags:
-    - posts
     - GitHub
     - GitLab DevOps
     - MySQL

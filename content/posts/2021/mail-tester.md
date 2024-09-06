@@ -2,9 +2,8 @@
 title: Mail Tester
 date: 2021-12-04T01:35:34.000Z
 author: Ryan Robinson
-category: Websites
 tags:
-  - posts
+  - CRM
 ---
 
 A common scenario with many web services like a CRM is sending mail and realizing that it is often going to the junk of recipients.

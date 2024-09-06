@@ -2,9 +2,7 @@
 title: "Windows 10: Hosts File"
 date: 2021-11-29T13:55:00.000Z
 author: Ryan Robinson
-category: Websites
 tags:
-    - posts
     - Visual Studio Code
 ---
 

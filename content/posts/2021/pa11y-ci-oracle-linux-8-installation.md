@@ -2,9 +2,9 @@
 title: "pa11y CI: Oracle Linux 8 Installation"
 date: 2021-12-13T19:17:00.000Z
 author: Ryan Robinson
-category: Websites
 tags:
-  - posts
+  - Accessibility
+  - Linux
 ---
 
 I’ve mentioned before that [pa11y](https://github.com/pa11y/pa11y-ci) is a great tool for accessibility testing, specifically in the context of [the koa11y desktop tool.](/websites/koa11y-accessibility-testing-tool/) In this post, I’ll run through installing pa11y-ci on an Oracle Linux 8 server.
