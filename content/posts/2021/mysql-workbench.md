@@ -2,10 +2,7 @@
 title: 'MySQL Workbench'
 date: '2021-09-15T01:17:00-04:00'
 author: 'Ryan Robinson'
-category: Websites
 tags:
-    - posts
-    - MySQL
     - 'Visual Studio Code'
 ---
 

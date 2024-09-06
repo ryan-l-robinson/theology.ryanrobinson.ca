@@ -6,9 +6,7 @@ tags:
   - Drupal
   - GitHub
   - GitLab
-  - GitPod
   - GitPod Drupal
-  - MySQL
   - Visual Studio Code
 ---
 
