@@ -4,6 +4,7 @@ date: 2022-05-26T19:31:19.000Z
 author: Ryan Robinson
 tags:
   - Drupal
+  - DevOps
 ---
 
 I have [previously covered syncing configuration across Drupal](/websites/drupal/drupal-sync-configuration/). But configuration is not everything in the database. The other half of the picture is the content: nodes, custom blocks, menu items, files, etc. 

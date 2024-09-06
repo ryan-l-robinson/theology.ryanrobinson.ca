@@ -3,8 +3,8 @@ title: "GitHub Pages: Building a Jekyll Site"
 date: 2022-05-05T11:39:18.000Z
 author: Ryan Robinson
 tags:
-    - GitHub Pages
-    - GitHub
+    - Git, GitLab, and GitHub
+    - Static Sites
 ---
 
 I recently decided that I wanted to try out hosting this site on GitHub Pages instead of WordPress that I had been using for over a decade. The reason why is simple: it’s [free as in cats](/websites/civicrm/free-as-in-cats/) and it’s easier to maintain after the initial work of setting it up, with no regular maintenance required.

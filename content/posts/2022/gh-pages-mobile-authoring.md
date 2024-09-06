@@ -4,8 +4,8 @@ date: 2022-05-16T02:47:58.000Z
 author: Ryan Robinson
 category: Websites
 tags:
-    - GitHub Pages
-    - GitHub
+    - Static Sites
+    - Git, GitLab, and GitHub
 ---
 
 [I’ve recently switched from hosting these tech posts on a WordPress site running on a shared host I pay a small fee for, over to GitHub Pages for free](/websites/github-pages/building-site/). It’s a great system and might be all you need if you’re a developer wanting to write and publish some content quickly.

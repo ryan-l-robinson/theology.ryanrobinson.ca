@@ -4,8 +4,7 @@ date: 2022-03-10T01:00:00.000Z
 author: Ryan Robinson
 category: Websites
 tags:
-  - GitHub
-  - GitLab
+  - Git, GitLab, and GitHub
 ---
 
 GitHub recently announced [a great new feature that allows for generating diagrams within markdown](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/). I tested this out and it also works in GitLab.

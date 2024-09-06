@@ -4,7 +4,6 @@ date: 2022-07-03T01:43:09.000Z
 author: Ryan Robinson
 tags:
   - DevOps
-  - GitPod
 ---
 
 I've now broken down some of what I've learned about different virtualization/containerization options:

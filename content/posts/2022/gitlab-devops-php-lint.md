@@ -2,10 +2,8 @@
 title: "GitLab DevOps: PHP Lint"
 date: 2022-02-05T13:51:00.000Z
 author: Ryan Robinson
-category: Websites
 tags:
-  - GitHub
-  - GitLab
+  - Git, GitLab, and GitHug
   - DevOps
   - PHP
 ---

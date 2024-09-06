@@ -2,6 +2,8 @@
 title: On Algorithms and Section 230
 date: 2023-02-26T08:18:09-05:00
 author: Ryan Robinson
+tags:
+    - Tech and Society
 ---
 
 

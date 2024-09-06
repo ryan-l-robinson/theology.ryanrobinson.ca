@@ -2,6 +2,8 @@
 title: Twitter, Mastodon, and CounterSocial
 date: 2022-11-21T13:18:09.000Z
 author: Ryan Robinson
+tags:
+    - Tech and Society
 ---
 
 If you're on this site, you're probably aware enough of the chaos around Twitter. I started to write a post about **why** I was leaving Twitter, narrowing in on the various terrible management practices (printing off code, firing based on lines committed, losing entire security teams, etc.) at the time when everybody was focussed on the verification disaster. Then all the stuff I was worried about completely exploded so now everybody is well aware of that, too, and it is likely a matter of days to weeks before Twitter completely fails. So there didn't seem to be much point there.

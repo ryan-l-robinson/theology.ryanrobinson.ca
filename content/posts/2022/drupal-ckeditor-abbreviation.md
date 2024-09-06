@@ -6,7 +6,6 @@ category: Websites
 tags:
   - Drupal
   - Accessibility
-  - HTML
 ---
 
 One of the HTML tags that many are not aware of is [the <abbr> tag](https://www.w3schools.com/TAGS/tag_abbr.asp). This is a useful tag to help provide explanations of abbreviations within the body of the text. If you’re reading along and see an abbreviation for <abbr title="WordPress">WP</abbr> and you know what it is, you can keep reading. If you’re reading along and see an abbreviation and don’t know what it is, you can hover over it and it will show you an explanation. It’s a win-win, providing an explanation for those that need it without needing to add more text in the main body which may come across as over-explaining for those that don’t need it.

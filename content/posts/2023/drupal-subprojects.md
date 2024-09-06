@@ -5,6 +5,7 @@ author: Ryan Robinson
 category: Websites
 tags:
   - Drupal
+  - Git, GitLab, and GitHub
 ---
 
 Suppose you want to tie in another private git package, such as something that is not listed on the Drupal directory - as part of your standard build process. Here are two approaches to do that:

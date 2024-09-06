@@ -4,8 +4,8 @@ date: 2022-01-28T13:17:00.000Z
 author: Ryan Robinson
 tags:
   - Drupal
-  - GitHub
-  - GitLab
+  - Git, GitLab, and GitHub
+  - DevOps
   - GitPod Drupal
   - Visual Studio Code
 ---

@@ -4,7 +4,7 @@ date: 2022-05-10T15:22:00.000Z
 author: Ryan Robinson
 tags:
   - WordPress
-  - GitHub Pages
+  - Static Sites
 ---
 
 I recently switched from running this blog off a WordPress site to running it off a GitHub Pages site built on a Jekyll theme. Here's a few thoughts on the pro's and con's of each.

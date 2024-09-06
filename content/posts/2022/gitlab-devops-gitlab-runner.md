@@ -3,7 +3,7 @@ title: "GitLab DevOps: GitLab Runner"
 date: 2022-02-09T14:03:00.000Z
 author: Ryan Robinson
 tags:
-  - GitLab
+  - Git, GitLab, and GitHub
   - GitLab DevOps
 ---
 

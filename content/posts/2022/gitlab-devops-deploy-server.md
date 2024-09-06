@@ -3,7 +3,7 @@ title: "GitLab DevOps: Deploy to Server"
 date: 2022-12-30T20:45:05.000Z
 author: Ryan Robinson
 tags:
-  - GitLab
+  - Git, GitLab, and GitHub
   - GitLab DevOps
   - PHP
 ---

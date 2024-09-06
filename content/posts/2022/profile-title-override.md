@@ -4,6 +4,7 @@ date: 2022-07-11T01:46:00.000Z
 author: Ryan Robinson
 tags:
   - Drupal
+  - PHP
 ---
 
 The profile module is a nice tool to have on a Drupal site if you're looking to create public-facing profiles about your users (e.g. staff). But it has a few weak spots including being unable to change the URL alias - it can only be /profile/id - or the page's title which shows up as [Profile Name] #[id], e.g. "Staff Profile #1". That's not very helpful. There are two places that the profile title needs to be overridden: what appears in the main body of the page and the title tag for the page which you'll see in your browser address bar. In my case I wanted to show the first name and last name instead, so I started by creating those fields on the profile as standard text fields.
