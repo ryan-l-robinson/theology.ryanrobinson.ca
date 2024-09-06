@@ -3,7 +3,7 @@ title: GitHub Copilot
 date: 2021-10-23T01:37:15.000Z
 author: Ryan Robinson
 tags:
-    - GitHub
+    - Git, GitLab, and GitHub
     - PHP
     - Visual Studio Code
 ---
