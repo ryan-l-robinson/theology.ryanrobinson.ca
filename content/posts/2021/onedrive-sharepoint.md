@@ -2,9 +2,8 @@
 title: "OneDrive vs SharePoint"
 date: "2021-04-21T02:59:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - Microsoft 365
 ---
 
 The first question that typically comes up when moving files to Microsoft 365 is this: what’s the difference between OneDrive and SharePoint? Which files should I put where?

@@ -2,9 +2,6 @@
 title: "Web Browser: Microsoft Edge vs Chrome"
 date: "2021-04-19T12:50:00-04:00"
 author: "Ryan Robinson"
-category: "General Tech Tools"
-tags:
-  - posts
 ---
 
 It should come as no surprise that my web browser of choice is Microsoft Edge, given Microsoft’s offering is my choice in almost everything (except Microsoft News which I don’t like at all).
