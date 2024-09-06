@@ -5,7 +5,6 @@ author: Ryan Robinson
 tags:
     - GitHub
     - GitLab DevOps
-    - MySQL
     - PHP
     - Linux
 ---
