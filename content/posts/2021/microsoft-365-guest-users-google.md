@@ -2,9 +2,8 @@
 title: "Azure AD: Guest Users from Google"
 date: "2021-05-06T07:29:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - "Microsoft 365"
 ---
 
 Most users of Microsoft 365 have encountered the idea of guest users at some point. If you want to share company resources to somebody outside the company, you can do that. By default this works with the guest able to sign in with a business Microsoft account (Office) or a consumer Microsoft account (MSA).

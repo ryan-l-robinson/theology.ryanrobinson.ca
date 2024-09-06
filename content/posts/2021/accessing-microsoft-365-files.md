@@ -4,7 +4,6 @@ date: "2021-04-22T21:22:00-04:00"
 author: "Ryan Robinson"
 tags:
   - Microsoft 365
-  - Microsoft Teams
 ---
 
 Suppose you’ve now set up all of your files for your organization in [the ideal way, with some in individual user OneDrives and others in group SharePoint sites](/microsoft-365/onedrive-vs-sharepoint/). The natural follow-up question is: now how do I access those files within my workflow?

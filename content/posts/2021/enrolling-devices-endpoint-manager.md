@@ -2,9 +2,8 @@
 title: "Microsoft Endpoint Manager: Enrolling Devices"
 date: "2021-05-12T04:11:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - "Microsoft 365"
   - MS-101
 ---
 

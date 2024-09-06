@@ -4,7 +4,6 @@ date: 2021-12-08T16:48:00.000Z
 author: Ryan Robinson
 tags:
   - Microsoft 365
-  - Microsoft Teams
 ---
 
 I recently was asked whether it is possible to search in Microsoft Teams for a file but only within a specific site. The short answer is yes, but that’s not the default search behaviour. When you use the search bar in Teams, it will default to all types of results across all Teams you are a member of. But then you can filter from there. This is significantly improved by [some recent changes](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-and-improved-search-results-experience-on-microsoft-teams/ba-p/3035064).

@@ -2,9 +2,8 @@
 title: "Microsoft Endpoint Manager: Device Compliance Policies"
 date: "2021-05-31T11:16:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-    - posts
+    - "Microsoft 365"
     - MS-101
 ---
 

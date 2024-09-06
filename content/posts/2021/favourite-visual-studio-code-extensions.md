@@ -2,9 +2,10 @@
 title: 'Visual Studio Code: Favourite Extensions'
 date: '2021-09-06T21:13:00-04:00'
 author: 'Ryan Robinson'
-category: Websites
 tags:
-    - posts
+    - WordPress
+    - Drupal
+    - Git, GitLab, and GitHub
     - 'Visual Studio Code'
 ---
 

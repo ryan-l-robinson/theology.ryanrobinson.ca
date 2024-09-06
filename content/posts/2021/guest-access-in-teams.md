@@ -2,9 +2,8 @@
 title: "Microsoft Teams: Guest Access"
 date: "2021-08-13T08:31:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - "Microsoft 365"
   - MS-700
 ---
 

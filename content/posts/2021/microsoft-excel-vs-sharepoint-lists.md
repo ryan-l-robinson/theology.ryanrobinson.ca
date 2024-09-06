@@ -2,9 +2,8 @@
 title: "Microsoft Excel vs SharePoint Lists"
 date: "2021-06-23T14:50:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - "Microsoft 365"
 ---
 
 I’ve been asked the question before: when should I use Microsoft Excel and when should I use SharePoint lists? At first I didn’t have a great answer, but I thought about it, looked into it a bit more, and this is what I settled on:

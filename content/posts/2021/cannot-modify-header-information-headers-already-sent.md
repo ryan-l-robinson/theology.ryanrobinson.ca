@@ -2,9 +2,8 @@
 title: "Cannot Modify Header Information: Headers Already Sent"
 date: "2021-05-14T10:34:00-04:00"
 author: "Ryan Robinson"
-category: Websites
 tags:
-  - posts
+  - WordPress
 ---
 
 Recently I loaded up a client website to do some standard WordPress. The public site was fine, but when I tried to login to the admin, I got the dreaded White Screen of Death. For those unfamiliar, this is a blank white screen, with no error visible to help diagnose the problem.

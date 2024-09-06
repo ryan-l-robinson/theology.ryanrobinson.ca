@@ -2,9 +2,8 @@
 title: "Microsoft Teams: Favourite Hidden Features"
 date: "2021-07-21T08:24:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - "Microsoft 365"
 ---
 
 Microsoft Teams is a very big program, essentially combining together equivalent functionality to Skype, Slack, Zoom, Google Drive, VOIP phone systems, and a few more all into one… plus the ability to develop your own apps for it. New features keep coming at a rapid pace. That makes it easy to miss some of the helpful little things that Teams offers. I’ll have more posts soon about organization admin settings and policies for Teams, but here are a few of my favourite tricks that most typical users can take advantage of in their own workflows but may not be obvious.

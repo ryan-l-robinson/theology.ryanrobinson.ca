@@ -2,9 +2,8 @@
 title: "Google vs Microsoft Personal and Business Accounts"
 date: "2021-07-05T10:05:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - "Microsoft 365"
 ---
 
 I recently started doing an email migration into Google Workspace. As I was creating the users, I encountered a wrinkle: one of the email addresses already had a personal Google account associated with it. Google gave me two options:

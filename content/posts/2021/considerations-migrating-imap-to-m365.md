@@ -2,9 +2,8 @@
 title: "Considerations Migrating IMAP to M365"
 date: "2021-06-16T09:46:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
-  - posts
+  - "Microsoft 365"
 ---
 
 Email migrations are one of those tasks you won’t have to do often, but you’ll really want to make sure you’re doing it correctly when it does need to happen. As much as collaboration tools like Microsoft Teams and Slack have taken over a lot of communication, email is still a central component of many organizations.

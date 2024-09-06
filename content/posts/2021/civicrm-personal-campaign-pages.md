@@ -2,9 +2,8 @@
 title: "CiviCRM: Personal Campaign Pages"
 date: "2021-06-21T10:28:00-04:00"
 author: "Ryan Robinson"
-category: Websites
 tags:
-  - posts
+  - CRM
   - PHP
 ---
 

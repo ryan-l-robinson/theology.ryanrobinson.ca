@@ -4,7 +4,6 @@ date: 2021-10-12T19:42:00.000Z
 author: Ryan Robinson
 tags:
   - Microsoft 365
-  - Microsoft Teams
 ---
 
 I recently gave a presentation introducing some key concepts and answering questions around Microsoft Teams. The context was for those who already have accounts and have used it throughout Covid-19. They didn’t need the day-to-day basics like how to start a meeting, but they needed a better understanding of how all the pieces fit together and when it is best to use what. It was not a full consultation process, but I did put out a call for questions a couple weeks in advance and received several that I made sure to integrate into the presentation.

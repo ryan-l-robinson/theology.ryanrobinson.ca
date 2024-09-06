@@ -2,8 +2,8 @@
 title: "Microsoft Cloud App Security"
 date: "2021-06-10T07:05:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
 tags:
+  - "Microsoft 365"
   - MS-101
   - Security
 ---
