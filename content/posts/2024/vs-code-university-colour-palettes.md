@@ -8,7 +8,7 @@ tags:
   - Visual Studio Code
 ---
 
-"I like using different VS Code colour combinations. I designed a few based on some university colour schemes."
+I like using different VS Code colour combinations. I designed a few based on some university colour schemes.
 
 -- excerpt --
 

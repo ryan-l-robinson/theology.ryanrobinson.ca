@@ -19,9 +19,9 @@ layout: layouts/base.njk
 
 {# This doesn't work yet. Trying to add the description here. #}
 {% if excerpt %}
-	<p class="post-description">
+	<div class="post-description">
 		{{ excerpt }}
-	</p>
+	</div>
 {% endif %}
 
 {{ content | safe }}
