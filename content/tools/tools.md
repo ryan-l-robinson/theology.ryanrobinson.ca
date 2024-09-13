@@ -6,6 +6,8 @@ eleventyNavigation:
   order: 3
 ---
 
+# Main Technical Tools
+
 Here are some of my favourite tools I make use of in my tech work:
 
 ## Text Editor
