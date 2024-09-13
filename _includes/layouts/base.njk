@@ -42,15 +42,7 @@
 				{{ content | safe }}
 			</div>
 			<div class="sidebar">
-				{# TODO: this doesn't work. Not clear it can even read what the series is on the current page. #}
-				<aside class="sidebar-block" aria-label="Posts in this series">
-					<h2>Posts in This Series</h2>
-					<ol class="series-list">
-					{% for post in collections.posts | postsWithMetadata("series", "GitPod Drupal") %}
-						<li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-					{% endfor %}
-					</ol>
-				</aside>
+				{% include "serieslist.njk" %}
 				<aside class="sidebar-block" aria-label="Tags for posts">
 					<h2>Posts by Tag</h2>
 					<ul class="tags-list">
