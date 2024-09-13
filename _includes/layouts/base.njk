@@ -17,6 +17,7 @@
 		{%- css %}{% include "public/css/header.css" %}{% endcss %}
 		{%- css %}{% include "public/css/main.css" %}{% endcss %}
 		{%- css %}{% include "public/css/footer.css" %}{% endcss %}
+		{%- css %}{% include "public/css/tagslist.css" %}{% endcss %}
 		<link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
 	</head>
 	<body>
@@ -41,6 +42,15 @@
 			<div class="container">
 				{{ content | safe }}
 			</div>
+			<aside class="sidebar">
+				<h2>Posts by Tag</h2>
+				<ul class="tags-list">
+				{% for tag in collections.all | getAllTags | filterTagList %}
+					{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+					<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a> ({{ collections[tag].length }})</li>
+				{% endfor %}
+				</ul>
+			</aside>
 		</main>
 
 		<footer>
