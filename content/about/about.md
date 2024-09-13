@@ -18,7 +18,7 @@ I completed a Bachelor of Computing Honours from Queen's University in Kingston,
 
 ### Microsoft 365 Certified: Enterprise Administrator Expert
 
-![Enterprise Administrator Expert badge](../../public/img/microsoft-365-certified-enterprise-administrator-expert.png "Enterprise Administrator badge")
+![Enterprise Administrator Expert badge](/img/microsoft-365-certified-enterprise-administrator-expert.png "Enterprise Administrator badge")
 _Exams MS-700, MS-100, and MS-101_
 
 ### Microsoft 365 Certified: Teams Administrator Associate
