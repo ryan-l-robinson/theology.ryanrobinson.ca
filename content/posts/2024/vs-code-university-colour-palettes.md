@@ -8,6 +8,10 @@ tags:
   - Visual Studio Code
 ---
 
+"I like using different VS Code colour combinations. I designed a few based on some university colour schemes."
+
+-- excerpt --
+
 I like changing colour palettes on my various workspaces. It’s especially nice when in situations like jumping between personal and work spaces of the same app, or multiple clients, or dev vs staging vs production servers. It's a great way to quickly adjust what I'm thinking about, e.g. if I'm seeing yellow or purple or red, it immediately slows me down to be a lot more careful about what I'm changing. 
 
 So, one of the things I’ve done is have different colour palettes in Visual Studio Code for different servers.
