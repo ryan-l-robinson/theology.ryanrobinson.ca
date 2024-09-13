@@ -80,7 +80,9 @@ module.exports = function(eleventyConfig) {
 	});
 
     eleventyConfig.addFilter("postsWithMetadata", function (posts, metadataKey, metadataValue) {
-        return posts.filter((post) => post.data[metadataKey] === metadataValue);
+        return posts
+			.filter((post) => post.data[metadataKey] === metadataValue)
+			.sort((a, b) => new Date(a.date) - new Date(b.date));
     });
 
 	// Customize Markdown library settings:
