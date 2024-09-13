@@ -39,9 +39,6 @@
 		</header>
 
 		<main id="skip">
-			<div class="main-content">
-				{{ content | safe }}
-			</div>
 			<aside class="sidebar">
 				<h2>Posts by Tag</h2>
 				<ul class="tags-list">
@@ -51,6 +48,9 @@
 				{% endfor %}
 				</ul>
 			</aside>
+			<div class="main-content">
+				{{ content | safe }}
+			</div>
 		</main>
 
 		<footer>
