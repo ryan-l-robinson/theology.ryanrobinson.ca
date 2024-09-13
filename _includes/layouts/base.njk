@@ -55,7 +55,7 @@
 				<aside class="sidebar-block" aria-label="Posts in this series">
 					<h2>Posts in This Series</h2>
 					<ol class="series-list">
-					{% for posts in collections.all | postsWithMetadata("series", page.data.series) %}
+					{% for posts in collections.posts | postsWithMetadata("series", page.data.series) %}
 						<li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
 					{% endfor %}
 					</ol>
