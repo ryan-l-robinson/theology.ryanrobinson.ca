@@ -8,6 +8,7 @@ tags:
   - DevOps
   - GitPod Drupal
   - Visual Studio Code
+series: GitPod Drupal
 ---
 
 This post picks up in a [mini-series](/tags/gitpod-drupal/) describing how I created a generic Drupal-friendly container working with [GitPod](https://gitpod.io). The [first covered the GitPod.Dockerfile](/drupal/gitpod-container-1-dockerfile/) to build the core LAMP stack image.
