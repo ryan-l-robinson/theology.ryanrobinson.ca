@@ -4,6 +4,7 @@ This is the technology blog of Ryan Robinson, built using Eleventy.
 
 ## TODO
 
+- Update to eleventy 3.0, now in beta
 - Static pages About and Tools: fix images
 - Add images used in posts
 - Posts overall list: add pagination to view posts in blocks of 20 or so at a time instead of all at once, show tags.
