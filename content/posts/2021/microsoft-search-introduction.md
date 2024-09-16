@@ -28,7 +28,7 @@ Do you use a lot of acronyms within your workplace? Not everybody will always kn
 
 Bookmarks allow you to specify other websites which are important for your users to be able to find. This is particularly helpful if the preferred search result is not at the top of the public rankings, so this way can make sure those answers stay at the top where users see them.
 
-## Floor plans
+## Floor Plans
 
 I haven’t done a proper test of floor plans yet, but they allow loading office floor plans. Then users can search for another person in the company and see where in the floor plan their office is located. This can be helpful in larger offices where you may need to visit somebody for the first time.
 

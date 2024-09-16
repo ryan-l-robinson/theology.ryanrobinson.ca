@@ -19,7 +19,7 @@ Auto-enrollment makes the process very simple. If you’ve set up automatic Mobi
 
 There are some other settings around this including whether they have to agree to a terms of use when they first sign in.
 
-## Device enrollment manager
+## Device Enrollment Manager
 
 If you prefer a more manual approach, you can designate specific staff (e.g. your IT team) as Device Enrollment Managers. Users with this permission can enroll up to 1000 devices each.
 

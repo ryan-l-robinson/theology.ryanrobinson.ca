@@ -8,7 +8,7 @@ tags:
   - Security
 ---
 
-[You’ve got your devices enrolled in Endpoint Manager](/microsoft-365/enrolling-devices-in-endpoint-manager/). Now what? This opens up lots of tools including configuration policies.
+[You’ve got your devices enrolled in Endpoint Manager](/posts/2021/enrolling-devices-endpoint-manager/). Now what? This opens up lots of tools including configuration policies.
 
 Configuration policies allow for quickly rolling out the desired configuration to the device, without the user having to manually set it up. This can include a lot of different settings and vary by the operating system of the device. Some of the more interesting tools for Windows 10 includes:
 

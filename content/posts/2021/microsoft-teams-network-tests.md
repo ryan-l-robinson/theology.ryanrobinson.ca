@@ -11,7 +11,7 @@ If you’re going to deploy Microsoft Teams in your business network, you’ll n
 
 Microsoft has offered a few tools to help with this preparation.
 
-## Required bandwidth
+## Required Bandwidth
 
 Here’s the guidance from Microsoft for speeds required to use Teams well:
 

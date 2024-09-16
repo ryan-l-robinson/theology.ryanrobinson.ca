@@ -18,7 +18,7 @@ Your first decision in setting up a phone system in Teams is between:
 - Calling plan: simplest solution, letting Microsoft handle everything
 - Direct routing: allows for more complexity and keeping a previous phone provider
 
-## Add phone numbers
+## Add Phone Numbers
 
 There are two basic options when you want to add phone numbers to your Teams deployment: add new numbers, or port existing numbers from a previous provider. You can do this from the [Teams Admin Centre](https://admin.teams.microsoft.com) -&gt; Voice -&gt; Phone Numbers.
 
@@ -31,10 +31,10 @@ Ordering numbers has a few types to choose from:
 
 Along with the type, you’ll need to specify a location – country and area code – as well as the quantity for how many you need.
 
-## Emergency addresses
+## Emergency Addresses
 
 Every phone number has to have an emergency address tied to it, so that if a user calls emergency services they can trace it back and find them. With Teams phone systems, you can and should have one emergency address configured for each of your office locations. When you are assigning the number, you then specify at which emergency location that person is working.
 
-## Dial plans
+## Dial Plans
 
 If you’ve worked in most large offices, you’ve probably encountered the use of something like “dial 9 for external numbers.” These kinds of scenarios are handled with dial plans. You can specify what digits (up to 4 digits) must be used to dial out to external numbers.

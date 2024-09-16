@@ -24,11 +24,11 @@ The Cloud app catalog will show all of the apps in Microsoft’s directory. Ther
 
 The Investigate section allows for checking in on reports for users, files, and activity across connected apps. You can set up connected apps in this section as well, so that apps like Office 365 report back to CAS.# PPoliciesThe policies section comes with several great policies by default. Familiarize yourself with these defaults before starting to create a new one, as there might already be something close to what you want that just needs a bit of tweaking. There’s a lot here, so I’ll run down the policy types quickly:
 
-- *Access:*  these require first having [conditional access policies](/microsoft-365/microsoft-conditional-access-policies/) configured. Then you can enforce access requirements logging in to other apps.
+- *Access:*  these require first having [conditional access policies](/posts/2021/microsoft-conditional-access-policies/) configured. Then you can enforce access requirements logging in to other apps.
 - *Activity:*  these monitor user activity within their apps, like logging in from a risky IP address or mass downloads (which could suggest something like a disgruntled employee grabbing as much as they can on the way out).
 - *App discovery:*  these policies help you respond when a new app is discovered to be in use in the organization.
 - *Cloud discovery anomaly detection:*  these help detect unusual behaviour like suddenly uploading a lot more data than in a normal workday.
-- *File:*  these help with detecting potential issues at a file level, such as using [a DLP engine](/microsoft-365/data-loss-prevention-dlp-policies/)  to notice when sensitive data is shared to a different app, or files shared to other domains.
+- *File:*  these help with detecting potential issues at a file level, such as using [a DLP engine](/posts/2021/data-loss-prevention-policies/)  to notice when sensitive data is shared to a different app, or files shared to other domains.
 - *Session:*  these provide real-time monitoring and control over what users are doing in cloud apps, while they’re signed in to that session. They also require conditional access policies.
 
 With each policy, you can set the severity level and whether you want to be alerted by email, text message, or start off a Flow in Power Automate to respond in other ways.

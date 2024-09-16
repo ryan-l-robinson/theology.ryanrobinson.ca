@@ -40,7 +40,3 @@ You create a tag. A tag can function as short-hand for multiple members within a
 
 ![](/assets/img/2021/07/Create-a-Tag.png)
 _Creating a tag called “Demo” with me as the only member_
-
-## How about you?
-
-Do you have any favourite hidden features in Teams I didn’t mention?

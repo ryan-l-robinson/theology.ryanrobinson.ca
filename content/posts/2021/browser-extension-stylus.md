@@ -6,7 +6,7 @@ tags:
   - Accessibility
 ---
 
-The [stylus extension](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) is a new addition to my browser ([Edge](/web-browser-microsoft-edge-vs-chrome/), available for all Chromium browsers). The core idea: it allows for changing stylesheets on websites while you browse without actually changing the server.
+The [stylus extension](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) is a new addition to my browser ([Edge](/posts/2021/web-browser-edge-chrome/), available for all Chromium browsers). The core idea: it allows for changing stylesheets on websites while you browse without actually changing the server.
 
 This might be because it’s a website you don’t own. Get really annoyed at the new Twitter font (I actually really like it)? Write your own stylesheet so that whenever you’re browsing you see something else.
 

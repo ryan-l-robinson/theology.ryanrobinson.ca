@@ -7,7 +7,7 @@ tags:
     - MS-101
 ---
 
-[Once you’ve got devices enrolled in Microsoft Endpoint Manager](/microsoft-365/enrolling-devices-in-endpoint-manager/), one of the very useful things you can apply are compliance policies. These provide you a way to monitor and enforce restrictions on devices which are not following the proper practices that you want in your organization.These compliance policies can be set up for devices of multiple operating systems:
+[Once you’ve got devices enrolled in Microsoft Endpoint Manager](/posts/2021/enrolling-devices-endpoint-manager/), one of the very useful things you can apply are compliance policies. These provide you a way to monitor and enforce restrictions on devices which are not following the proper practices that you want in your organization.These compliance policies can be set up for devices of multiple operating systems:
 
 - Android
 - iOS

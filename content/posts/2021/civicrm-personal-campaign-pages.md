@@ -9,7 +9,7 @@ tags:
 
 Have you ever taken part in a non-profit fundraising event where you get your own personal webpage that you can direct people to as a way for them to sponsor you directly in the event? Personally I am happy to participate in [the Coldest Night of the Year](https://cnoy.org/home) every year, which does have this type of system (not in CiviCRM).
 
-In the language of [CiviCRM](/crm/civicrm/civicrm-overview/), these are Personal Campaign Pages. While CiviCRM does offer this functionality, it has some major holes in it. Like a few areas of CiviCRM, it feels like somebody threw it together quickly and then mostly forgot about it. Consequently, I had a hard time ever recommending it as a good solution, even if a client was already heavily using CiviCRM happily. [Here’s the official documentation](https://docs.civicrm.org/user/en/latest/contributions/personal-campaign-pages/).
+In the language of [CiviCRM](/posts/2021/civicrm-overview/), these are Personal Campaign Pages. While CiviCRM does offer this functionality, it has some major holes in it. Like a few areas of CiviCRM, it feels like somebody threw it together quickly and then mostly forgot about it. Consequently, I had a hard time ever recommending it as a good solution, even if a client was already heavily using CiviCRM happily. [Here’s the official documentation](https://docs.civicrm.org/user/en/latest/contributions/personal-campaign-pages/).
 
 Here are the three biggest problems I found when trying to use this feature:
 

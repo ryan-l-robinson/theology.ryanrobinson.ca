@@ -17,7 +17,7 @@ A couple caveats before I begin getting technical:
 1. Teams is massive. One of the hard things with talking about Teams is that you can’t easily compare it to just one competitor. It’s a lot of tools rolled into one. And it’s just one part of Microsoft 365. We aren’t going to cover nearly everything that is possible in 45 minutes. I’m going to hopefully give enough of an introduction answering some key questions I’ve heard come up a few times.
 2. One of the other hard things talking about Teams is that Microsoft is kind of bad at branding. They use a lot of the same words repeatedly to refer to related but not exactly the same things. So you do get scenarios like having a Teams app on your device which has the Teams app in the sidebar which has multiple Teams in it and all of those Teams are associated with SharePoint Team sites. Don’t feel bad if somebody says a term and you don’t know what it means.
 
-## Big picture
+## Big Picture
 
 This is an older diagram that Microsoft has used in the past and I have held on to because I think it is a helpful explanation of the big picture. There are a lot of tools in Microsoft 365 that overlap, but this summarizes pretty well what the most important value is for the big communications pieces.
 
@@ -25,7 +25,7 @@ This is an older diagram that Microsoft has used in the past and I have held on 
 
 Your inner loop is Teams. This is where you’re going to spend the bulk of your conversations with the people that you work with the most, like your department.
 
-The outer loop is Yammer. It’s an enterprise social network. [Where it can be good is to have organization-wide conversations, especially more casual conversations.](/microsoft-365/the-time-i-recommended-yammer/) That’s as much as I’m going to talk about it today.
+The outer loop is Yammer. It’s an enterprise social network. [Where it can be good is to have organization-wide conversations, especially more casual conversations.](/posts/2021/recommended-yammer/) That’s as much as I’m going to talk about it today.
 
 Email is for targeted communications. It’s also ubiquitous. You’re going to need it sometimes, but if you’re talking to that inner loop, you might want to pause and consider whether it would work better in Teams or not before you send an email.
 
@@ -45,7 +45,7 @@ Settings: hidden in the little ellipses menu in the top right are settings. Team
 
 Profile: beside that is your profile photo. This is your Microsoft 365 profile. On the desktop and mobile apps, you can also add a personal Teams account. I won’t get into that, but it is also an option.
 
-Running down the main tab menu on the left, this is most often called the app sidebar or app bar. On desktop you can rearrange this menu by clicking and dragging an icon into a different position, but possibly with some limitations set by IT. If you can’t rearrange something, or you do but then it reverts back later, that’s because of [IT policy](/microsoft-365/microsoft-teams/microsoft-teams-app-policies-define-sidebar-for-most-users/).
+Running down the main tab menu on the left, this is most often called the app sidebar or app bar. On desktop you can rearrange this menu by clicking and dragging an icon into a different position, but possibly with some limitations set by IT. If you can’t rearrange something, or you do but then it reverts back later, that’s because of [IT policy](/microsoft-365/microsoft-teams/microsoft-teams-app-policies/).
 
 The Activity tab is essentially your notification hub. Anything that has sparked a notification across all your Teams will show up in the Activity section. If you think you missed a notification, this is a good place to look. Treat it the way you treat your Outlook inbox, as the place you check regularly for anything you may have missed. There are some options here like being able to filter your notifications against a search term, and if you right-click on a notification you can mark it as unread. The way I work at least, that can be a useful way to remind myself to come back to it later, if I still have unread notifications.
 
@@ -55,7 +55,7 @@ Calendar: the Calendar section is what you would expect from the name. It shows 
 
 Files: this is another window into your files. They can be files across your teams as well as in your individual OneDrive. Sometimes you can also add other cloud services like Google Drive and Dropbox in here, but that’s determined by organizational policy.
 
-Calls: the Calls section, in my opinion, is not that useful unless you’re using the [Teams phone system](/microsoft-365/microsoft-teams/microsoft-teams-phone-numbers/). With that, your calls from regular phones would ring in Teams, which could be on a computer or a dedicated phone device. If you aren’t using Teams phone systems, this Calls section is a pretty basic dashboard of recent calls and speed dial.
+Calls: the Calls section, in my opinion, is not that useful unless you’re using the [Teams phone system](/posts/2021/microsoft-teams-phone-numbers/). With that, your calls from regular phones would ring in Teams, which could be on a computer or a dedicated phone device. If you aren’t using Teams phone systems, this Calls section is a pretty basic dashboard of recent calls and speed dial.
 
 Then there’s the ellipses. There are plenty of other apps available to install within Teams. Teams really is a platform in its own right, not just an app. Some of these apps that can be added are from Microsoft, some from other providers, and your organization could even build your own app and deploy it just for you. Depending on your workflow, some of these other apps may be helpful to you, so it is worth taking a look at what is available.
 
@@ -137,7 +137,7 @@ There may be more things private to you that stay in your OneDrive. In my work, 
 
 Permissions in both OneDrive and SharePoint can get a lot more complicated than the defaults – you can share from OneDrive with others – but the more you stick to the defaults the easier your life is going to be.
 
-## Syncing files
+## Syncing Files
 
 That’s the most important piece, understanding the destination and that Teams is one route into that destination. But it’s not the only route. I’ll cover a few more ways to access files and I’ll reiterate what I said earlier: you don’t need to do all of these. You need to find which one or ones fit your workflow.
 
@@ -161,11 +161,11 @@ Those are the two ways most intuitive for most people to access their files: wit
 
 But there are a lot more which I will mention but not demo all of them.
 
-I mentioned [Microsoft Search](/microsoft-365/microsoft-search-introduction/) earlier. There are a few entry points to Microsoft Search. One of them is a Bing search. Cue the jokes about somebody actually using Bing. But I have my default browser search set to Bing. The main reason is Microsoft Search. If I want to try to start a search, I can enter that in a new tab address bar like I would any other search, and part of the results is this “Work” or “School” section (depending on your organization type). That will give me lots of content across Microsoft 365 including documents, groups, people, Teams conversations, and so on.
+I mentioned [Microsoft Search](/posts/2021/microsoft-search-introduction/) earlier. There are a few entry points to Microsoft Search. One of them is a Bing search. Cue the jokes about somebody actually using Bing. But I have my default browser search set to Bing. The main reason is Microsoft Search. If I want to try to start a search, I can enter that in a new tab address bar like I would any other search, and part of the results is this “Work” or “School” section (depending on your organization type). That will give me lots of content across Microsoft 365 including documents, groups, people, Teams conversations, and so on.
 
 A scenario where I use this a lot is if I’ve encountered a new bug on a website. I’ll do my search, and first I’ll look at the Work/School tab to see if this is a problem anybody in my organization has dealt with before. Maybe there’s a file documenting it, or maybe a Teams conversation about it. If I don’t find anything internally, I flip back to the All results tab and see what is available elsewhere.
 
-And speaking of a new tab, if you use [Edge](/web-browser-microsoft-edge-vs-chrome/) as your primary browser, you can set your New Tab screen to show your Office documents. I like this because I open new tabs a lot and sometimes I’ll quickly glimpse that a colleague has edited a shared file relevant to me, so it gives me the extra prompt to look into that.
+And speaking of a new tab, if you use [Edge](/posts/2021/web-browser-edge-chrome/) as your primary browser, you can set your New Tab screen to show your Office documents. I like this because I open new tabs a lot and sometimes I’ll quickly glimpse that a colleague has edited a shared file relevant to me, so it gives me the extra prompt to look into that.
 
 There are a few other places that look more or less the same as this. You can go to office.com. There is a Windows and a mobile app simply called Office. If you use Android, there’s a launcher called Microsoft Launcher that can show recent cloud documents. What those all have in common is that the focus isn’t necessarily on browsing everything, but they can prompt you to quickly reload a file that the Microsoft algorithm thinks you may want to see again.
 

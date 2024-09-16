@@ -46,3 +46,5 @@ Many people misuse header tags. They are not solely for formatting. They also he
 This is the accessibility issue that most often gets discussed, but it’s still very easy to miss in WordPress. ALT text is a technique to describe what a screenreader says to a user that can’t see the picture. You should always set ALT text unless the photo is purely decorative like an icon.
 
 WordPress offers the option to set ALT text, but it doesn’t require it. It’s also not quite as in-your-face in the new Gutenberg block editor as it used to be in the classic WordPress editor, so it’s easy to add an image and forget to dig into the settings for the ALT text option.
+
+Update: in 2023 I wrote [another post discussing how descriptive ALT text should really be](https://tech.ryanrobinson.ca/posts/2023/descriptive-alt/), and in some cases you may not want ALT text at all.

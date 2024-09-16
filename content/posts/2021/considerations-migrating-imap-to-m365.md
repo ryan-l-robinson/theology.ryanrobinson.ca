@@ -12,7 +12,7 @@ There are lots of permutations of migrating email from one service to another. I
 
 I’m not going to break down the detailed steps of a migration. These are well documented by Microsoft. Instead, I’m going to mention a few potential complications to be aware of.
 
-## Plan your time
+## Plan Your Time
 
 Some of the steps take time. You won’t do this all in one day. But if you plan it properly, it can be a seamless transition for the users. So plan out what your steps will look like, which might be something like this:
 

@@ -24,7 +24,7 @@ I’ve removed the Calls app from the default, since I don’t use Teams for a p
 
 I’ll also default install Tasks by Planner and To Do, but not force it on the taskbar.
 
-## Edit the global policy
+## Edit the Global Policy
 
 Start out in the Teams Admin Centre, at <https://admin.teams.microsoft.com>.
 
@@ -50,7 +50,7 @@ Furthermore, if they try to pin any other apps to their sidebar, they will not s
 
 We now have a default locked sidebar for all users.
 
-## Create a custom policy
+## Create a Custom Policy
 
 The next step is that we want there to be an exception for one user. Back on the setup policies screen in the Teams Admin Centre, I’ll add a new policy.
 
@@ -64,7 +64,7 @@ Click Save when done.
 ![Policy editing screen with general settings, installed apps, and pinned apps](/assets/img/2021/07/Freedom-policy.png)
 _Screenshot of the editing screen for the policy that does not lock the taskbar_
 
-## Apply the custom policy
+## Apply the Custom Policy
 
 Now that the policy is created, you need to assign it to a user. Select the policy, then click the Manage user button. It will pop out a sidebar with a people search box to look up your users that you want to apply the policy to. Select Add for that user. Once you’ve added everybody, click Apply.
 

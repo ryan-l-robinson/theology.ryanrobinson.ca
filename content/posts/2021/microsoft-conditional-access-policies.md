@@ -8,7 +8,7 @@ tags:
   - Security
 ---
 
-Passwords are inadequate. Even for standard consumer tools, you should have at least two more tools in your toolbox: [a password manager](/security-essentials-password-manager/) and [multi-factor authentication](/security-essentials-multi-factor-authentication/). Those help make passwords suck less. But they do leave open some questions like: should you need to perform multi-factor authentication every time you log in? Should access be all or nothing, or should there be any accounting for degrees of risk?
+Passwords are inadequate. Even for standard consumer tools, you should have at least two more tools in your toolbox: [a password manager](/posts/2021/security-essentials-password-manager/) and [multi-factor authentication](/posts/2021/security-essentials-multi-factor-authentication/). Those help make passwords suck less. But they do leave open some questions like: should you need to perform multi-factor authentication every time you log in? Should access be all or nothing, or should there be any accounting for degrees of risk?
 
 Conditional access policies, part of Microsoft Azure AD, goes a step further. It’s built on a [zero trust model](https://www.microsoft.com/en-ca/security/business/zero-trust), meaning that it starts by assuming that you shouldn’t have access and then builds up trust based on several factors. Those factors usually include a password (except for [the new passwordless option](https://www.microsoft.com/en-ca/security/business/identity-access-management/passwordless-authentication)), but are not limited to them, in order to help cover over all the problems that come with passwords. Some of these other conditions include:
 
