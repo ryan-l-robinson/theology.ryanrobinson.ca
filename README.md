@@ -14,6 +14,4 @@ This is the technology blog of Ryan Robinson, built using Eleventy.
 - Tags page? Posts page? Posts by year page? These are possibilities implied by the URL patterns, but don't exist (tags used to but I deleted it because they're already in the sidebar)
 - Posts: add descriptions to all posts, review tags, remove categories that aren't doing anything, update image paths
 - Header: add a search box - there's probably an eleventy module for that?
-- Different colour scheme for dark vs light mode
 - Remove the homepage message box. Keep the functionality in case I want to use that again, or cut it out entirely?
-- Clean up anything left over from the base theme that I didn't use
