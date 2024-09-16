@@ -23,7 +23,7 @@ module.exports = function(eleventyConfig) {
 	// https://www.11ty.dev/docs/plugins/image/
 	eleventyConfig.addAsyncShortcode("image", async function imageShortcode(src, alt, widths, sizes) {
 		// Full list of formats here: https://www.11ty.dev/docs/plugins/image/#output-formats
-		let formats = ["png", "webp", "auto"];
+		let formats = ["webp", "auto"];
 		let input;
 		if(isFullUrl(src)) {
 			input = src;
