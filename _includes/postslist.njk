@@ -5,6 +5,14 @@
 	<article class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
 		<h2 class="postlist-item-title"><a href="{{ post.url }}" class="postlist-item-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h2>
 		<p class="postlist-item-time-container"><time class="postlist-item-time" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL d, yyyy") }}</time></p>
+		{% if tags | filterTagList | length %}
+			<p>Tags: 
+			{%- for tag in tags | filterTagList %}
+			{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+			<a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}
+			{%- endfor %}
+			</p>
+		{% endif %}
 		{% if post.data.description %}<p class="postlist-item-description">{{ post.data.description }}</p>{% endif %}
 	</article>
 {% endfor %}
