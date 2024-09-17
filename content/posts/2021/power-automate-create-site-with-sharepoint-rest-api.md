@@ -11,7 +11,7 @@ This post continues a series on [SharePoint site provisioning](/tags/sharepoint-
 
 This post will look at dynamically creating SharePoint sites using Power Automate. An advantage of doing it this way is to automate different settings that can incorporate variables, as opposed to the standard interface tools for users to create new sites.
 
-## Check if site already exists
+## Check if Site Already Exists
 
 This can be done with [the SharePoint REST API](https://docs.microsoft.com/en-us/sharepoint/dev/apis/site-creation-rest) if you want just a SharePoint site, or a new Group if you want all of the Group functionality (Teams, Planner, etc.). For this example, I’ll use the former.
 
@@ -48,7 +48,7 @@ Details:
 - Boolean test: is equal to
 - Second piece of equation: 0
 
-## Create site
+## Create Site
 
 We’re ready to create the site, which can also be done with REST API calls.
 
@@ -66,8 +66,7 @@ Details:
 - Header 2 value: 4.0
 - Body:
 
-````
-<pre class="wp-block-code">```
+````json
 {
 "request": {
 "Url":"@{variables('siteURL')}",
@@ -75,7 +74,6 @@ Details:
 "Description":"Project site for: @{variables('projectName')}",
 "Lcid":1033,
 "WebTemplate":"STS#3"
-}
 }
 ````
 

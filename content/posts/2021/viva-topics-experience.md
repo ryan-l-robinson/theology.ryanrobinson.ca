@@ -6,7 +6,7 @@ tags:
     - Microsoft 365
 ---
 
-In [my previous post](/microsoft-365/sharepoint/viva-topics-configuration/), I walked through my thoughts on the configuration process for the new Microsoft Viva Topics functionality within Microsoft 365. In this post I’ll dive into what the experience is like for users once it is configured.
+In [my previous post](/posts/2021/viva-topics-configuration/), I walked through my thoughts on the configuration process for the new Microsoft Viva Topics functionality within Microsoft 365. In this post I’ll dive into what the experience is like for users once it is configured.
 
 ## Creating / Editing a Topic
 

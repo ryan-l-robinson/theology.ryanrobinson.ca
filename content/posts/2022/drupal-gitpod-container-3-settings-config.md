@@ -63,7 +63,7 @@ You could also accomplish this using sed to replace lines of the file in place, 
 RUN sed -i "s/max_execution_time = 30/max_execution_time = 300/g" /etc/php/8.0/apache2/php.ini
 ```
 
-## Drupal settings
+## Drupal Settings
 
 Most of the Drupal settings are similar to the default. The largest change is familiar to any Drupal developer: set the database credentials. Since this is a GitPod container which gets created and destroyed on the fly regularly, I went simple using the root user and no password. A production server would have a different user and a good password.
 

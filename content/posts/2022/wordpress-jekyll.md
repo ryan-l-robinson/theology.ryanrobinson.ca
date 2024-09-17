@@ -15,7 +15,7 @@ WordPress offers support for multiple users with different permissions. You can 
 
 Jekyll does not, except inasmuch as you have multiple contributors to the GitHub project. You can set a different author name for a post in the front matter, but there's no permission level for ongoing content management.
 
-## Ease of building
+## Ease of Building
 
 Somebody inexperienced with website building can still have a pretty good WordPress ssite ready in half an hour, especially on WordPress.com but even on many self-hosted WordPress sites since many hosts provide tools to quickly install it in a few clicks.
 

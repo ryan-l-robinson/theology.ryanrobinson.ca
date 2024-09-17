@@ -8,7 +8,7 @@ tags:
   - PHP
 ---
 
-I have previously shared [setting up local development environments using vagrant](/websites/vagrant-oracle-linux-vm/) and [GitPod](/tags/gitpod-drupal/) in Drupal friendly ways. This post will start a new mini-series on how I built a Docker Desktop setup for a Drupal-friendly environment that is (mostly) based on Oracle Linux 8.
+I have previously shared [setting up local development environments using vagrant](/posts/2021/vagrant-oracle-linux-vm/) and [GitPod](/tags/gitpod-drupal/) in Drupal friendly ways. This post will start a new mini-series on how I built a Docker Desktop setup for a Drupal-friendly environment that is (mostly) based on Oracle Linux 8.
 
 Code for this is found in [my GitHub](https://github.com/ryan-l-robinson/Drupal-Devcontainer).
 
@@ -78,12 +78,12 @@ You can trigger other scripts to run at various points in the process.
 
 The primary one I made use of is postCreateCommand. This will run only once when the container is first built. This one is much more complicated building the entire site. I’ll have another post dedicated to that script.
 
-```devcontainer
+```json
     "postCreateCommand": "/bin/bash -c \"/postCreateCommand.sh\"",
 ```
 
 I also have a much simpler postAttachCommand. This only sources the ~/.bashrc to ensure the user knows where to find commands like drush and composer, which were set up by the postCreateCommand script.
 
-```devcontainer
+```json
     "postAttachCommand": "/bin/bash -c \"source ~/.bashrc\"",
 ```

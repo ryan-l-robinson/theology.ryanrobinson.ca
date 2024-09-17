@@ -7,7 +7,7 @@ tags:
   - Accessibility
 ---
 
-[In a previous related post, I wrote about some lessons in a co-design project of an open menu, with a video where we presented about it to the IDRC](/websites/drupal/idrc-presentation/). That was mostly about the process and this is about the result: a header navigation page on a Drupal 9 site. The goal was to provide an overview of the same information that’s in the main navigation, but in a more accessible way for screen readers and with descriptions that provide more information about the page without having to load the page. It was not a complete index of every page on the site; it was only an alternate format for the menu.
+[In a previous related post, I wrote about some lessons in a co-design project of an open menu, with a video where we presented about it to the IDRC](/posts/2024/idrc-presentation/). That was mostly about the process and this is about the result: a header navigation page on a Drupal 9 site. The goal was to provide an overview of the same information that’s in the main navigation, but in a more accessible way for screen readers and with descriptions that provide more information about the page without having to load the page. It was not a complete index of every page on the site; it was only an alternate format for the menu.
 
 As mentioned in that previous post, an important requirement is that it must update programmatically; we cannot leave it as a separate manually-updated page, because realistically it would only be a matter of time before somebody updated the menu but not the header navigation page.
 
@@ -27,11 +27,11 @@ Once that is installed, you’ll need to configure it. I did not find the settin
 
 Notably, it cannot index views pages, so for this scheme to work, you can’t use views pages in the menu. Fortunately you can still make a views block, put that on a page, and put that page in the menu.
 
-## Configure the view
+## Configure the View
 
 The configuration for the view itself won't be too much of a surprise for anybody who has configured views before. It has a grouped block for each second-level menu, where the header had a programmatically-set ID so that they can be used for links (both from that top block and from the top level of the main menu itself). There's a lot of mundane configuration here so I won't break it all down, but [here's the configuration file](https://github.com/ryan-l-robinson/Drupal-open-menu/blob/main/sync/config/views.view.open_menu.yml) if you want to import to your site, or you can check it out using the GitPod demo and going to Structure -> Views -> Open Menu.
 
-## Overriding the view template
+## Overriding the View Template
 
 I still had one more problem. The view involved used the grouping function to bunch together the results. I wanted the group label to be an h2 and have an id on it, so I did that using the rewrite the results functions. That worked with no issues.
 

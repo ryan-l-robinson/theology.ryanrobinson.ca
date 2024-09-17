@@ -9,6 +9,7 @@ tags:
     - GitPod Drupal
     - PHP
     - Visual Studio Code
+    - Linux
 series: GitPod Drupal
 ---
 
@@ -34,7 +35,7 @@ That doesn’t cover everything, though. There are a few more things I want for 
 
 ### PHP packages
 
-Here’s how to add PHP packages needed within an Ubuntu Dockerfile, as well as APCU and uploadprogress which are also recommended by Drupal. I wrote recently about [installing PECL UploadProgress for Oracle Linux](/websites/drupal/drupal-install-pecl-uploadprogress/), which is similar but a bit different than these Ubuntu commands.
+Here’s how to add PHP packages needed within an Ubuntu Dockerfile, as well as APCU and uploadprogress which are also recommended by Drupal. I wrote recently about [installing PECL UploadProgress for Oracle Linux](/posts/2021/drupal-pecl-uploadprogress/), which is similar but a bit different than these Ubuntu commands.
 
 ```docker
 USER root
@@ -61,7 +62,7 @@ At this point, the server is ready to provide the core packages that run Drupal 
 
 ## Pa11y accessibility testing
 
-[I’ve also mentioned pa11y recently](/websites/pa11y-ci-oracle-linux-8-installation/), the accessibility testing tool. I always want that available. Here’s how to do that in this Ubuntu-based Dockerfile:
+[I’ve also mentioned pa11y recently](/posts/2021/pa11y-ci-oracle-linux-8-installation/), the accessibility testing tool. I always want that available. Here’s how to do that in this Ubuntu-based Dockerfile:
 
 ```docker
 # Install pa11y accessibility testing tool, including NodeJS

@@ -12,4 +12,5 @@ This is the technology blog of Ryan Robinson, built using Eleventy.
 - About/Tools page: fix images and review links for accuracy.
 - Posts: add descriptions to all posts, review tags, remove categories that aren't doing anything, update image paths, update link paths.
 - Header: add a search box - there's probably an eleventy module for that?
+- Add broken link checker?
 - Remove the homepage message box. Keep the functionality in case I want to use that again.

@@ -7,7 +7,7 @@ tags:
   - DevOps
 ---
 
-I have [previously covered syncing configuration across Drupal](/websites/drupal/drupal-sync-configuration/). But configuration is not everything in the database. The other half of the picture is the content: nodes, custom blocks, menu items, files, etc. 
+I have [previously covered syncing configuration across Drupal](/posts/2022/drupal-sync-configuration/). But configuration is not everything in the database. The other half of the picture is the content: nodes, custom blocks, menu items, files, etc. 
 
 There is [an extra module available called content_sync](https://www.drupal.org/project/content_sync). Unfortunately, it is not a very reliable extra module, at least in my configuration. With that said, I will still share the main extra consideration to take into your plans.
 

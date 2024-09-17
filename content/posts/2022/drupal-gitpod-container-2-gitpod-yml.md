@@ -11,7 +11,7 @@ tags:
 series: GitPod Drupal
 ---
 
-This post picks up in a [mini-series](/tags/gitpod-drupal/) describing how I created a generic Drupal-friendly container working with [GitPod](https://gitpod.io). The [first covered the GitPod.Dockerfile](/drupal/gitpod-container-1-dockerfile/) to build the core LAMP stack image.
+This post picks up in a [mini-series](/tags/gitpod-drupal/) describing how I created a generic Drupal-friendly container working with [GitPod](https://gitpod.io). The [first covered the GitPod.Dockerfile](/posts/2022/drupal-gitpod-container-1-dockerfile/) to build the core LAMP stack image.
 
 [The entire project is available in my GitHub](https://github.com/ryan-l-robinson/Drupal-GitPod).
 
@@ -82,7 +82,7 @@ fi
 
 The key for that structure to be maintained is that the homepage is of the content type “Home” and with the title of “Home.” If that isn’t met, this workaround will fail.
 
-### Admin password
+### Admin Password
 
 By default, the site install at this point created a default super-admin user with a random password. For the purpose of this demo, I wanted to control what that admin password was so I could put it in the GitHub README and keep it saved in my [password manager](https://ryanrobinson.technology/all/tools/security-essentials-password-manager/). So, I used drush to always reset the admin password back to what I wanted it to be:
 
@@ -99,7 +99,7 @@ vendor/drush/drush/drush php-eval 'node_access_rebuild();'
 vendor/drush/drush/drush cron
 ```
 
-### Drush alias
+### Drush Alias
 
 I want to be able to use the command `drush` instead of always having to reference the full path to drush, as I did above. So I add an alias to my .bashrc. You can also do this by adding the location of drush to the PATH. Arguably that is more correct but this was simpler in a GitPod scenario where containers are constantly being built and destroyed and so don’t always have to be precisely the long-term ideal.
 
@@ -167,6 +167,6 @@ vscode:
     - vscode-icons-team.vscode-icons
 ```
 
-## Almost there…
+## Almost There…
 
 In the last post of this series, I’ll look at a few other configuration changes I needed to make for this to work.

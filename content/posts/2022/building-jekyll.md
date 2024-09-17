@@ -7,7 +7,7 @@ tags:
     - Static Sites
 ---
 
-I recently decided that I wanted to try out hosting this site on GitHub Pages instead of WordPress that I had been using for over a decade. The reason why is simple: it’s [free as in cats](/websites/civicrm/free-as-in-cats/) and it’s easier to maintain after the initial work of setting it up, with no regular maintenance required.
+I recently decided that I wanted to try out hosting this site on GitHub Pages instead of WordPress that I had been using for over a decade. The reason why is simple: it’s [free as in cats](/posts/2022/free-as-in-cats/) and it’s easier to maintain after the initial work of setting it up, with no regular maintenance required.
 
 Here’s a high level look at how I did it, and the code [is available in my GitHub](https://github.com/ryan-l-robinson/ryan-l-robinson.github.io). The main branch is everything I control, then the GitHub Actions generate the site on the gh-pages branch.
 

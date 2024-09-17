@@ -11,9 +11,9 @@ I typically have two main pieces of advice for basic information security that a
 - Use multi-factor authentication everywhere it is offered
 - Use a password manager to generate good passwords, remember them, and make your life easier with auto-fill
 
-[My previous post dealt with multi-factor authentication](https://ryanlrobinson.wordpress.com/2021/03/07/security-essentials-multi-factor-authentication/). This post will look at password managers.
+[My previous post dealt with multi-factor authentication](/posts/2021/security-essentials-multi-factor-authentication/). This post will look at password managers.
 
-## Passwords are the worst
+## Passwords are the Worst
 
 Why do you need a password manager? The short answer: passwords are the worst, but with a few exceptions, we still need them for everything. There are a few problems with passwords:
 
@@ -25,7 +25,7 @@ Why do you need a password manager? The short answer: passwords are the worst, b
 
 The last one is dealt with by multi-factor authentication. Most of the others – other than the typing on TV scenario – are dealt with by a password manager.
 
-## The password manager solution
+## The Password Manager Solution
 
 The gist of the idea of a password manager is that you only need to remember one password to get into your password manager account, and that account remembers all your other passwords. That solves the memory problem.
 
@@ -42,7 +42,7 @@ Most password managers come with some other tools that also help boost your pass
 - Identifies if any credentials have been leaked, as found on [haveibeenpwned.com](https://haveibeenpwned.com/). If any credentials show up here, you need to change them immediately – on everywhere with that password, not just the one that leaked it.
 - Identifies weak passwords that have low levels of randomness and could be easier for an attacker to guess or brute force.
 
-## Getting started
+## Getting Started
 
 Most of the password managers have some level of free trial with limited functionality. That’s a great way to get a sense of what it is like to use one before you commit to spending on a particular service.
 

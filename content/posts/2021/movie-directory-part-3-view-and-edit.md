@@ -9,7 +9,7 @@ tags:
 
 This continues a short series about [a movie directory personal project](/tags/movie-directory/) exploring Power Apps and Dataverse. In the first two posts, I’ve laid out the data structure in Dataverse and the gallery and filters screens in the Power App. This post will tackle viewing and editing a single movie record in the app.
 
-## View screen
+## View Screen
 
 The view screen started out as a pretty bland list of fields, but rapidly evolved into something more attractive and more functional:
 
@@ -54,7 +54,7 @@ BrowseGallery1.Selected.Cover.Full
 
 and a Transparency of 0.6, to make sure the text above it is still readable.
 
-## Edit screen
+## Edit Screen
 
 ![](/assets/img/2021/06/Edit-screen.png)
 _Edit screen for Alien3_

@@ -11,14 +11,14 @@ tags:
 
 This continues a series setting up a [GitLab DevOps pipeline](/tags/gitlab-devops/) through local virtual machine / container, GitLab, a dev server, a staging server, and a production server. This post assumes you already have a local VM or container, whether that’s through vagrant, Docker Desktop, GitPod, or something else.
 
-## Branch diagram
+## Branch Diagram
 
 This diagram is meant to help explain the flow of code in this system. The development happens in your local branch. When you want to deploy to the dev server, request merging into the dev branch. When you want to deploy to the staging server, request merging into the main branch. There is a CI/CD job for deploying to production as well, but that’s a manual process – not automatic on a branch merge like the other two. The CI files for the deploying will be covered in a later post.
 
 ![Diagrams the flow of branches. Your branch stays on your dev environment. Merge to dev to push to dev server. Merge to main to push to staging server.](/assets/img/2022/01/Git-Deployment-Workflow.png)
 _Diagram of branches and servers_
 
-## The editing and browsing workflow
+## The Editing and Browsing Workflow
 
 My preferred editor is [Visual Studio Code](/tags/visual-studio-code/). Whether the VM/container is vagrant, [Docker Desktop](/tags/docker/), or [GitPod](/tags/gitpod/), you can use VS Code with it. The best experience is with Docker, then GitPod, and finally vagrant will work but similar to any other server, with no extra special functionality like adding extensions. You could of course also use a different editor / terminal.
 
@@ -26,7 +26,7 @@ Along with being able to edit, this is a website, so it’s pretty important to 
 
 They are covered more in the posts about having a Drupal-friendly environment in each of the respective virtualization/containerization systems:
 
-- [Vagrant VM](/websites/vagrant-oracle-linux-vm/)
+- [Vagrant VM](/posts/2021/vagrant-oracle-linux-vm/)
 - [GitPod](/tags/gitpod-drupal/)
 - [Docker Desktop](/tags/drupal-docker/)
 
@@ -47,7 +47,7 @@ git add [file to add]
 git commit -m "[description of what changed]"
 ```
 
-## Merge request
+## Merge Request
 
 When I think it’s ready to be merged into the main branch, I go into the GitLab interface and put in a merge request from my ryan branch into whatever other branch I’m trying to merge it into (either dev or main in this scenario). There are a handful of good options available including who the merge is assigned to, who should do an extra code review first, and what project milestone it should be associated with.
 

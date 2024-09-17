@@ -11,7 +11,7 @@ Configuring a hosts file on your computer allows your browsing traffic to go to 
 1. migrating a site to a new server and needing to test it before changing the public DNS
 2. development on dev/staging servers which do not have public DNS listings
 
-## Open the file
+## Open the File
 
 The hosts file in Windows is located at C:\\Windows\\System32\\drivers\\etc\\hosts. I find I routinely forget that, so I added a shortcut to my primary document folder so I can get back to it faster. To do that in Windows, browse to the folder where you want the shortcut. Right-click and select New Shortcut. In the prompt that opens, enter C:\\Windows\\System32\\drivers\\etc\\hosts for the location of the item. Click next, then provide it a shortcut name – that could stay simple as “hosts” or something else. Save it, and now you’re good to go.
 
@@ -24,9 +24,9 @@ You will need to edit this file as an administrator in order to make changes. Yo
 
 Since I use VS Code for my main editor anyway, I tend to use option 2 as a bit faster most of the time.
 
-## File contents
+## File Contents
 
-The contents of the file are straightforward. Each line has an IP address and at least one domain. When you view that domain in your browser, it will go to that IP address instead of checking public DNS. For example, if you want to browse your local library website VM at <https://local.library.wlu.ca>, add this line:
+The contents of the file are straightforward. Each line has an IP address and at least one domain. When you view that domain in your browser, it will go to that IP address instead of checking public DNS. For example, if you want to browse your local VM at <https://domain1.com>, add this line:
 
 ```text
 127.0.0.1 domain1.com

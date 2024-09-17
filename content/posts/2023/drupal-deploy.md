@@ -9,7 +9,7 @@ tags:
   - PHP
 ---
 
-This continues where [the previous post](/websites/gitlab-devops-deploy/) in [the GitLab DevOps series](/tags/gitlab-devops/) left off. We can now deploy code changes to the new server, and that's great for generic deployments. Drupal adds a few extra components when it comes to configuration sync and the database.
+This continues where [the previous post](/posts/2023/drupal-deploy/) in [the GitLab DevOps series](/tags/gitlab-devops/) left off. We can now deploy code changes to the new server, and that's great for generic deployments. Drupal adds a few extra components when it comes to configuration sync and the database.
 
 ## Dev vs Production
 
@@ -99,7 +99,7 @@ Here's what the extendable jobs look like:
     - vendor/drush/drush/drush cr
 ```
 
-The first job is the one detailed in [the previous post](/websites/gitlab-devops-deploy/), except that it has now been moved from `script` to `before-script` to work better with the other pieces. 
+The first job is the one detailed in [the previous post](/posts/2023/drupal-deploy/), except that it has now been moved from `script` to `before-script` to work better with the other pieces. 
 
 The next component is composer. Drupal is built using composer packages. Any action that updates the composer.lock file - adding a new module, deleting a module, updating packages - will require this step. `composer install` ensures that it installs the exact same versions of the exact same packages as on your other servers. It might be tempting to use `composer update` instead to get the latest versions, but then you might end up with trying to install something that you haven't tested elsewhere yet. There are two variants of this job, one for dev servers that installs dev packages and one for production that does not.
 

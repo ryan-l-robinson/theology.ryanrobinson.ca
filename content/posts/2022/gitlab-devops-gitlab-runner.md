@@ -14,7 +14,7 @@ But there’s a catch: if your server is not publicly-accessible, such as behind
 
 Here’s how I installed a GitLab runner on a server. This was specifically for Oracle Linux 8, but it will be pretty close for other distributions.
 
-## Install GitLab Runner package
+## Install GitLab Runner Package
 
 First you need to install the GitLab Runner package on your server. GitLab will give you the instructions to do this, but here’s the general idea.
 
@@ -37,7 +37,7 @@ cd /usr/local/bin
 sudo ./gitlab-runner install --user=libgit --working-directory=/home/libgit
 ```
 
-## [](#register-a-runner)Register a runner
+## Register a Runner
 
 Once the runner is installed, you’ll need to register at least one runner on the server.
 

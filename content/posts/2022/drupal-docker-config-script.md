@@ -10,7 +10,7 @@ tags:
 
 This continues a mini-series describing how I set up a Drupal development environment using [Docker Desktop and the VS Code devcontainer functionality](/tags/drupal-docker/). The full code is available in [my GitHub](https://github.com/ryan-l-robinson/Drupal-Devcontainer).
 
-This post will look at the configuration script that runs on the initial creation of the containers. It will handle the majority of the Drupal-specific functionality, roughly equivalent to [the GitPod.yml file](/websites/drupal/drupal-gitpod-container-2-gitpod-yml/) of [the GitPod series](/tags/gitpod-drupal/).
+This post will look at the configuration script that runs on the initial creation of the containers. It will handle the majority of the Drupal-specific functionality, roughly equivalent to [the GitPod.yml file](/posts/2022/drupal-gitpod-container-2-gitpod-yml/) of [the GitPod series](/tags/gitpod-drupal/).
 
 This is a bash script that runs in the container once it is first built, so start by defining it as a bash script:
 

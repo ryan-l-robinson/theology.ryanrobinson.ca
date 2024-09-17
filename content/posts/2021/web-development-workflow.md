@@ -11,7 +11,7 @@ tags:
 
 When I work on a freelance website (I have more advanced tools in my day job), especially once I need to deploy some custom code, I have several tools at my disposal I want to set up. Here’s what those tools and that setup process looks like. For the purpose of this post, I’m assuming I already have the SFTP and SSH credentials from the website host.
 
-## SSH keys
+## SSH Keys
 
 The one-time need is to prepare my SSH keys. This requires three files which can be created with PuTTYgen, part of the package that comes with PuTTY.
 
@@ -99,8 +99,8 @@ It is important that you use the SSH path to the repository, not the HTTPS path.
 
 [Visual Studio Code](https://code.visualstudio.com/) is my code editor of choice, so this is an essential piece of the puzzle if I am doing any customizations to the site. I’ve written more about Visual Studio Code in the past:
 
-1. [Remote SSH in Visual Studio Code.](/websites/visual-studio-code-remote-ssh-development/)
-2. [GitHub in Visual Studio Code.](/websites/using-github-from-visual-studio-code/)
+1. [Remote SSH in Visual Studio Code.](/posts/2021/vs-code-remote-ssh-development/)
+2. [GitHub in Visual Studio Code.](/posts/2021/github-visual-studio-code/)
 
 When I have a new site to add, I do this:
 

@@ -12,11 +12,11 @@ Here’s another piece in a [GitLab DevOps](/tags/gitlab-devops/) setting: when 
 
 I split this into two pieces, taking advantage of [GitLab’s ability to extend other functions, even functions in other projects](https://docs.gitlab.com/ee/ci/yaml/index.html#extends). My real work scenario is using GitLab, hence using GitLab CI. For the purposes of sharing here, I’ve put them in [my personal GitHub](https://github.com/ryan-l-robinson/GitLab-CI-CD). I know that’s an unintuitive combination.
 
-## The generic CI/CD functions
+## The Generic CI/CD Functions
 
 To be able to test, I first need a general Oracle Linux 8 image that can run PHP 8.0 and composer for a Drupal site.
 
-```gitlab
+```yml
 ## Build an Oracle Linux 8 container, used by other tests below ##
 .ol8_lamp_build:
   stage: test
@@ -34,7 +34,7 @@ To be able to test, I first need a general Oracle Linux 8 image that can run PHP
 
 Part one is a project containing a few generic CI job templates. One of those, in the tests.yml file, is a PHP lint test. Saying that I want to test every php file in a certain folder is not as easy as you’d think – there is no flag for applying it recursively – so it requires a loop:
 
-```gitlab
+```yml
 ### PHP lint test ###
 .php_lint:
   stage: test
@@ -63,11 +63,11 @@ Part one is a project containing a few generic CI job templates. One of those, i
 
 This has variables for the directory to start testing from, as well as what extensions to test. The extension variable defaults to only php files, but it can be overridden to include other extensions, which is valuable with Drupal where other extensions get used for php code like .module and .theme.
 
-## The project’s CI file
+## The Project’s CI File
 
 Part two is the specific project that then references those generic templates. Using the full project reference, under the assumption that in a real situation this would be in a differernt GitLab project, that looks something like this in the project’s .gitlab-ci.yml file:
 
-```gitlab
+```yml
 # Includes general CI jobs to extend from
 include:
  

@@ -6,7 +6,7 @@ tags:
     - Tech and Society
 ---
 
-Twitter, Mastodon, Calckey, Bluesky, Threads... And a whole bunch more that aren't even worth mentioning in my opinion ([I did try a couple of them](/twitter-mastodon-counter-social/)). It's an interesting time for social media, especially the microblogging format.
+Twitter, Mastodon, Calckey, Bluesky, Threads... And a whole bunch more that aren't even worth mentioning in my opinion ([I did try a couple of them](/posts/2022/twitter-mastodon-coso/)). It's an interesting time for social media, especially the microblogging format.
 
 Part of what makes it so interesting is that there are real differences in philosophies of what the Internet - and therefore, society at large - should be, not only a difference in which billionaire gets to sell all our data.
 

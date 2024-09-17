@@ -9,14 +9,14 @@ tags:
 
 This continues a short series about [a movie directory personal project](/tags/movie-directory/) exploring Power Apps and Dataverse. In the first three posts, I’ve laid out the data structure in Dataverse and the app itself. This post will tackle how I was able to quickly fill in the 300+ movies in our collection converting from our previous system, files on a computer arranged for use on a Plex server. This will all be done in Power Automate.
 
-## The old structure
+## The Old Structure
 
 Here’s how the old structure was, to work nicely with a [Plex](https://www.plex.tv/) server:
 
 - There was a folder in my OneDrive differentiating where we owned each movie. Some movies were only on disc. Others were in one or more digital stores as well. As I tried to get more and more digital copies of movies we already owned, I would move a file from the general Movies folder into the correct digital store folder. This wasn’t a complete system, though. For example, it didn’t differentiate Blu-ray vs DVD, and if I had something in both Google and Microsoft it would only be in the Google folder.
 - Every file was named in the format “Movie Title (Year).” The year is valuable in Plex to help differentiate if there are multiple movies with the same title.
 
-## The variables
+## The Variables
 
 To start the Flow, I declared several variables:
 
@@ -27,7 +27,7 @@ To start the Flow, I declared several variables:
 - yearStartIndex: to help with the parsing
 - imdbAPIkey: my API key for IMDB, which I will use for grabbing cover images
 
-## Get the movies
+## Get the Movies
 
 First I’ll get all the movies. This is straightforward with a OneDrive “get files” action. I did find that I could only do a certain number of files at once, so I did it in chunks by having a separate “To Copy” folder, in which I put the next batch as I needed to copy them.
 
@@ -36,7 +36,7 @@ _Screenshot of getting movies from OneDrive_
 
 I’ll then enter a loop of all the results, handling one movie at a time. This is a simple Apply to Each loop using the “value” from the previous step’s results.
 
-## Parse name and year
+## Parse Name and Year
 
 Start by grabbing the file name and putting it into the variable:
 

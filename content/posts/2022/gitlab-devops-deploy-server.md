@@ -11,9 +11,9 @@ tags:
 
 This continues with [the long-stalled GitLab DevOps series](/tags/gitlab-devops/). An essential piece of any CI/CD system is deploying to another server. You do not want to have to sign in to each server separately and carry out 15 deployment steps to take backups, pull the updated code, import new configuration, update database schemas, clear caches, etc. You want to hit a button and it rolls out everywhere. You also want to have the ability to easily roll back if you realize a mistake was made.
 
-You will first need [a GitLab runner](/websites/gitlab-devops-gitlab-runner/) on the server you want to deploy to.
+You will first need [a GitLab runner](/posts/2022/gitlab-devops-gitlab-runner/) on the server you want to deploy to.
 
-As with the earlier post on [PHP linting within GitLab CI/CD](/websites/drupal/gitlab-devops-php-lint/), in a real scenario this would be split into two projects. In my real usage, I have one project with the general CI/CD functionality, then the specific website project can extend from those functions to push out to the server. In this demo scenario, it is all in [one project of my GitHub](https://github.com/ryan-l-robinson/GitLab-CI-CD).
+As with the earlier post on [PHP linting within GitLab CI/CD](/posts/2022/gitlab-devops-php-lint/), in a real scenario this would be split into two projects. In my real usage, I have one project with the general CI/CD functionality, then the specific website project can extend from those functions to push out to the server. In this demo scenario, it is all in [one project of my GitHub](https://github.com/ryan-l-robinson/GitLab-CI-CD).
 
 ## Deploy.yml
 
@@ -130,7 +130,7 @@ deploy_prod2:
 
 You will need one of these types of jobs for each server to deploy to, with each's corresponding variables. This demo includes a dev server, a staging server, and two production servers.
 
-## Project access token
+## Project Access Token
 
 For this to work smoothly, you can use a project access token. This is a unique token that can be set up on a project – essentially a service account – rather than the connection being tied to a particular user. This is helpful to avoid problem scenarios like a sudden change of staff when the deploy was set up using the former staff's account that no longer exists.
 

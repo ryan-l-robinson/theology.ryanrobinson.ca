@@ -16,25 +16,25 @@ Creating the barriers is done by PowerShell. There is not currently a web admin 
 
 Create one organization segment for interns:
 
-```
+```powershell
 New-OrganizationSegment -Name "Interns" -UserGroupFilter "Title -contains 'Intern'"
 ```
 
 Repeat for another segment called staff:
 
-```
+```powershell
 New-OrganizationSegment -Name "Staff" -UserGroupFilter "Title -not (-contains 'Intern')"
 ```
 
 Now that you have the two segments, create the barrier between them:
 
-```
+```powershell
 New-InformationBarrierPolicy -Name "Interns" -AssignedSegment "Interns" -SegmentsBlocked "Staff" -State Inactive
 ```
 
 Finally, apply the information barriers:
 
-```
+```powershell
 Start-InformationBarrierPoliciesApplication
 ```
 

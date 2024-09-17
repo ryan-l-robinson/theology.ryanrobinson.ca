@@ -8,7 +8,7 @@ tags:
 ---
 This post continues a series on [SharePoint site provisioning](/tags/sharepoint-site-provisioning/), unpacking some of the problems I’ve faced and overcome in building SharePoint site provisioning solutions.
 
-[In the last post in this series](/microsoft-365/power-automate/create-site-with-sharepoint-rest-api/), I created a SharePoint site programmatically. Suppose you want to update site scripts or site designs onto that new site. The advantage of doing this is that it can be fully automated based on another causal event setting it off, like filling out a Power App or creating an item in a SharePoint list, and incorporate variables. My simple example will use a variable of a link that will be added to the navigation of this new site.
+[In the last post in this series](/posts/2021/power-automate-create-site-with-sharepoint-rest-api/), I created a SharePoint site programmatically. Suppose you want to update site scripts or site designs onto that new site. The advantage of doing this is that it can be fully automated based on another causal event setting it off, like filling out a Power App or creating an item in a SharePoint list, and incorporate variables. My simple example will use a variable of a link that will be added to the navigation of this new site.
 
 ## Write the temporary script
 
@@ -26,7 +26,7 @@ Details:
 - Type: String
 - Value:
 
-```
+```json
 {
     "$schema": "https://developer.microsoft.com/json-schemas/sp/site-design-script-actions.schema.json",
     "actions": [
@@ -41,7 +41,7 @@ Details:
   }
 ```
 
-## Register the temporary script
+## Register the Temporary Script
 
 Now that you’ve got the script written, complete with variable, you can use the SharePoint REST API action to register that site script on your SharePoint instance.
 
@@ -73,7 +73,7 @@ Details:
 - Type: String
 - Value: body(‘Create\_temp\_site\_script’)?\[‘Id’\]
 
-## Create the temporary design
+## Create the Temporary Design
 
 Once you have a site script, you can now do essentially the same thing with registering a temporary site design that uses that script.
 
@@ -88,7 +88,7 @@ Details:
 - Headers: \[same as registering the site script above\]
 - Body:
 
-```
+```json
 {
 "info":{
 "Title":"Temporary site design for @{variables('siteName')}",
@@ -124,7 +124,7 @@ That could result in small gains on average compared to always delaying 5 minute
 
 ![](/assets/img/2021/06/Delay-5-minutes.png)
 
-You also may need to delay much longer if your site scripts rely on [global content types](/microsoft-365/sharepoint/content-types/). Those content types won’t be available on the site immediately. They could be up to 90 minutes in my tests. If you are using content types, you may want to do only a 3 or 5 minute delay now, apply one design that does most of what you want, then delay another 90 minutes before applying another design that handles those components. That way the site is at least partially usable in that 90 minute wait.
+You also may need to delay much longer if your site scripts rely on [global content types](/posts/2021/sharepoint-content-types/). Those content types won’t be available on the site immediately. They could be up to 90 minutes in my tests. If you are using content types, you may want to do only a 3 or 5 minute delay now, apply one design that does most of what you want, then delay another 90 minutes before applying another design that handles those components. That way the site is at least partially usable in that 90 minute wait.
 
 ## Apply the site design
 
@@ -141,14 +141,14 @@ Details:
 - Headers: \[same as registering the site script above\]
 - Body:
 
-```
+```json
 {
 "siteDesignId":"@{variables('siteDesignID')}",
 "webUrl":"@{variables('siteURL')}"
 }
 ```
 
-## Clean up
+## Clean Up
 
 You don’t want to leave a script and design every time this runs, so you’ll want the Flow to delete those temporary scripts. This can also be done with SharePoint REST calls. First remove the design, then the script, since the design depends on the script.
 
@@ -163,7 +163,7 @@ Details:
 - Headers: \[same as registering the site script above\]
 - Body:
 
-```
+```json
 {"id":"@{variables('siteDesignID')}"}
 ```
 
@@ -178,7 +178,7 @@ Details:
 - Headers: \[same as registering the site script above\]
 - Body:
 
-```
+```json
 {"id":"@{variables('siteScriptID')}"}
 ```
 

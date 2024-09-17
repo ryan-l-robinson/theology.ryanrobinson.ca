@@ -12,7 +12,7 @@ Having a workflow that keeps your code in sync across development, staging, and 
 
 Fortunately, Drupal 8 introduced a new system for syncing configuration across copies of the site.
 
-## What’s included
+## What’s Included
 
 It is not a full database backup, but it does include most settings, such as:
 
@@ -30,7 +30,7 @@ Configuration changes are usually made first in your development environment, te
 
 You also don’t need to synchronize all content in the same way, since for the most part the presence or absence of an extra basic page node does not affect the ability to sufficiently test anything new that needs to be tested. It’s ok if you let your production site’s content get ahead of your development environment in a way that you don’t want to happen with configuration.
 
-## Git workflow
+## Git Workflow
 
 The ideal flow for these changes is integrated with your code git flow. You can export your configuration on dev, add it to the git repository, push through to the next server in your CI/CD chain, and import it there. Much of this can be streamlined with CI/CD tools, but here are the manual steps:
 

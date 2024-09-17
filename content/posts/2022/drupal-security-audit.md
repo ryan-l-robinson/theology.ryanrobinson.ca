@@ -9,7 +9,7 @@ tags:
 
 About a year ago, I (virtually) attended [the DrupalGovCon 2021 conference](https://www.drupalgovcon.org/). The highlight for me was the session on improving security of your Drupal website. I’ve embedded the video below and summarized some of the major points.
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="337" loading="lazy" src="https://www.youtube.com/embed/ghoFlwrC3SM?list=PLsGrHy_lmfhT5cl0P_I737mo6952uIkt6" title="Tips for Securing Your Drupal Application" width="600"></iframe></div></div><figcaption>DrupalGovCon video: Tips for Securing Your Drupal Application</figcaption></figure>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="337" loading="lazy" src="https://www.youtube.com/embed/ghoFlwrC3SM?list=PLsGrHy_lmfhT5cl0P_I737mo6952uIkt6" title="Tips for Securing Your Drupal Application" width="600"></iframe>
 
 ## Security Modules
 

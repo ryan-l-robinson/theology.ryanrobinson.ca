@@ -29,7 +29,7 @@ DNS related to website content is typically a simple A record pointing to the IP
 
 You rarely need to change your DNS – only when you change those other services – and there typically is no recurring fee, with your DNS hosting most often combined with either your domain hosting or website content hosting.
 
-## Website content
+## Website Content
 
 The content of your website, usually consisting of several files and at least one database, reside on a web server. I won’t dive into all the considerations choosing a web content host, but if you’re talking about a simple site like this one, you don’t need anything special.
 

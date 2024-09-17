@@ -8,7 +8,7 @@ tags:
     - Git, GitLab, and GitHub
 ---
 
-[I’ve recently switched from hosting these tech posts on a WordPress site running on a shared host I pay a small fee for, over to GitHub Pages for free](/websites/github-pages/building-site/). It’s a great system and might be all you need if you’re a developer wanting to write and publish some content quickly.
+[I’ve recently switched from hosting these tech posts on a WordPress site running on a shared host I pay a small fee for, over to GitHub Pages for free](/posts/2022/building-jekyll/). It’s a great system and might be all you need if you’re a developer wanting to write and publish some content quickly.
 
 One thing I was worried about, though, is writing from my phone. My habit has often been that I write rough notes on my phone, then finalize it on a computer and hit publish. I didn’t want to lose that. So here’s what I did.
 

@@ -13,11 +13,11 @@ I typically have two main pieces of advice for basic information security that a
 
 I’ll look at the benefits of a password manager in another post soon. But first, let’s look at multi-factor authentication.
 
-## The idea
+## The Idea
 
 The idea of multi-factor authentication is that you prove you are who you say you are through an extra “factor” beyond just a password. This is because it is relatively easy for a password to be stolen, distributed, and used. If all it takes for somebody to get into your important accounts is a username and password, that’s a low barrier to cause a lot of damage, especially when you add that most people reuse the same passwords on multiple sites (more on that in the password manager post).
 
-## Verification options
+## Verification Options
 
 The extra factor may be something you know like a security question or something you have like a fingerprint. [This Microsoft doc breaks down the options in terms of what is available within Azure AD authentication](https://docs.microsoft.com/en-gb/learn/modules/secure-aad-users-with-mfa/5-configure-authentication-methods), but most services offer some subset of those options.
 
@@ -27,7 +27,7 @@ In the middle and the most common are SMS codes texted to your phone or voice ca
 
 The highest end of the security scale is an authentication app on your phone (Microsoft Authenticator, Google Authenticator) or a dedicated security key device that must be plugged into your computer via USB ([YubiKey](https://www.yubico.com/products)). With these protections, a hacker would have to know your username and password AND also have your phone logged in to the authenticator app or the physical security key. That means they would have to physically rob you on top of cracking your password, which significantly cuts down on how many people can realistically pull it off. It also makes it likely you’ll notice before much damage is done.
 
-## Using an authenticator app
+## Using an Authenticator App
 
 The authenticator apps may sound like more work than a simple text, but it really is easier on top of being more secure. I use Microsoft Authenticator and that’s what I will be referencing specifically, but Google Authenticator and others have similar if not identical functionality.
 

@@ -6,7 +6,7 @@ tags:
     - Visual Studio Code
 ---
 
-In a recent post I talked about [how great MySQL Workbench is](/websites/mysql-workbench/). A few days later, I discovered a Visual Studio Code extension simply called MySQL. It is not as robust in some ways as Workbench (e.g. bulk importing and exporting).
+In a recent post I talked about [how great MySQL Workbench is](/posts/2021/mysql-workbench/). A few days later, I discovered a Visual Studio Code extension simply called MySQL. It is not as robust in some ways as Workbench (e.g. bulk importing and exporting).
 
 However, it does meet all the same core functionality such as:
 

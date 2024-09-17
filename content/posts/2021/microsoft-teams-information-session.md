@@ -153,7 +153,7 @@ There are also now two ways to achieve this. The older way is the Sync button wh
 
 The newer way is a “Add shortcut to OneDrive” button which shows up in SharePoint but not in Teams.
 
-It’s too big of a tangent to break down the advantages of each, but [I do have a post about it](/microsoft-365/sharepoint/desktop-sync-files-across-onedrive-and-sharepoint/).
+It’s too big of a tangent to break down the advantages of each, but [I do have a post about it](/posts/2021/desktop-sync-files-onedrive-sharepoint/).
 
 ## Other Ways to Access Files
 

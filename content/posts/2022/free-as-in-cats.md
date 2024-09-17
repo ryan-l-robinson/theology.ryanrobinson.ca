@@ -12,7 +12,7 @@ What he meant by that is that you may not pay for the code up front, but you pro
 
 Cats need food, attention (sometimes while you’re trying to sleep or use your computer), clean litter, play time, and so on. Open source technology needs code maintenance and infrastructure to run it.
 
-This is a conversation that came up a lot in a previous job that included consulting with non-profit clients on Constituent Relationship Management (CRM) systems. They were often very excited that we could help them get set up with [CiviCRM](/categories/civicrm/), an open source platform, in part because it was “free.”
+This is a conversation that came up a lot in a previous job that included consulting with non-profit clients on Constituent Relationship Management (CRM) systems. They were often very excited that we could help them get set up with CiviCRM, an open source platform, in part because it was “free.”
 
 We made a habit of explaining that the code may be free, but there would still be costs in other ways. There were costs paid to us to help them configure it properly. There were costs paid to us to apply software maintenance updates on a regular basis. There were costs for a web server to host the site, and CiviCRM did need meaningfully more power – which meant more expensive – than a simple WordPress shared host. There would often be the cost of bugs, both in terms of lost productivity while the bug was present and in terms of time/money to get the bug fixed. There were costs to develop any custom extensions. They had to know all this before they signed off on a project.
 

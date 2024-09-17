@@ -7,7 +7,7 @@ tags:
   - Linux
 ---
 
-I’ve mentioned before that [pa11y](https://github.com/pa11y/pa11y-ci) is a great tool for accessibility testing, specifically in the context of [the koa11y desktop tool.](/websites/koa11y-accessibility-testing-tool/) In this post, I’ll run through installing pa11y-ci on an Oracle Linux 8 server.
+I’ve mentioned before that [pa11y](https://github.com/pa11y/pa11y-ci) is a great tool for accessibility testing, specifically in the context of [the koa11y desktop tool.](/posts/2021/koa11y-accessibility-testing-tool/) In this post, I’ll run through installing pa11y-ci on an Oracle Linux 8 server.
 
 ## NodeJS
 

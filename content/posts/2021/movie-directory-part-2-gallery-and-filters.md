@@ -7,7 +7,7 @@ tags:
   - "Movie Directory"
 ---
 
-In [Movie Directory Part 1](/microsoft-365/power-apps/movie-directory-part-1-the-data/), I described what I was aiming to achieve with this personal project, as well as the Dataverse structure.
+In [Movie Directory Part 1](/posts/2021/movie-directory-part-1-the-data/), I described what I was aiming to achieve with this personal project, as well as the Dataverse structure.
 
 In this post, I’ll describe at a high level the design of the Power App and the gallery view and filters. Most of it I’ll keep at a high-level, not step-by-step, as I used a lot of the out-of-the-box functionality.
 

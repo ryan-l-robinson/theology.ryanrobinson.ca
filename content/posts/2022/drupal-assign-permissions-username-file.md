@@ -11,7 +11,7 @@ Here’s a recent scenario I encountered: a Drupal role needs to be assigned to 
 
 I have pulled out a generic version of this code and [made it available on my GitHub](https://github.com/ryan-l-robinson/drupal-permissions-from-file).
 
-## Hook on login
+## Hook on Login
 
 First, we need to hook on login. When a user signs on, we want to find out if they should have the extra permission. This can be done with [the hook\_user\_login hook](https://api.drupal.org/api/drupal/modules%21user%21user.api.php/function/hook_user_login/7.x).
 
@@ -33,7 +33,7 @@ function permissions_from_file_user_login(&$edit, $account) {
 }
 ```
 
-## Read file
+## Read File
 
 Next we have another function that checks to see if the username is in the file or not:
 

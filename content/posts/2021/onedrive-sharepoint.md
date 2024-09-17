@@ -20,7 +20,7 @@ SharePoint sites are most easily set up attached to Microsoft 365 Groups. Those 
 
 This also extends to search. When files are in SharePoint, anybody with the permissions to see it will also be able to find it within [Microsoft Search](/microsoft-365/microsoft-search-introduction/), unless search indexing is turned off for that SharePoint site.
 
-## Columns, views, and content types
+## Columns, Views, and Content Types
 
 SharePoint brings a pile of functionality that isn’t available in OneDrive. These include:
 
