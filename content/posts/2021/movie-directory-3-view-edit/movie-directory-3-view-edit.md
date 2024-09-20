@@ -13,7 +13,7 @@ This continues a short series about [a movie directory personal project](/tags/m
 
 The view screen started out as a pretty bland list of fields, but rapidly evolved into something more attractive and more functional:
 
-!["View movie screen of Alien3, with all the options selected"](./view-Movie.png)
+!["View movie screen of Alien3, with all the options selected"](./view-movie.png)
 
 The text fields are straightforward. The icons are a bit more complicated. There is one data field with choices for all the different platforms that we own a movie, but I wanted to show it differently, with one icon for everywhere we owned it while hiding the icons for platforms we don’t own it.
 
