@@ -4,7 +4,7 @@ This is the technology blog of Ryan Robinson, built using Eleventy.
 
 ## TODO
 
-- Update to eleventy 3.0, now in beta. In progress on this branch.
+- Update to eleventy 3.0 in progress. Fix CSS being loaded. Fix index page getting set to eleventy-base-blog.
 - Posts overall list: add pagination to view posts in blocks of 20 or so at a time instead of all at once.
 - Individual post display: show the description at the top, in a separately styled box, as a brief overview.
 - Add another taxonomy, like tags but for specific series of posts. Add corresponding sidebar block that only shows up on posts with a series and shows all others in that series, in order.
