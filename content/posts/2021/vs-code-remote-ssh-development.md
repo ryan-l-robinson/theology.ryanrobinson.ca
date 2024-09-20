@@ -39,7 +39,7 @@ You can manually set these for each site, which could be used for scenarios like
 
 [I wrote another recent post that breaks down how Git integration in Code in general](/posts/2021/github-visual-studio-code/). The main difference here is how it ties into the next point: if you can’t use the integrated shell because of the security on the system, you also won’t be able to push in the version control interface.
 
-![Source control window showing the files staged and not staged yet, with interface options for everything you need.](../github-visual-studio-code/source-control.png)
+![Source control window showing the files staged and not staged yet, with interface options for everything you need.](./github-visual-studio-code/source-control.png)
 _Demo of the source control window_
 
 ## Shell integration
