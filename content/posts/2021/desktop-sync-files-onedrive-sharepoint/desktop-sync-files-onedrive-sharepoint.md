@@ -23,7 +23,7 @@ The older strategy is to sync each SharePoint library separately to the computer
 
 The end result looks like this:
 
-!["Communication site – Documents library synced separately"](./sharePoint-library-synced-separately.png)
+!["Communication site – Documents library synced separately"](./sharepoint-library-synced-separately.png)
 
 It’s a completely different folder on your computer from your OneDrive.
 
