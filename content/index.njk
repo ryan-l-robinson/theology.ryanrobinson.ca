@@ -4,10 +4,10 @@ eleventyNavigation:
   key: Home
   order: 1
 pagination:
-  data: collections.posts
+  data: collections.posts | reverse
   size: 10
 ---
 <h1>Latest Posts</h1>
 
-{% set postslist = pagination.items | reverse %}
+{% set postslist = pagination.items %}
 {% include "postslist.njk" %}
