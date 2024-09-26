@@ -8,7 +8,7 @@
 			<p class="postlist-item-time-container"><time class="postlist-item-time" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL d, yyyy") }}</time></p>
 			{% if post.data.tags | filterTagList | length %}
 				<p>Tags:
-				{%- for tag in tags | filterTagList %}
+				{%- for tag in post.data.tags | filterTagList %}
 					{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
 					<a href="{{ tagUrl }}" class="postlist-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}
 				{%- endfor %}
