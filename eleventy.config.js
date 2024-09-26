@@ -45,12 +45,6 @@ export default async function (eleventyConfig) {
 	eleventyConfig.addPlugin(feedPlugin, {
 		outputPath: "/feed/feed.xml",
 		stylesheet: "pretty-atom-feed.xsl",
-		templateData: {
-			eleventyNavigation: {
-				key: "Feed",
-				order: 3
-			}
-		},
 		collection: {
 			name: "posts",
 			limit: 20,
