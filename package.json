@@ -1,26 +1,25 @@
 {
 	"name": "ryan-robinson-tech",
-	"version": "9.0.0",
-	"description": "Ryan Robinson's tech blog, built using eleventy on the starter theme",
+	"version": "1.0.0",
+	"description": "Ryan Robinson's tech blog, built using eleventy",
 	"type": "module",
 	"scripts": {
 		"build": "npx @11ty/eleventy",
 		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
-		"build-ghpages": "npx @11ty/eleventy --pathprefix=/eleventy-base-blog/",
+		"build-ghpages": "npx @11ty/eleventy --pathprefix=/",
 		"start": "npx @11ty/eleventy --serve --quiet",
-		"start-ghpages": "npx @11ty/eleventy --pathprefix=/eleventy-base-blog/ --serve --quiet",
+		"start-ghpages": "npx @11ty/eleventy --pathprefix=/ --serve --quiet",
 		"debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
 		"debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
 		"benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/11ty/eleventy-base-blog.git"
+		"url": "https://github.com/ryan-l-robinson/tech.ryanrobinson.ca"
 	},
 	"author": {
-		"name": "Zach Leatherman",
-		"email": "zachleatherman@gmail.com",
-		"url": "https://zachleat.com/"
+		"name": "Ryan Robinson",
+		"url": "https://ryanrobinson.ca"
 	},
 	"license": "MIT",
 	"engines": {
@@ -30,10 +29,6 @@
 		"type": "opencollective",
 		"url": "https://opencollective.com/11ty"
 	},
-	"bugs": {
-		"url": "https://github.com/11ty/eleventy-base-blog/issues"
-	},
-	"homepage": "https://github.com/11ty/eleventy-base-blog#readme",
 	"devDependencies": {
 		"@11ty/eleventy": "^3.0.0-beta",
 		"@11ty/eleventy-img": "^5.0.0-beta",
