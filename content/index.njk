@@ -9,5 +9,5 @@ pagination:
 ---
 <h1>Latest Posts</h1>
 
-{% set postslist = pagination.items %}
+{% set postslist = pagination.items | reverse %}
 {% include "postslist.njk" %}
