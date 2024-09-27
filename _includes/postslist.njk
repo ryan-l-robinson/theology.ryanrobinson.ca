@@ -23,8 +23,8 @@
 	<h2 class="posts-pagination visually-hidden">Pagination Links to More Posts</h2>
 	<ul class="pager">
 	    {%- set currentIndex = pagination.pageNumber %}
-		{%- set startIndex = currentIndex - 4 %}
-		{%- set endIndex = currentIndex + 4 %}
+		{%- set startIndex = currentIndex - 3 %}
+		{%- set endIndex = currentIndex + 3 %}
 		{% if page.url != pagination.href.first and currentIndex >= startIndex %}<li><a href="{{ pagination.href.first }}">« First</a></li>{% endif %}
 		{%- for pageEntry in pagination.pages %}
 			{%- if loop.index0 >= startIndex and loop.index0 <= endIndex %}
