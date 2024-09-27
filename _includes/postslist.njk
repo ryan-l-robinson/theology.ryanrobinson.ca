@@ -22,12 +22,12 @@
 <nav aria-labelledby="posts-pagination">
 	<h2 class="posts-pagination visually-hidden">Pagination Links to More Posts</h2>
 	<ul class="pager">
-		<li>{% if page.url != pagination.href.first %}<a href="{{ pagination.href.first }}">First</a>{% else %}First{% endif %}</li>
+		{% if page.url != pagination.href.first %}<li><a href="{{ pagination.href.first }}">First</a></li>{% endif %}
 		{%- for pageEntry in pagination.pages %}
 			<li>
 				<a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a>
 			</li>
 		{%- endfor %}
-		<li>{% if page.url != pagination.href.last %}<a href="{{ pagination.href.last }}">Last</a>{% else %}Last{% endif %}</li>
+		{% if page.url != pagination.href.last %}<li><a href="{{ pagination.href.last }}">Last</a></li>{% endif %}
 	</ul>
 </nav>
