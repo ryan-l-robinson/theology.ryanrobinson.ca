@@ -22,11 +22,12 @@
 <nav aria-labelledby="posts-pagination">
 	<h2 class="posts-pagination visually-hidden">Pagination Links to More Posts</h2>
 	<ul class="pager">
-		{% if page.url != pagination.href.first %}<li><a href="{{ pagination.href.first }}">« First</a></li>{% endif %}
+	    {%- set currentIndex = pagination.pageNumber %}
+		{%- set startIndex = currentIndex - 4 %}
+		{%- set endIndex = currentIndex + 4 %}
+		{% if page.url != pagination.href.first && currentIndex <= startIndex %}<li><a href="{{ pagination.href.first }}">« First</a></li>{% endif %}
 		{%- for pageEntry in pagination.pages %}
-		    {%- set currentIndex = pagination.pageNumber %}
-			{%- set startIndex = currentIndex - 4 %}
-			{%- set endIndex = currentIndex + 4 %}
+
 			{%- if loop.index0 >= startIndex and loop.index0 <= endIndex %}
 				{%- if loop.index0 == currentIndex %}
 				<li class="current-page">{{ loop.index }}</li>
@@ -37,6 +38,6 @@
 				{%- endif %}
 			{%- endif %}
 		{%- endfor %}
-		{% if page.url != pagination.href.last %}<li><a href="{{ pagination.href.last }}">Last ({{ pagination.pages | length }}) »</a></li>{% endif %}
+		{% if page.url != pagination.href.last  && currentIndex >= endIndex %}<li><a href="{{ pagination.href.last }}">Last ({{ pagination.pages | length }}) »</a></li>{% endif %}
 	</ul>
 </nav>
