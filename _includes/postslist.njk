@@ -22,6 +22,6 @@
 <h2 class="visually-hidden">Pagination Links to More Posts</h2>
 <ul class="pager">
 	{%- for pageEntry in pagination.pages %}
-		<li><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
+		<li{% if page.url == pagination.hrefs[ loop.index0 ] %} class="active-page"{% endif %}><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
 	{%- endfor %}
 </ul>
