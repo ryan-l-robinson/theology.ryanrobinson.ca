@@ -21,19 +21,19 @@
 </div>
 <h2 class="visually-hidden">Pagination Links to More Posts</h2>
 <ul class="pager">
+	{% if pagination.hrefs[ loop.index0 ] != pagination.hrefs.first %}
+		<li>
+			<a href="{{ pagination.hrefs.first }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>First</a>
+		</li>
+	{% endif %}
 	{%- for pageEntry in pagination.pages %}
-		{% if pagination.hrefs[ loop.index0 ] != pagination.hrefs.first %}
-			<li>
-				<a href="{{ pagination.hrefs.first }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>First</a>
-			</li>
-		{% endif %}
 		<li>
 			<a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a>
 		</li>
-		{% if pagination.hrefs[ loop.index0 ] != pagination.hrefs.last %}
-			<li>
-				<a href="{{ pagination.hrefs.last }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>Last</a>
-			</li>
-		{% endif %}
 	{%- endfor %}
+	{% if pagination.hrefs[ loop.index0 ] != pagination.hrefs.last %}
+		<li>
+			<a href="{{ pagination.hrefs.last }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>Last</a>
+		</li>
+	{% endif %}
 </ul>
