@@ -1,5 +1,5 @@
 ---
-title: "SharePoint: Overriding a Site&#8217;s Home Page"
+title: "SharePoint: Overriding a Site's Home Page"
 date: "2021-06-14T13:26:00-04:00"
 author: "Ryan Robinson"
 tags:
