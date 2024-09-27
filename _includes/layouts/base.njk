@@ -36,15 +36,17 @@
 			</div>
 		</header>
 
-		<main id="skip">
-			<div class="main-content">
-				{{ content | safe }}
-			</div>
-			<div class="sidebar">
-				{% include "serieslist.njk" %}
-				{% include "tagslist.njk" %}
-			</div>
-		</main>
+		<div="main-wrapper">
+			<main id="skip">
+				<div class="main-content">
+					{{ content | safe }}
+				</div>
+				<div class="sidebar">
+					{% include "serieslist.njk" %}
+					{% include "tagslist.njk" %}
+				</div>
+			</main>
+		</div>
 
 		<footer>
 			<div class="container">
