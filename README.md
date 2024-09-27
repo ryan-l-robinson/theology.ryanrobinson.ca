@@ -4,7 +4,6 @@ This is the technology blog of Ryan Robinson, built using Eleventy.
 
 ## TODO
 
-- Posts overall list: improve styles on pagination. Only show 4 in each direction of current, plus a First and Last?
 - Individual post display: show the description at the top, in a separately styled box, as a brief overview.
 - Add another taxonomy, like tags but for specific series of posts. Add corresponding sidebar block that only shows up on posts with a series and shows all others in that series, in order.
 - Tags page? Posts page? Posts by year page? These are possibilities implied by the URL patterns, but don't exist (tags used to but I deleted it because they're already in the sidebar)

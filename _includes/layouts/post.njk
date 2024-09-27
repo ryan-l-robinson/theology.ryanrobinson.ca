@@ -19,6 +19,7 @@ layout: layouts/base.njk
 </div>
 
 {# This doesn't work yet. Trying to add the description here. #}
+{{ page | dump }}
 {% if page.description %}
 	<div class="post-description">
 		{{ page.description }}
