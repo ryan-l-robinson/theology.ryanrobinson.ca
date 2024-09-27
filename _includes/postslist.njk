@@ -25,7 +25,7 @@
 	    {%- set currentIndex = pagination.pageNumber %}
 		{%- set startIndex = currentIndex - 3 %}
 		{%- set endIndex = currentIndex + 3 %}
-		{% if page.url != pagination.href.first and currentIndex > 3 %}
+		{% if page.url != pagination.href.first and currentIndex >= 3 %}
 			<li><a href="{{ pagination.href.first }}">« First</a></li>
 		{% endif %}
 		{%- for pageEntry in pagination.pages %}
@@ -35,7 +35,7 @@
 				</li>
 			{%- endif %}
 		{%- endfor %}
-		{% if page.url != pagination.href.last and currentIndex < (pagination.pages | length - 3) %}
+		{% if page.url != pagination.href.last and currentIndex <= (pagination.pages | length - 3) %}
 			<li><a href="{{ pagination.href.last }}">Last ({{ pagination.pages | length }}) »</a></li>
 		{% endif %}
 	</ul>
