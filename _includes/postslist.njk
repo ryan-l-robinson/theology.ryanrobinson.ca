@@ -24,9 +24,18 @@
 	<ul class="pager">
 		{% if page.url != pagination.href.first %}<li><a href="{{ pagination.href.first }}">First</a></li>{% endif %}
 		{%- for pageEntry in pagination.pages %}
-			<li>
-				<a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a>
-			</li>
+		    {%- set currentIndex = pagination.pageNumber %}
+			{%- set startIndex = currentIndex - 4 %}
+			{%- set endIndex = currentIndex + 4 %}
+			{%- if loop.index0 >= startIndex and loop.index0 <= endIndex %}
+				{%- if loop.index0 == currentIndex %}
+				<li aria-current="page">{{ loop.index }}</li>
+				{%- else %}
+				<li>
+					<a href="{{ pagination.hrefs[ loop.index0 ] }}">{{ loop.index }}</a>
+				</li>
+				{%- endif %}
+			{%- endif %}
 		{%- endfor %}
 		{% if page.url != pagination.href.last %}<li><a href="{{ pagination.href.last }}">Last</a></li>{% endif %}
 	</ul>
