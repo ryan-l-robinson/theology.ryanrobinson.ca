@@ -35,7 +35,7 @@
 				</li>
 			{%- endif %}
 		{%- endfor %}
-		{% if page.url != pagination.href.last and currentIndex < 3 %}
+		{% if page.url != pagination.href.last and currentIndex < (pagination.pages | length - 3) %}
 			<li><a href="{{ pagination.href.last }}">Last ({{ pagination.pages | length }}) »</a></li>
 		{% endif %}
 	</ul>
