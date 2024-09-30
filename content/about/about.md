@@ -18,7 +18,7 @@ I have also obtained some Microsoft 365 certifications:
 
 ### Microsoft 365 Certified: Enterprise Administrator Expert
 
-{% image "./microsoft-365-certified-enterprise-administrator-expert.png", "Enterprise Administrator Expert badge" %}
+![Enterprise Administrator Expert badge](./microsoft-365-certified-enterprise-administrator-expert.png)
 
 ### Microsoft 365 Certified: Teams Administrator Associate
 
