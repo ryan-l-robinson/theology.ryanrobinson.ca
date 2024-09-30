@@ -13,9 +13,13 @@ layout: layouts/home.njk
 eleventyComputed:
   title: Posts Tagged “{{ tag }}”
 permalink: /tags/{{ tag | slugify }}/
+pagination:
+  data: collections[ tag ]
+  size: 10
+  reverse: true
 ---
 
 <h1>Posts Tagged “{{ tag }}”</h1>
 
-{% set postslist = collections[ tag ] %}
+{% set postslist = pagination.items %}
 {% include "postslist.njk" %}
