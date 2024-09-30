@@ -1,7 +1,7 @@
 ---
 pagination:
   data: collections
-  size: 1
+  size: 10
   alias: tag
   filter:
     - all
@@ -9,14 +9,11 @@ pagination:
     - posts
     - tagList
   addAllPagesToCollections: true
+  reverse: true
 layout: layouts/home.njk
 eleventyComputed:
   title: Posts Tagged “{{ tag }}”
 permalink: /tags/{{ tag | slugify }}/
-pagination:
-  data: collections.posts[ tag ]
-  size: 10
-  reverse: true
 ---
 
 <h1>Posts Tagged “{{ tag }}”</h1>
