@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 3
 ---
 
-Here are some of my favourite tools I make use of in my tech work:
+Here are some of my favourite tools I make use of in my tech work. Some of these do have more posts about their usage.
 
 ## Text Editor
 
@@ -20,7 +20,7 @@ Here are some of my favourite tools I make use of in my tech work:
 
 ## Code Repositories
 
-Git with [GitLab](https://about.gitlab.com/) or [GitHub](https://github.com/): for the most part I use GitLab professionally and GitHub personally. GitLab gives a bit more project management tools out of the box, but they're both great.
+Git with [GitLab](https://about.gitlab.com/) or [GitHub](https://github.com/): for the most part I use GitLab professionally and GitHub personally. GitLab gives a bit more project management tools out of the box, but they're both great. [See posts tagged as Git, GitLab, and GitHub](/tags/git-gitlab-and-github/).
 
 ## Accessibility Testing
 
@@ -28,12 +28,12 @@ Git with [GitLab](https://about.gitlab.com/) or [GitHub](https://github.com/): f
 
 [Pa11y](https://pa11y.org/): testing tools that are especially great from a command line, including being able to incorporate them into CI/CD pipeline tests.
 
-[Playwright with Axe](https://playwright.dev/docs/accessibility-testing): Playwright is a general testing tool that can simulate browser activity. Axe-core provides accessibility test results. Together, you can carry out actions - as simple as loading a page or more complicated such as expanding menus - and then run accessibility tests. These can be run well within CI/CD automated tests as well as locally, with great VS Code support.
+[Playwright with Axe](https://playwright.dev/docs/accessibility-testing): Playwright is a general testing tool that can simulate browser activity. Axe-core provides accessibility test results. Putting them together, you can carry out actions - as simple as loading a page or more complicated such as expanding menus - and then run accessibility tests. These can be run well within CI/CD automated tests as well as locally with great VS Code support.
 
-[Brandwood](http://brandwood.com/a11y/): a tool that is specifically helpful for finding contrast errors of text against an image background. [See my blog post about Brandwood](/websites/brandwood-a11y/).
+[See posts tagged as accessibility](/tags/accessibility/).
 
 ## Database Management
 
-[MySQL Workbench](https://www.mysql.com/products/workbench/): a heavy-duty database tool that lets you see the database in convenient table views, edit inline, and run other commands. [See my blog post about MySQL Workbench](/websites/mysql-workbench/).
+[MySQL Workbench](https://www.mysql.com/products/workbench/): a heavy-duty database tool that lets you see the database in convenient table views, edit inline, and run other commands. [See my blog post about MySQL Workbench](/posts/2021/mysql-workbench/).
 
 [MySQL Extension in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2): extension to access MySQL servers, including viewing in an easy-to-read table format and running queries.
