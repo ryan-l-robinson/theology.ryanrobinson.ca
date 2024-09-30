@@ -4,7 +4,8 @@ This is the technology blog of Ryan Robinson, built using Eleventy.
 
 ## TODO
 
-- About/Tools page: make images consistent size and review text and links for accuracy.
+- About/Tools page: make images consistent size.
+- Posts by tag page: fix with pagination.
 - Header: add a search box - there's probably an eleventy module for that? https://rknight.me/blog/using-pagefind-with-eleventy-for-search/
 - Remove the homepage message box. Keep the functionality in case I want to use that again. Start to phase out ryanrobinson.technology and point everything here instead, including updating links in dev.to.
 - Add another taxonomy, like tags but for specific series of posts. Add corresponding sidebar block that only shows up on posts with a series and shows all others in that series, in order.
