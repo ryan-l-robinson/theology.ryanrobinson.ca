@@ -14,7 +14,7 @@ eleventyComputed:
   title: Posts Tagged “{{ tag }}”
 permalink: /tags/{{ tag | slugify }}/
 pagination:
-  data: collections[ tag ]
+  data: collections.posts[ tag ]
   size: 10
   reverse: true
 ---
