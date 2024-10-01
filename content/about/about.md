@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/sidebar.njk
 title: About Ryan and This Site
 eleventyNavigation:
   key: About

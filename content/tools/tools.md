@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/sidebar.njk
 title: Main Technical Tools
 eleventyNavigation:
   key: Tools
