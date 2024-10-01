@@ -17,7 +17,7 @@ eleventyComputed:
 permalink: /tags/{{ tag | slugify }}/
 ---
 
-{% set unfilteredPosts = collections.tag %}
+{% set unfilteredPosts = collections[tag] %}
 {% set pageSize = 10 %}
 {% set currentPage = pagination.pageNumber %}
 {% set totalPages = (unfilteredPosts.length / pageSize) | round(0, 'ceil') %}
