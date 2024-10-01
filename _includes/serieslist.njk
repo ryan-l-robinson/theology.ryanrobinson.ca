@@ -1,11 +1,9 @@
-{% set currentSeries = post.data.series %}
-{{ post.data.series }}
 {# TODO: this doesn't work. Not clear it can even read what the series is on the current page. #}
-{% if currentSeries %}
+{% if series %}
 	<aside class="sidebar-block" aria-label="Posts in this series">
-		<h2>Posts in {{ currentSeries }} Series</h2>
+		<h2>Posts in {{ series }} Series</h2>
 		<ol class="series-list">
-			{% for post in collections.posts | postsWithMetadata("series", currentSeries) %}
+			{% for post in collections.posts | postsWithMetadata("series", series) %}
     			<li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
 			{% endfor %}
 		</ol>
