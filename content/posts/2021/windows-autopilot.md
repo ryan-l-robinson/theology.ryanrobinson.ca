@@ -2,9 +2,9 @@
 title: "Microsoft Endpoint Manager: Windows Autopilot"
 date: "2021-05-19T16:08:00-04:00"
 author: "Ryan Robinson"
+series: MS-101
 tags:
   - Microsoft 365
-  - MS-101
 ---
 
 Windows Autopilot is a great system for deploying new Windows 10 devices, especially in the age of COVID-19 and so many working from home. [Here’s the official documentation breaking down the details](https://docs.microsoft.com/en-us/mem/autopilot/windows-autopilot).

@@ -2,9 +2,9 @@
 title: "Microsoft Teams: Guest Access"
 date: "2021-08-13T08:31:00-04:00"
 author: "Ryan Robinson"
+series: MS-700
 tags:
   - "Microsoft 365"
-  - MS-700
 ---
 
 Microsoft Teams is not just for users in your organization. You can also use it to collaborate with people from other organizations or no organization at all. Here are a few things to keep in mind:

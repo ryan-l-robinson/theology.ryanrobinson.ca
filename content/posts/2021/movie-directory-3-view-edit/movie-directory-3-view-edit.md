@@ -2,9 +2,9 @@
 title: "Movie Directory Part 3: View and Edit"
 date: "2021-06-29T07:05:00-04:00"
 author: "Ryan Robinson"
+series: Movie Directory
 tags:
   - "Microsoft 365"
-  - "Movie Directory"
 ---
 
 This continues a short series about [a movie directory personal project](/tags/movie-directory/) exploring Power Apps and Dataverse. In the first two posts, I’ve laid out the data structure in Dataverse and the gallery and filters screens in the Power App. This post will tackle viewing and editing a single movie record in the app.

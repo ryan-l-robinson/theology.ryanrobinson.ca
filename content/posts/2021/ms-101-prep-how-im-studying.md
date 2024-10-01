@@ -3,9 +3,9 @@ title: "MS-101 Prep: How I'm Studying"
 description: "A brief overview of the tools used for studying for the MS-101"
 date: "2021-02-25T10:30:56-05:00"
 author: "Ryan Robinson"
+series: MS-101
 tags:
   - Microsoft 365
-  - MS-101
 ---
 
 Over the last few months, I’ve been working on preparing for [the MS-101 exam](https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101). This exam covers a few topics around enterprise device management and security. I’ve mostly been studying with a few methods:

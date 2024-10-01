@@ -2,9 +2,9 @@
 title: "Microsoft Endpoint Manager: Device Configuration Policies"
 date: "2021-05-26T03:38:00-04:00"
 author: "Ryan Robinson"
+series: MS-101
 tags:
   - Microsoft 365
-  - MS-101
   - Security
 ---
 

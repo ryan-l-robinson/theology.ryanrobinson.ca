@@ -2,9 +2,9 @@
 title: "Microsoft Teams: Network Tests"
 date: "2021-08-05T08:19:00-04:00"
 author: "Ryan Robinson"
+series: "MS-700"
 tags:
   - "Microsoft 365"
-  - MS-700
 ---
 
 If you’re going to deploy Microsoft Teams in your business network, you’ll need to confirm first that your network can handle it. That means fast enough bandwidth speeds to handle everything you want all of your employees to be able to do, as well as having all the ports open for the necessary traffic to get through. If you’re going to need hundreds of users on the same network sharing their screens alongside their video and audio in meetings of 50 people, that will eat up a lot of network resources.

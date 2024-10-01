@@ -2,9 +2,9 @@
 title: "Azure AD: Conditional Access Policies"
 date: "2021-05-10T08:24:00-04:00"
 author: "Ryan Robinson"
+series: MS-101
 tags:
   - "Microsoft 365"
-  - MS-101
   - Security
 ---
 

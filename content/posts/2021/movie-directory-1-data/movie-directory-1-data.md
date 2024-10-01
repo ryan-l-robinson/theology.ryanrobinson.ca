@@ -2,9 +2,9 @@
 title: "Movie Directory Part 1: The Data"
 date: "2021-06-18T09:52:00-04:00"
 author: "Ryan Robinson"
+series: Movie Directory
 tags:
   - "Microsoft 365"
-  - "Movie Directory"
 ---
 
 I recently decided to do more experimentation with Dataverse (formerly Common Data Service) in the Power Platform. I did this by making myself an app to solve a need I have myself: a movie directory app. I wanted to be able to:

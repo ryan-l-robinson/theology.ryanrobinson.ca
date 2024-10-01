@@ -1,9 +1,9 @@
 ---
 title: "Data Loss Prevention (DLP) Policies"
 date: "2021-05-03T12:04:00-04:00"
+series: MS-101
 tags:
   - "Microsoft 365"
-  - MS-101
   - Security
 ---
 

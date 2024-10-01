@@ -2,9 +2,9 @@
 title: "SharePoint: Overriding a Site's Home Page"
 date: "2021-06-14T13:26:00-04:00"
 author: "Ryan Robinson"
+series: "SharePoint Site Provisioning"
 tags:
   - "Microsoft 365"
-  - "SharePoint Site Provisioning"
 ---
 
 This post continues a series on [SharePoint site provisioning](/tags/sharepoint-site-provisioning/), unpacking some of the problems I’ve faced and overcome in building SharePoint site provisioning solutions.

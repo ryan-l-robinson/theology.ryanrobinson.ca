@@ -2,9 +2,9 @@
 title: "Microsoft Endpoint Manager: Enrolling Devices"
 date: "2021-05-12T04:11:00-04:00"
 author: "Ryan Robinson"
+series: MS-101
 tags:
   - "Microsoft 365"
-  - MS-101
 ---
 
 Suppose you’ve started to move toward managing your devices in Microsoft Endpoint Manager (Intune). [There are a lot of methods available to do that](https://docs.microsoft.com/en-us/mem/intune/enrollment/device-enrollment). I’ll highlight just a few of the most interesting:

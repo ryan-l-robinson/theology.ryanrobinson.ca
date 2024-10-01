@@ -2,9 +2,9 @@
 title: "Movie Directory Part 4: Import"
 date: "2021-07-01T11:03:00-04:00"
 author: "Ryan Robinson"
+series: Movie Directory
 tags:
   - "Microsoft 365"
-  - "Movie Directory"
 ---
 
 This continues a short series about [a movie directory personal project](/tags/movie-directory/) exploring Power Apps and Dataverse. In the first three posts, I’ve laid out the data structure in Dataverse and the app itself. This post will tackle how I was able to quickly fill in the 300+ movies in our collection converting from our previous system, files on a computer arranged for use on a Plex server. This will all be done in Power Automate.

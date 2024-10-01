@@ -2,9 +2,9 @@
 title: "Movie Directory Part 2: Gallery and Filters"
 date: "2021-06-25T14:03:00-04:00"
 author: "Ryan Robinson"
+series: Movie Directory
 tags:
   - "Microsoft 365"
-  - "Movie Directory"
 ---
 
 In [Movie Directory Part 1](/posts/2021/movie-directory-1-data/), I described what I was aiming to achieve with this personal project, as well as the Dataverse structure.

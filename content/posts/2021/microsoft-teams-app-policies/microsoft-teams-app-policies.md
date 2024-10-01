@@ -2,10 +2,7 @@
 title: "Microsoft Teams: App Policies"
 date: "2021-08-02T09:05:00-04:00"
 author: "Ryan Robinson"
-category: "Microsoft 365"
-tags:
-  - posts
-  - MS-700
+series: "MS-700"
 ---
 
 Suppose you want to lock the sidebar in Teams for some users to ensure that they don’t have different experiences, which can help with providing support and documentation as well as make sure nobody accidentally loses their easy access to the app they want to use. But you don’t want to lock all users; there are some like your IT department that might need some freedom to use their Teams differently.

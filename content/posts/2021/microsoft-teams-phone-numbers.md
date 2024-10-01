@@ -2,9 +2,9 @@
 title: 'Microsoft Teams: Phone Numbers'
 date: '2021-08-19T02:58:00-04:00'
 author: 'Ryan Robinson'
+series: MS-700
 tags:
     - "Microsoft 365"
-    - MS-700
 ---
 
 I personally have not used Microsoft Teams as a phone system. My employers have stuck completely with Internet-based communications, mostly to others in the same organization. But if you want to integrate your organization’s phone system into Teams and have your phone calls ring through in Teams, that’s absolutely possible.
