@@ -2,10 +2,10 @@
 title: "GitLab DevOps: GitLab Runner"
 date: 2022-02-09T14:03:00.000Z
 author: Ryan Robinson
+series: GitLab DevOps
 tags:
   - Git, GitLab, and GitHub
   - DevOps
-  - GitLab DevOps
 ---
 
 This relates to [the GitLab DevOps process](/tags/gitlab-devops/). GitLab can automate deployment to a server, meaning that you do not have to log in to that server separately to pull the changes and carry out any other needed steps for the installation.
