@@ -1,8 +1,14 @@
 ---
-layout: layouts/sidebar.njk
 pagination:
-  data: collections.posts
+  data: collections
   size: 10
+  alias: tag
+  filter:
+    - all
+    - post
+    - posts
+    - tagList
+  addAllPagesToCollections: true
   reverse: true
 eleventyComputed:
   title: Posts Tagged “{{ tag }}”
