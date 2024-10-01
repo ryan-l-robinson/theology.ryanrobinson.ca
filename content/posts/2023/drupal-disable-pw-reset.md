@@ -2,6 +2,7 @@
 title: "Drupal: Disable Password Reset"
 date: 2023-01-08T17:00:00-05:00
 author: Ryan Robinson
+description: "How to block the user registration and password reset forms in Drupal."
 tags:
   - Drupal
   - Security

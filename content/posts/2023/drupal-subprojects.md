@@ -2,7 +2,7 @@
 title: "Composer: Options for a Submodule"
 date: 2023-07-09T14:12:00-05:00
 author: Ryan Robinson
-category: Websites
+description: "Strategies for putting one git project within another."
 tags:
   - Drupal
   - Git, GitLab, and GitHub

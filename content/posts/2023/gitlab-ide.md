@@ -2,6 +2,7 @@
 title: GitLab's New Web IDE
 date: 2023-01-03T15:22:00.000Z
 author: Ryan Robinson
+description: "Check out GitLab's new and improved web IDE."
 tags:
   - Visual Studio Code
   - Git, GitLab, and GitHub

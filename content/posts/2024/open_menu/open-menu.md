@@ -2,6 +2,7 @@
 title: "Drupal: Open Menu"
 date: 2024-02-21T17:44:00-05:00
 author: Ryan Robinson
+description: "How we built a more accessible menu alternative"
 tags:
   - Drupal
   - Accessibility

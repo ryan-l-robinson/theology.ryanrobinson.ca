@@ -2,8 +2,9 @@
 title: On Algorithms and Section 230
 date: 2023-02-26T08:18:09-05:00
 author: Ryan Robinson
+description: "Musings about the U.S.'s section 230 and moderation requirements."
 tags:
-    - Tech and Society
+    - Commentary
 ---
 
 

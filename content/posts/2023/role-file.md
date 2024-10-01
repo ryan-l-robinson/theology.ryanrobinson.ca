@@ -2,6 +2,7 @@
 title: "Drupal: Add Role Based on File"
 date: 2023-08-07T17:46:00.000Z
 author: Ryan Robinson
+description: "An update to a Drupal module that grants permission based on a file."
 tags:
   - Drupal
 ---

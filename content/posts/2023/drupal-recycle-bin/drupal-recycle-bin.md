@@ -2,6 +2,7 @@
 title: "Drupal: Recycle Bin"
 date: 2023-03-01T18:46:00-05:00
 author: Ryan Robinson
+description: "How to devise your own recycle bin system in Drupal"
 tags:
   - Drupal
 ---

@@ -2,6 +2,7 @@
 title: Brandwood A11y Checker
 date: 2023-01-09T08:18:09-05:00
 author: Ryan Robinson
+description: "An accessibility tool for testing contrast of text on an image."
 tags:
     - Accessibility
 ---

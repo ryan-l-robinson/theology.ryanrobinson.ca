@@ -2,6 +2,7 @@
 title: "Drupal: Importing Multiple Paragraphs"
 date: 2023-01-04T16:46:00.000Z
 author: Ryan Robinson
+description: "How to bulk export and then import multiple paragraphs in Drupal."
 tags:
   - Drupal
   - PHP

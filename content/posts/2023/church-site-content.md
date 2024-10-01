@@ -2,8 +2,9 @@
 title: Church Website Content
 date: 2023-08-07T18:46:00.000Z
 author: Ryan Robinson
+description: "Notes on some common questions a church website should answer."
 tags:
-    - Tech and Society
+    - Commentary
 ---
 
 This is not my usual type of content for this site, but I was reminded of it from a Mastodon conversation and wanted to put it somewhere more or less permanent. Before building the latest iteration of my church's website several years ago, I put out the question on Twitter for what information people want before they would consider visiting. I sent those to the church leadership and still had the document, so I looked it up to summarize those questions again below:

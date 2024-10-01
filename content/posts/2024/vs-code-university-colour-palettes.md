@@ -1,8 +1,8 @@
 ---
 title: "VS Code: University Colour Palettes"
-description: I like using different VS Code colour combinations. I designed a few based on some university colour schemes.
 date: 2024-04-08T17:10:28.000Z
 author: Ryan Robinson
+description: I like using different VS Code colour combinations. I designed a few based on some university colour schemes.
 tags:
   - Visual Studio Code
 ---

@@ -2,6 +2,7 @@
 title: "Drupal: Include Default View in Module"
 date: 2023-02-23T22:46:00.000Z
 author: Ryan Robinson
+description: "How to include a view configuration as part of installing a module."
 tags:
   - Drupal
   - PHP

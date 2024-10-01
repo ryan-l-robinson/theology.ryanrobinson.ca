@@ -2,6 +2,7 @@
 title: "Drupal: OpenAI Module"
 date: 2023-05-03T18:46:00-05:00
 author: Ryan Robinson
+description: "An introduction to an OpenAI module for Drupal."
 tags:
   - Drupal
 ---

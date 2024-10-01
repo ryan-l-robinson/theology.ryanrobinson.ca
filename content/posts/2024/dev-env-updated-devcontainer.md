@@ -1,9 +1,12 @@
 ---
 title: "Drupal Dev Environment Updated: The DevContainer"
-description: "An updated version of the devcontainer for a Drupal dev environment."
 date: 2024-04-08T15:46:00.000Z
 author: Ryan Robinson
+description: "An updated version of the devcontainer for a Drupal dev environment."
 series: Drupal Docker
+tags:
+    - Drupal
+    - DevOps
 ---
 
 This continues from [a previous post](/posts/2024/dev-env-updated-dockerfiles/) about a new Drupal dev environment, a significant upgrade from some previous posts that you can find on [the Drupal Docker tag](/tags/drupal-docker/). That covered the Dockerfiles, while this will cover changes to the Devcontainer.json and the postCreateCommand script. [The whole project's code can be found on my GitHub](https://github.com/ryan-l-robinson/Drupal-Devcontainer).

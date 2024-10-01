@@ -2,7 +2,7 @@
 title: "Accessibility: Level of Descriptiveness"
 date: 2023-06-11T13:46:00-05:00
 author: Ryan Robinson
-category: Websites
+description: "An attempt to navigate the tensions between a lot of detail and more efficient browsing in accessible text alternatives."
 tags:
   - Accessibility
 ---

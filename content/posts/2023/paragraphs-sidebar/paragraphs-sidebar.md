@@ -2,6 +2,7 @@
 title: 'Drupal: Paragraphs Sidebar'
 date: '2023-03-29T17:46:00-05:00'
 author: 'Ryan Robinson'
+description: "How to put a sidebar block in Drupal with content from a paragraph."
 tags:
   - Drupal
 ---
