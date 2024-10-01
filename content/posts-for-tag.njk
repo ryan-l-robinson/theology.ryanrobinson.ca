@@ -1,17 +1,7 @@
 ---
 layout: layouts/sidebar.njk
 eleventyImport:
-  collections: ["posts[tag]"]
-pagination:
-  data: collections
-  size: 1
-  alias: tag
-  filter:
-    - all
-    - post
-    - posts
-    - tagList
-  addAllPagesToCollections: true
+  collections: ["posts"]
 eleventyComputed:
   title: Posts Tagged “{{ tag }}”
 permalink: /tags/{{ tag | slugify }}/
