@@ -1,11 +1,10 @@
 ---
-layout: layouts/sidebar.njk
 eleventyImport:
-  collections: ["posts"]
+  collections: [tag]
 pagination:
   data: collections
   size: 10
   reverse: true
 ---
-{% set postslist = collections[ tag ] %}
+{% set postslist = collections %}
 {% include "postslist.njk" %}
