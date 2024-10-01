@@ -2,8 +2,8 @@
 layout: layouts/no-sidebar.njk
 title: "Tags"
 ---
-
-<ul>
+{%- css %}{% include "public/css/tags-page.css" %}{% endcss %}
+<ul class="tags-list">
 {% for tag in collections | getKeys | filterTagList %}
 	{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
 	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a> ({{ collections[tag].length }})</li>
