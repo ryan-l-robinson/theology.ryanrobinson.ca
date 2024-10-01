@@ -1,4 +1,5 @@
 ---
+layout: layouts/sidebar.njk
 pagination:
   data: collections
   size: 1
@@ -9,11 +10,9 @@ pagination:
     - posts
     - tagList
   addAllPagesToCollections: true
-  reverse: true
 eleventyComputed:
   title: Posts Tagged “{{ tag }}”
 permalink: /tags/{{ tag | slugify }}/
 ---
-
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}
