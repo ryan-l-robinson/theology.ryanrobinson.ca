@@ -17,7 +17,11 @@ eleventyComputed:
 permalink: /tags/{{ tag | slugify }}/
 ---
 
-{% set postslist = collections.tag %}
+{% set unfilteredPosts = collections.tag %}
+{% set pageSize = 10 %}
+{% set currentPage = pagination.pageNumber %}
+{% set totalPages = (unfilteredPosts.length / pageSize) | round(0, 'ceil') %}
+{% set postslist = unfilteredPosts.slice(currentPage * pageSize, (currentPage + 1) * pageSize) %}
 {# TODO: as far as I can tell, the problem here is that pagination gets defined with one page per tag, in order to create pages of each tag. #}
 {# But then that same pagination variable is used in the postslist, with it trying to show the tags instead of the posts #}
 {% include "postslist.njk" %}
