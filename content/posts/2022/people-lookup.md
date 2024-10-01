@@ -2,9 +2,9 @@
 title: "Power Apps: People Lookup"
 date: 2022-05-02T16:00:00.000Z
 author: Ryan Robinson
+series: SharePoint Site Provisioning
 tags:
     - Microsoft 365
-    - SharePoint Site Provisioning
 ---
 
 ## Background

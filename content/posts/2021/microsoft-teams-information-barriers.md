@@ -3,9 +3,7 @@ title: 'Microsoft Teams: Information Barriers'
 date: '2021-08-16T08:59:00-04:00'
 author: 'Ryan Robinson'
 category: "Microsoft 365"
-tags:
-  - posts
-  - MS-700
+series: MS-700
 ---
 
 What if you need to partition your organization so that some members of your tenant cannot communicate with others in Teams? For example, maybe you have interns who you do want to have Teams access but not to any sensitive information.

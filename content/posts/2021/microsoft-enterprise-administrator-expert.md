@@ -2,10 +2,9 @@
 title: Microsoft Enterprise Administrator Expert
 date: 2021-11-21T22:25:43.000Z
 author: Ryan Robinson
+series: MS-101
 tags:
     - Microsoft 365
-    - MS-101
-    - MS-700
 ---
 
 Last week, I passed [the MS-101 exam](https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101). This completed a goal I have had for a few years, earning me [the Microsoft Enterprise Administrator Expert certification.](https://docs.microsoft.com/en-us/learn/certifications/m365-enterprise-administrator/)
