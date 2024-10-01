@@ -1,9 +1,3 @@
----
-pagination:
-  data: collections.posts
-  size: 10
-  reverse: true
----
 {%- css %}.postlist { counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }} }{% endcss %}
 {%- css %}{% include "public/css/postlist.css" %}{% endcss %}
 <div class="postlist">
