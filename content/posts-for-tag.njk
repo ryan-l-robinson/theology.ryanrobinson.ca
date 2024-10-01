@@ -16,7 +16,5 @@ eleventyComputed:
 permalink: /tags/{{ tag | slugify }}/
 ---
 
-<h1>Posts Tagged “{{ tag }}”</h1>
-
 {% set postslist = pagination.items %}
 {% include "postslist.njk" %}
