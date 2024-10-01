@@ -1,22 +1,13 @@
 ---
-pagination:
-  data: collections
-  size: 1
-  alias: tag
-  filter:
-    - all
-    - post
-    - posts
-    - tagList
-  addAllPagesToCollections: true
-  reverse: true
-layout: layouts/sidebar.njk
-eleventyComputed:
-  title: Posts Tagged “{{ tag }}”
-permalink: /tags/{{ tag | slugify }}/
+layout: layouts/no-sidebar.njk
+title: "Tags"
 ---
 
-<h1>Posts Tagged “{{ tag }}”</h1>
+<h1>Tags</h1>
 
-{% set postslist = pagination.items %}
-{% include "postslist.njk" %}
+<ul>
+{% for tag in collections | getKeys | filterTagList %}
+	{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a></li>
+{% endfor %}
+</ul>
