@@ -5,10 +5,13 @@ layout: layouts/sidebar.njk
 {%- css %}{% include "public/css/post.css" %}{% endcss %}
 <article data-pagefind-body>
 
+{% if series %}
+	<p>Series: {{ series }}</p>
+{% endif %}
+<h1>{{ title }}</h1>
+
 <div class="post-metadata">
-	{% if series %}
-		<p>Series: {{ series }}</p>
-	{% endif %}
+
 	<p><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate("LLLL d, yyyy") }}</time></p>
 	{% if tags | filterTagList | length %}
 		<p>Tags: 
