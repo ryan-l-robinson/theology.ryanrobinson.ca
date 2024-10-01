@@ -1,11 +1,9 @@
 ---
-eleventyImport:
-  collections: ["posts"]
+layout: layouts/sidebar.njk
 pagination:
   data: collections.posts
   size: 10
   reverse: true
-layout: layouts/sidebar.njk
 eleventyComputed:
   title: Posts Tagged “{{ tag }}”
 permalink: /tags/{{ tag | slugify }}/
