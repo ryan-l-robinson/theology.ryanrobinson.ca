@@ -2,7 +2,6 @@
 {%- css %}{% include "public/css/postlist.css" %}{% endcss %}
 <div class="postlist">
 {{ pagination.items | dump }}
-{{ pagination.pages | dump }}
 {% for post in pagination.items %}
 	<article class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
 		<h2 class="postlist-item-title"><a href="{{ post.url }}" class="postlist-item-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h2>
