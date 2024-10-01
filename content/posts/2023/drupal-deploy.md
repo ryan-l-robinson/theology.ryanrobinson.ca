@@ -2,14 +2,14 @@
 title: "GitLab DevOps: Drupal Deployment"
 date: 2023-01-02T15:47:05.000Z
 author: Ryan Robinson
+series: GitLab DevOps
 tags:
   - Drupal
   - Git, GitLab, and GitHub
-  - GitLab DevOps
   - PHP
 ---
 
-This continues where [the previous post](/posts/2023/drupal-deploy/) in [the GitLab DevOps series](/tags/gitlab-devops/) left off. We can now deploy code changes to the new server, and that's great for generic deployments. Drupal adds a few extra components when it comes to configuration sync and the database.
+This continues where [the previous post](/posts/2023/drupal-deploy/) in the GitLab DevOps series left off. We can now deploy code changes to the new server, and that's great for generic deployments. Drupal adds a few extra components when it comes to configuration sync and the database.
 
 ## Dev vs Production
 

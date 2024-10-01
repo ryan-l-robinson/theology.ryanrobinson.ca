@@ -2,7 +2,6 @@
 title: "VS Code Extensions: My Workflows"
 date: 2024-02-21T14:31:00-04:00
 author: Ryan Robinson
-category: Websites
 tags:
   - Visual Studio Code
   - Drupal
