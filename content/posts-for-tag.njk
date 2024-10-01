@@ -1,14 +1,9 @@
 ---
+eleventyImport:
+  collections: ["posts"]
 pagination:
-  data: collections
-  size: 1
-  alias: tag
-  filter:
-    - all
-    - post
-    - posts
-    - tagList
-  addAllPagesToCollections: true
+  data: collections.posts
+  size: 10
   reverse: true
 layout: layouts/sidebar.njk
 eleventyComputed:
