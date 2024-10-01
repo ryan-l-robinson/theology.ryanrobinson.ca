@@ -2,9 +2,9 @@
 title: "Drupal Docker: devcontainer"
 date: 2022-03-18T12:38:00.000Z
 author: Ryan Robinson
+series: Drupal Docker
 tags:
   - Drupal
-  - Drupal Docker
   - PHP
 ---
 

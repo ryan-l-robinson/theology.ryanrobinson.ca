@@ -2,13 +2,12 @@
 title: "Drupal GitPod Container 3: Settings and Config"
 date: 2022-02-01T20:02:00.000Z
 author: Ryan Robinson
+series: Drupal GitPod
 tags:
   - Drupal
   - Git, GitLab, and GitHub
   - DevOps
-  - GitPod Drupal
   - Visual Studio Code
-series: GitPod Drupal
 ---
 
 This post continues a [mini-series](/tags/gitpod-drupal/) in which I describe how I created a generic Drupal-friendly container working with GitPod. [The code is available in my GitHub](https://github.com/ryan-l-robinson/Drupal-GitPod).

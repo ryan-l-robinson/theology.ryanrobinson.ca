@@ -2,10 +2,10 @@
 title: "Drupal Docker: The Dockerfiles"
 date: 2022-06-24T01:46:00.000Z
 author: Ryan Robinson
+series: Drupal Docker
 tags:
   - Drupal
   - DevOps
-  - Drupal Docker
 ---
 
 This continues a mini-series describing how I set up a Drupal development environment using [Docker Desktop and the VS Code devcontainer functionality](/tags/drupal-docker/). The full code is available in [my GitHub](https://github.com/ryan-l-robinson/Drupal-Devcontainer).
