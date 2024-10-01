@@ -13,5 +13,9 @@ pagination:
 	<p>New site design in process. For now, continue visiting ryanrobinson.technology</p>
 </div>
 <!-- Stop deleting -->
+<h1>Latest Posts</h1>
+
+{% set postslist = pagination.items %}
+{% include "postslist.njk" %}
 
 {{ content | safe }}
