@@ -89,6 +89,14 @@ export default async function (eleventyConfig) {
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return (new Date()).toISOString();
 	});
+
+	// Build search index
+	eleventyConfig.on(
+		"eleventy.after",
+		async ({ dir, results, runMode, outputMode }) => {
+			`npx pagefind --source _site --glob \"**/*.html\"`
+		}
+	);
 };
 
 export const config = {
