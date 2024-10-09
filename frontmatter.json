@@ -1,0 +1,80 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "series",
+          "name": "series",
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "11ty",
+  "frontMatter.preview.host": "http://localhost:8080",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "2024",
+      "path": "[[workspace]]/content/posts/2024"
+    },
+    {
+      "title": "2023",
+      "path": "[[workspace]]/content/posts/2023"
+    },
+    {
+      "title": "2022",
+      "path": "[[workspace]]/content/posts/2022"
+    },
+    {
+      "title": "2021",
+      "path": "[[workspace]]/content/posts/2021"
+    }
+  ],
+  "frontMatter.git.enabled": true
+}
