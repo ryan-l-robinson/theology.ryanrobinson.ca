@@ -91,6 +91,7 @@ export default function (eleventyConfig) {
 		return (new Date()).toISOString();
 	});
 
+	// Build search index
 	eleventyConfig.on('eleventy.after', () => {
 	  execSync(`npx pagefind --site _site`, { encoding: 'utf-8' })
 	})
