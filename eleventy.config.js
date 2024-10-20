@@ -91,12 +91,9 @@ export default async function (eleventyConfig) {
 	});
 
 	// Build search index
-	eleventyConfig.on(
-		"eleventy.after",
-		async ({ dir, results, runMode, outputMode }) => {
-			`npx pagefind --source _site --glob \"**/*.html\"`
-		}
-	);
+	eleventyConfig.on('eleventy.after', () => {
+		'npx pagefind --site _site'
+	  })
 };
 
 export const config = {
