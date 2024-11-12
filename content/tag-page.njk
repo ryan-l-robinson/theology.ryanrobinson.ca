@@ -1,24 +1,16 @@
 ---
-layout: layouts/sidebar.njk
-eleventyImport:
-  collections: ["posts"]
 pagination:
   data: collections
   size: 1
   alias: tag
-  filter:
-    - all
-    - post
-    - posts
-    - tagList
-  addAllPagesToCollections: true
-eleventyComputed:
-  title: Posts Tagged “{{ tag }}”
-permalink: /tags/{{ tag | slugify }}/
+permalink: /tags/{{ tag }}/
 ---
 
-{% set postslist = collections[tag] %}
-{# TODO: replace this with a paginated version. #}
-{# The problem is I need to paginate to generate a page per tag. #}
-{# Then the pagination variable used is the tag, not the posts on that tag. #}
-{% include "postslist-no-pagination.njk" %}
+<h1>Tagged “{{ tag }}”</h1>
+
+<ol>
+{% set taglist = collections[ tag ] %}
+{% for post in taglist | reverse %}
+  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+{% endfor %}
+</ol>
