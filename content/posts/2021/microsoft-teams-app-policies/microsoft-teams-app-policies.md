@@ -2,6 +2,7 @@
 title: "Microsoft Teams: App Policies"
 date: "2021-08-02T09:05:00-04:00"
 author: "Ryan Robinson"
+description: "App policies can help control what apps users can access in Teams."
 series: "MS-700"
 ---
 

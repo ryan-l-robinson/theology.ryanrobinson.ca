@@ -2,6 +2,7 @@
 title: "Microsoft Teams: Guest Access"
 date: "2021-08-13T08:31:00-04:00"
 author: "Ryan Robinson"
+description: "An overview of guest access in Teams."
 series: MS-700
 tags:
   - "Microsoft 365"

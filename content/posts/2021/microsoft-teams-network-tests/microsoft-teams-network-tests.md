@@ -2,6 +2,7 @@
 title: "Microsoft Teams: Network Tests"
 date: "2021-08-05T08:19:00-04:00"
 author: "Ryan Robinson"
+description: "Using the network tests in Teams admin."
 series: "MS-700"
 tags:
   - "Microsoft 365"

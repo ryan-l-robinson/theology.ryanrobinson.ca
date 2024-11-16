@@ -1,7 +1,8 @@
 ---
-title: "Local Development: Vagrant, Docker Desktop, and GitPod"
+title: "Local Development: Vagrant, Docker, and GitPod"
 date: 2022-07-03T01:43:09.000Z
 author: Ryan Robinson
+description: "Breaking down some advantages and disadvantages of Vagrant, Docker, and GitPod."
 tags:
   - DevOps
 ---

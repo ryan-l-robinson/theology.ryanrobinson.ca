@@ -1,8 +1,8 @@
 ---
 title: 'Microsoft Viva Topics: Configuration'
-description: 'An introduction to Microsoft Viva Topics and how to configure it.'
 date: 2021-02-24
 author: 'Ryan Robinson'
+description: 'An introduction to Microsoft Viva Topics and how to configure it.'
 tags:
     - Security
     - Microsoft 365

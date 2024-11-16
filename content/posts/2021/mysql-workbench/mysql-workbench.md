@@ -2,6 +2,7 @@
 title: 'MySQL Workbench'
 date: '2021-09-15T01:17:00-04:00'
 author: 'Ryan Robinson'
+description: "An introduction to an extremely useful app if you deal with MySQL databases."
 tags:
     - 'Visual Studio Code'
 ---

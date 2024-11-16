@@ -2,6 +2,7 @@
 title: "Drupal Docker: devcontainer"
 date: 2022-03-18T12:38:00.000Z
 author: Ryan Robinson
+description: "devcontainer configuration for a Drupal local environment."
 series: Drupal Docker
 tags:
   - Drupal

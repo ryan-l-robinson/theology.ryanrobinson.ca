@@ -2,6 +2,7 @@
 title: Twitter, Mastodon, and CounterSocial
 date: 2022-11-21T13:18:09.000Z
 author: Ryan Robinson
+description: "Discussing some advantages and disadvantages of current microblogging options."
 tags:
     - Tech and Society
 ---
@@ -20,7 +21,7 @@ Much has been said about the dangers of these kinds of algorithms. They prey on 
 
 They also need to collect massive amounts of data in order to categorize us effectively for advertisers. While Twitter had a pretty good security record, this does open up the potential for huge data leaks. I don't expect that pretty good record to last much longer, which is why I'm inclined to delete my Twitter instead of merely deactivating or stopping use of it.
 
-There certainly are some positives as well. They are designed to give you what you will respond to, so sometimes that's really good, with it helping surface people you want to follow who may not be big enough to trend in general but is exactly the kind of person you want to know about (especially when dealing with marginalized groups), or making you aware of breaking news very quickly. 
+There certainly are some positives as well. They are designed to give you what you will respond to, so sometimes that's really good, with it helping surface people you want to follow who may not be big enough to trend in general but is exactly the kind of person you want to know about (especially when dealing with marginalized groups), or making you aware of breaking news very quickly.
 
 There's also the simple reality that many people are happy with this trade, giving up loads of data rather than needing to pay for a service. It lowers the barrier to entry.
 
@@ -38,7 +39,7 @@ Here's where CounterSocial aligns with Twitter instead of Mastodon. For each of 
 
 Mastodon gets more complicated. It's a protocol of federated servers called instances, not a "platform." This means upfront that you have a question to figure out: what instance should I join?
 
-Veterans will think this is no big deal, but if you've never dealt with something like this before, staring down hundreds of servers is not an obvious choice. There isn't much in the way of advice for how to decide, or tools to filter a list. Do you care about the data residency of the server? Do you care about how the admins make decisions? Do you care about what rules it has, or what other instances it has blocked? Do you want general topic or a specific interest or identity group? 
+Veterans will think this is no big deal, but if you've never dealt with something like this before, staring down hundreds of servers is not an obvious choice. There isn't much in the way of advice for how to decide, or tools to filter a list. Do you care about the data residency of the server? Do you care about how the admins make decisions? Do you care about what rules it has, or what other instances it has blocked? Do you want general topic or a specific interest or identity group?
 
 I landed on the largest Canadian server, mstdn.ca, but only after trying four others over four days. A couple were tech specific. A couple were big general ones. Once I found this one, I was happy for Canadian data residency, general topics, an admin who has so far done pretty well keeping up with the demand, and reasonable rules.
 
@@ -88,7 +89,7 @@ CounterSocial is freemium. You can do all the basics for free, but you'll need a
 
 Mastodon is donation based. The instance admins pay the costs and hope that they get enough donations to cover it. So if you are joining Mastodon, have found a good instance, and have some room in the budget, consider kicking a few dollars to your admin.
 
-## Culture 
+## Culture
 
 Twitter had a famously unique culture. It was the place where news broke. It was the place where movements started and spread to the mainstream, including both movements for justice and movements of hate. There were plenty of niche corners for your favourite topics, but you would also inevitably get caught up in the big news of the day.
 

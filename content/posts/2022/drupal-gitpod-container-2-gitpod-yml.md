@@ -2,6 +2,7 @@
 title: "Drupal GitPod Container 2: .gitpod.yml"
 date: 2022-01-28T13:17:00.000Z
 author: Ryan Robinson
+description: "The GitPod yml file in a Drupal GitPod setup."
 series: Drupal GitPod
 tags:
   - Drupal

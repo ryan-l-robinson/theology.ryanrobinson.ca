@@ -2,6 +2,7 @@
 title: "Movie Directory Part 3: View and Edit"
 date: "2021-06-29T07:05:00-04:00"
 author: "Ryan Robinson"
+description: "The view and edit screens in a movie directory Power App."
 series: Movie Directory
 tags:
   - "Microsoft 365"

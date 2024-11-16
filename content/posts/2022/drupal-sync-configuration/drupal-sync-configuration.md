@@ -2,6 +2,7 @@
 title: "Drupal: Sync Configuration"
 date: 2022-02-18T00:14:00.000Z
 author: Ryan Robinson
+description: "An introduction to synchronizing Drupal configuration across environments."
 series: GitLab DevOps
 tags:
   - Drupal

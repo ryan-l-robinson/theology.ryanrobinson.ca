@@ -2,6 +2,7 @@
 title: "Movie Directory Part 1: The Data"
 date: "2021-06-18T09:52:00-04:00"
 author: "Ryan Robinson"
+description: "The data structures for the movie directory project."
 series: Movie Directory
 tags:
   - "Microsoft 365"

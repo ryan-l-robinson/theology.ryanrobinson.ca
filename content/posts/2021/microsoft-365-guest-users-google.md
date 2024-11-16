@@ -2,6 +2,7 @@
 title: "Azure AD: Guest Users from Google"
 date: "2021-05-06T07:29:00-04:00"
 author: "Ryan Robinson"
+description: "Microsoft 365 does allow guests logging in with Google accounts."
 tags:
   - "Microsoft 365"
 ---

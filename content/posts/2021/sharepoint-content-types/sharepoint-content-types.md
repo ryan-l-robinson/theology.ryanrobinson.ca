@@ -2,6 +2,7 @@
 title: "SharePoint: Content Types"
 date: "2021-05-24T16:22:00-04:00"
 author: "Ryan Robinson"
+description: "Content Types are a powerful and underutilized tool in SharePoint."
 tags:
   - Microsoft 365
 ---

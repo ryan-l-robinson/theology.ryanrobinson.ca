@@ -2,6 +2,7 @@
 title: "Microsoft Word: Inclusive Writing Options"
 date: 2022-09-19T21:12:00.000Z
 author: Ryan Robinson
+description: "Word has some options to help you write with more inclusive language."
 tags:
   - Microsoft 365
 ---

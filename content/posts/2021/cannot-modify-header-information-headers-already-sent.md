@@ -2,6 +2,7 @@
 title: "Cannot Modify Header Information: Headers Already Sent"
 date: "2021-05-14T10:34:00-04:00"
 author: "Ryan Robinson"
+description: 'Extra whitespace caused a fatal error when trying to visit admin for a WordPress site.'
 tags:
   - WordPress
 ---

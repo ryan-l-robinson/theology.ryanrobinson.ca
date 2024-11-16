@@ -2,6 +2,7 @@
 title: "Drupal: Override Title Tag of Profiles"
 date: 2022-07-11T01:46:00.000Z
 author: Ryan Robinson
+description: "How to adjust the HTML header title, page title, and path alias for a profile."
 tags:
   - Drupal
   - PHP

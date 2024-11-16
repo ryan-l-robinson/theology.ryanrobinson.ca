@@ -2,6 +2,7 @@
 title: 'Visual Studio Code: Favourite Extensions'
 date: '2021-09-06T21:13:00-04:00'
 author: 'Ryan Robinson'
+description: "These are some of my favourite VS Code extensions."
 tags:
     - WordPress
     - Drupal

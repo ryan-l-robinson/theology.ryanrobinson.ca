@@ -2,6 +2,7 @@
 title: "Drupal GitPod Container 1: .Dockerfile"
 date: 2022-01-20T16:00:48.000Z
 author: Ryan Robinson
+description: "Dockerfile for a Drupal GitPod setup."
 series: Drupal GitPod
 tags:
     - Drupal

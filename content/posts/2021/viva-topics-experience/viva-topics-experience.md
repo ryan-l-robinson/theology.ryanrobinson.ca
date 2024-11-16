@@ -2,6 +2,7 @@
 title: 'Microsoft Viva Topics: User Experience'
 date: '2021-02-25T11:12:00-05:00'
 author: 'Ryan Robinson'
+description: 'Reviewing the user experience for Viva Topics.'
 tags:
     - Microsoft 365
 ---

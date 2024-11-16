@@ -2,6 +2,7 @@
 title: "Movie Directory Part 4: Import"
 date: "2021-07-01T11:03:00-04:00"
 author: "Ryan Robinson"
+description: "Using Power Automate to populate the data for the movie directory app."
 series: Movie Directory
 tags:
   - "Microsoft 365"

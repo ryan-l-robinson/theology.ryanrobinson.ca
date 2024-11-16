@@ -2,6 +2,7 @@
 title: "The Time I Recommended Yammer"
 date: "2021-06-07T07:38:00-04:00"
 author: "Ryan Robinson"
+description: 'Yammer has its place for certain situations.'
 tags:
   - Microsoft 365
 ---

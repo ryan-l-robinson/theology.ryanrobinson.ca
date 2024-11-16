@@ -2,6 +2,7 @@
 title: WordPress vs Jekyll
 date: 2022-05-10T15:22:00.000Z
 author: Ryan Robinson
+description: "A breakdown of having a WordPress site vs a Jekyll site."
 tags:
   - WordPress
   - Static Sites
@@ -33,7 +34,7 @@ There's none of that with a Jekyll GitHub Pages site. Just don't delete your Git
 
 ## Formatting
 
-WordPress offers a lot of built-in editing and formatting tools, well beyond the basics of HTML tags. It has a lot of little features that add up. A couple of my favourites include searching for other pages on your site to add links, which means you seldom end up with a bad link, and an image upload interface paired with resizing tools to always show at the right size. 
+WordPress offers a lot of built-in editing and formatting tools, well beyond the basics of HTML tags. It has a lot of little features that add up. A couple of my favourites include searching for other pages on your site to add links, which means you seldom end up with a bad link, and an image upload interface paired with resizing tools to always show at the right size.
 
 With Jekyll the sites are written in markdown. It's a bit faster if you know what you're doing but has a lesser set of design options, such as no columns. Depending on your editor, you may also need to memorize the markdown syntax for each format you want, without a WYSIWYG. It also doesn't have those other helpful checks like confirming that a link really does exist on the site before you publish it.
 
@@ -41,7 +42,7 @@ So which is faster? Depends on the complexity of your posts. If you're mostly wr
 
 ## More Features
 
-WordPress also includes other features like: 
+WordPress also includes other features like:
 
 1. Scheduling to publish at a certain time in the future - useful to optimize your release window for maximum engagement
 2. Post to your social media when it does publish

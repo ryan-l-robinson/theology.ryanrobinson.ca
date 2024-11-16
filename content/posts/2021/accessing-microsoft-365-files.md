@@ -2,6 +2,7 @@
 title: "SharePoint: Accessing Files"
 date: "2021-04-22T21:22:00-04:00"
 author: "Ryan Robinson"
+description: 'An overview of many ways to access files in SharePoint.'
 tags:
   - Microsoft 365
 ---

@@ -2,6 +2,7 @@
 title: "GitHub Pages: Building a Jekyll Site"
 date: 2022-05-05T11:39:18.000Z
 author: Ryan Robinson
+description: "An overview of building a Jekyll site hosted on GitHub Pages."
 tags:
     - Git, GitLab, and GitHub
     - Static Sites
@@ -21,7 +22,7 @@ Knowing myself, I'll probably try to find a different theme in 1-2 years, but fo
 
 ## Config
 
-The next step was to create the general config of the site and any pages outside of the blog posts like the About page. Config provided several options including where to find the profile photo, which social network links to show in the sidebar and as share buttons on posts, whether to default to light or dark mode. 
+The next step was to create the general config of the site and any pages outside of the blog posts like the About page. Config provided several options including where to find the profile photo, which social network links to show in the sidebar and as share buttons on posts, whether to default to light or dark mode.
 
 About is a simple markdown file with some front matter, and placed within the \_tabs folder which will add it to the main navigation. Adding more pages to this \_tabs folder will add them to the main navigation as well.
 

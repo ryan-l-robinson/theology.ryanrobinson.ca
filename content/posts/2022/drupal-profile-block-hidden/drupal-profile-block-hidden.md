@@ -2,6 +2,7 @@
 title: "Drupal: Hide Block on Own Profile"
 date: 2022-07-12T20:46:00.000Z
 author: Ryan Robinson
+description: "How to hide blocks only when on your own profile page."
 tags:
   - Drupal
 ---

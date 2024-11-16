@@ -2,6 +2,7 @@
 title: "Microsoft Teams: Guest Notifications"
 date: 2022-03-03T16:44:00.000Z
 author: Ryan Robinson
+description: "Understanding guest notifications in Teams."
 tags:
   - Microsoft 365
 ---

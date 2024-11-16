@@ -2,8 +2,9 @@
 title: Free as in Cats
 date: 2022-03-12T13:58:00.000Z
 author: Ryan Robinson
+description: "A memorable phrase for thinking about open source communities."
 tags:
-    - Tech and Society
+    - Commentary
 ---
 
 I once heard the phrase that most open source projects (the context was specifically Drupal) was not free as in beer but was free as in cats.

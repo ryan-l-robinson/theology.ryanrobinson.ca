@@ -2,6 +2,7 @@
 title: "GitLab DevOps: Local Workflows"
 date: 2022-06-27T01:54:15.000Z
 author: Ryan Robinson
+description: "An overview of some git branching strategies and local processes."
 series: GitLab DevOps
 tags:
     - Git, GitLab, and GitHub

@@ -2,6 +2,7 @@
 title: "Microsoft Teams: Change Your Profile Picture as a Guest"
 date: "2021-04-30T10:10:00-04:00"
 author: "Ryan Robinson"
+description: 'Some help changing your profile picture while a guest in a tenant.'
 tags:
   - "Microsoft 365"
 ---

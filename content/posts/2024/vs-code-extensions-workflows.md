@@ -2,7 +2,7 @@
 title: "VS Code Extensions: My Workflows"
 date: 2024-02-21T14:31:00-04:00
 author: Ryan Robinson
-description: An overview of which VS Code extensions I use for different workflows.
+description: "An overview of which VS Code extensions I use for different workflows."
 tags:
   - Visual Studio Code
   - Drupal

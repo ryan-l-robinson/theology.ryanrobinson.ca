@@ -1,8 +1,8 @@
 ---
 title: "Microsoft Search: Introduction"
-description: "Microsoft Search has more power than initially appears. Here's some key features."
 date: "2021-04-07T10:16:00-04:00"
 author: "Ryan Robinson"
+description: "Microsoft Search has more power than initially appears. Here's some key features."
 tags:
   - Microsoft 365
 ---

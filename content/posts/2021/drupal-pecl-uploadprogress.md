@@ -2,6 +2,7 @@
 title: "Drupal: Install PECL UploadProgress"
 date: 2021-12-10T12:55:00.000Z
 author: Ryan Robinson
+description: "Drupal needs PECL UploadProgress. This post will help you install it."
 tags:
     - Drupal
     - Linux

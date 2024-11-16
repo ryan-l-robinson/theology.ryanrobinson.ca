@@ -2,6 +2,7 @@
 title: "Microsoft Teams: Favourite Hidden Features"
 date: "2021-07-21T08:24:00-04:00"
 author: "Ryan Robinson"
+description: "Here are some of my favourite less-obvious features in Teams."
 tags:
   - "Microsoft 365"
 ---

@@ -2,6 +2,7 @@
 title: "Microsoft Teams: Information Session"
 date: 2021-10-12T19:42:00.000Z
 author: Ryan Robinson
+description: "My notes from a recent presentation about using Teams."
 tags:
   - Microsoft 365
 ---

@@ -2,6 +2,7 @@
 title: "New Certificate: Power Platform App Maker"
 date: 2022-12-10T16:48:00.000Z
 author: Ryan Robinson
+description: "I got a new certificate in Power Platform."
 tags:
   - Microsoft 365
 ---

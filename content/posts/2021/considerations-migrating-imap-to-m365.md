@@ -2,6 +2,7 @@
 title: "Considerations Migrating IMAP to M365"
 date: "2021-06-16T09:46:00-04:00"
 author: "Ryan Robinson"
+description: "Some things to consider when migrating from IMAP to Microsoft 365."
 tags:
   - "Microsoft 365"
 ---

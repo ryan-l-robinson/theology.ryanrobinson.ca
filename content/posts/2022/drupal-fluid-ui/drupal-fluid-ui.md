@@ -2,6 +2,7 @@
 title: "Drupal: Fluid UI"
 date: 2022-02-14T01:46:00.000Z
 author: Ryan Robinson
+description: "Fluid UI, available as a Drupal module, can help with site accessibility."
 tags:
   - Drupal
   - Accessibility

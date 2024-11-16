@@ -2,6 +2,7 @@
 title: "Google vs Microsoft Personal and Business Accounts"
 date: "2021-07-05T10:05:00-04:00"
 author: "Ryan Robinson"
+description: "Google and Microsoft handle things differently if you have both a personal and business account, each of which have some pro's and con's."
 tags:
   - "Microsoft 365"
 ---

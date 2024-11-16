@@ -2,6 +2,7 @@
 title: "Microsoft Excel vs SharePoint Lists"
 date: "2021-06-23T14:50:00-04:00"
 author: "Ryan Robinson"
+description: "A breakdown of when to use Excel and when to use SharePoint Lists."
 tags:
   - "Microsoft 365"
 ---

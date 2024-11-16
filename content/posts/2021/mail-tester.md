@@ -2,6 +2,7 @@
 title: Mail Tester
 date: 2021-12-04T01:35:34.000Z
 author: Ryan Robinson
+description: "If you test any system sending mail, mail-tester is an essential tool."
 tags:
   - CRM
 ---

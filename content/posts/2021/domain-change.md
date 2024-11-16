@@ -2,6 +2,7 @@
 title: 'Domain Change'
 date: '2021-09-19T15:46:56-04:00'
 author: 'Ryan Robinson'
+description: "I've changed the name for this site as I move away from Alliteration Applications branding."
 ---
 
 This site is now ryanrobinson.technology instead of alliterationapplications.com. I felt that it was more representative of what this site has evolved to become. It is a repository of my technology knowledge and experience. It isn’t just about the rare freelance work that I do under the Alliteration Applications banner. Many of the blog posts came from personal study, personal projects, and (generalized versions of) work done within a full-time job – not from Alliteration Applications at all.
@@ -38,7 +39,7 @@ I then wanted to redirect traffic from alliterationapplications.com to ryanrobin
 
 To achieve that, I added this to the .htaccess of alliterationapplications.com
 
-```
+```apache
 <pre class="wp-block-code">```
 <IfModule mod_rewrite.c>
 RewriteEngine on

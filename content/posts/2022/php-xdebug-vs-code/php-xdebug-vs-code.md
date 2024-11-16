@@ -2,7 +2,7 @@
 title: "PHP: XDebug in VS Code"
 date: 2022-03-15T12:04:00.000Z
 author: Ryan Robinson
-category: Websites
+description: "How to use XDebug within VS Code for step debugging."
 tags:
   - PHP
   - Visual Studio Code

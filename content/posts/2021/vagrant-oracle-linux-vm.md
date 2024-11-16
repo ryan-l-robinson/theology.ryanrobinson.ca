@@ -14,7 +14,7 @@ This is the first in [a series setting up a basic DevOps pipeline](/tags/gitlab-
 
 ## Oracle Linux 8 LAMP Stack
 
-The VM will be using [Vagrant ](https://www.vagrantup.com/)and [Oracle VirtualBox](https://www.virtualbox.org/). Every user will need to install both, as well as the VirtualBox extensions, for this to work.
+The VM will be using [Vagrant](https://www.vagrantup.com/) and [Oracle VirtualBox](https://www.virtualbox.org/). Every user will need to install both, as well as the VirtualBox extensions, for this to work.
 
 The configuration for the Vagrant box can be found on [my GitHub](https://github.com/ryan-l-robinson). For the sake of this demonstration, it is a fairly simple Oracle Linux 8, using a build in the Vagrant repository.
 

@@ -2,7 +2,7 @@
 title: "GitHub Pages: Mobile Authoring"
 date: 2022-05-16T02:47:58.000Z
 author: Ryan Robinson
-category: Websites
+description: "How I've set up authoring on mobile to support a GitHub Pages and Jekyll site."
 tags:
     - Static Sites
     - Git, GitLab, and GitHub
@@ -12,7 +12,7 @@ tags:
 
 One thing I was worried about, though, is writing from my phone. My habit has often been that I write rough notes on my phone, then finalize it on a computer and hit publish. I didn’t want to lose that. So here’s what I did.
 
-## Mobile App 
+## Mobile App
 
 First I needed an app on my Android phone to edit the Markdown files. I tried a few and settled on [Markor](https://play.google.com/store/apps/details?id=net.gsantner.markor&gl=US). It can stay opened to an entire folder, can create files, edit files, delete files. You can write in markdown and preview what it looks like (without anything like CSS styling from the site, of course). It does have some modes that are unnecessary to me - to do and quick notes - and no way to turn them off in the interface.
 

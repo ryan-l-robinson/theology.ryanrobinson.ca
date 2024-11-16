@@ -2,7 +2,7 @@
 title: Dark Content Mode
 date: 2024-02-21T21:46:00.000Z
 author: Ryan Robinson
-description: Get ready for browsers converting your site to dark content mode.
+description: "Get ready for browsers converting your site to dark content mode."
 tags:
   - CSS
   - Accessibility

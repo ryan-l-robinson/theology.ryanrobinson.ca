@@ -2,7 +2,7 @@
 title: "Drupal 7: Hide Label on Node Display"
 date: 2022-01-05T00:02:00.000Z
 author: Ryan Robinson
-category: Websites
+description: "How to hide an empty field's label in a Drupal 7 page template."
 tags:
   - Drupal
   - PHP

@@ -2,6 +2,7 @@
 title: "Microsoft Teams: Search Filters"
 date: 2021-12-08T16:48:00.000Z
 author: Ryan Robinson
+description: "using search filters in Teams."
 tags:
   - Microsoft 365
 ---

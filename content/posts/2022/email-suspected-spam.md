@@ -2,6 +2,7 @@
 title: "Microsoft 365: Email Suspected of Spam"
 date: 2022-05-13T01:35:47.000Z
 author: Ryan Robinson
+description: "How to respond to Microsoft 365 emails being blocked as suspected spam."
 tags:
   - Security
   - Microsoft 365
@@ -27,5 +28,5 @@ After this error occurs, an administrator with the necessary permissions will ha
 
 Once you're ready:
 
-1. Go to [the restrictured users section in the security centre]:(https://security.microsoft.com/restrictedusers). 
+1. Go to [the restrictured users section in the security centre](https://security.microsoft.com/restrictedusers).
 2. Follow instructions available in [official Microsoft documentation](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam?view=o365-worldwide).

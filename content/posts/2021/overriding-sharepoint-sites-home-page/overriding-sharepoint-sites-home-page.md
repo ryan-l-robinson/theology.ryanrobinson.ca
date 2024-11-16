@@ -2,6 +2,7 @@
 title: "SharePoint: Overriding a Site's Home Page"
 date: "2021-06-14T13:26:00-04:00"
 author: "Ryan Robinson"
+description: "As part of a SharePoint site provisioning Flow, here's how to override the site home page."
 series: "SharePoint Site Provisioning"
 tags:
   - "Microsoft 365"

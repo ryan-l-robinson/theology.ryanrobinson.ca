@@ -2,7 +2,7 @@
 title: Text Underline Position
 date: 2024-02-21T15:22:00.000Z
 author: Ryan Robinson
-description: Use text-underline-position under for improved readability of underlined links.
+description: "Use text-underline-position under for improved readability of underlined links."
 tags:
   - CSS
   - Accessibility

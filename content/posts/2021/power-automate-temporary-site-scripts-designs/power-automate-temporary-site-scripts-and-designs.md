@@ -2,6 +2,7 @@
 title: "Power Automate: Temporary Site Scripts and Designs"
 date: "2021-05-28T07:00:00-04:00"
 author: "Ryan Robinson"
+description: "Applying site scripts and designs through Power Automate."
 series: "SharePoint Site Provisioning"
 tags:
   - "Microsoft 365"

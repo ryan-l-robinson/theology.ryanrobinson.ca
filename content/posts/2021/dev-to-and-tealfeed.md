@@ -2,6 +2,7 @@
 title: Dev.to and Tealfeed
 date: 2021-10-07T13:14:00.000Z
 author: Ryan Robinson
+description: "I've posted some writing on both dev.to and Tealfeed and have some early thoughts."
 ---
 
 This isn’t the only place I’m posting my writing. I’m also posting to [dev.to](https://dev.to) and [Tealfeed](https://tealfeed.com/). These are other knowledge sharing networks, free to use, and both with options to set your own blog as the canonical URL.

@@ -1,8 +1,8 @@
 ---
 title: Microsoft Ignite News Day
-description: "A recap of news coming out of Microsoft Ignite 2021"
 date: 2021-03-02T17:14:47-05:00
 author: Ryan Robinson
+description: "A recap of news coming out of Microsoft Ignite 2021."
 tags:
     - Microsoft 365
 ---

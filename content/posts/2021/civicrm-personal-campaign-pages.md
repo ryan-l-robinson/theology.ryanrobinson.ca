@@ -2,6 +2,7 @@
 title: "CiviCRM: Personal Campaign Pages"
 date: "2021-06-21T10:28:00-04:00"
 author: "Ryan Robinson"
+description: "CiviCRM's personal campaign pages are useful but limited."
 tags:
   - CRM
   - PHP

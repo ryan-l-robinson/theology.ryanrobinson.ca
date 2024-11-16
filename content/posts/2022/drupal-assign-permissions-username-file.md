@@ -2,6 +2,7 @@
 title: "Drupal: Assign Permissions Based on Username File"
 date: 2022-01-25T01:20:00.000Z
 author: Ryan Robinson
+description: "How to assign permissions based on whether a username is in a file."
 tags:
   - Drupal
   - PHP

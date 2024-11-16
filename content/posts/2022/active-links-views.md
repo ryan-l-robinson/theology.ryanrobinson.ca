@@ -2,6 +2,7 @@
 title: "Drupal: Active Links in Views"
 date: 2022-12-30T01:46:00.000Z
 author: Ryan Robinson
+description: "Drupal doesn't add a class for active links by default in views, but that can be added with JavaScript."
 tags:
   - Drupal
 ---

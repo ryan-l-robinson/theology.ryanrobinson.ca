@@ -2,8 +2,7 @@
 title: "Android: Email Apps"
 date: 2021-11-12T13:18:09.000Z
 author: Ryan Robinson
-tags:
-    - Security
+description: 'Analyzing some email apps on Android.'
 ---
 
 I recently got a Pixel 6. It’s great. For the previous 3 and a bit years I had been using a BlackBerry Key2. There was lots I liked about the Key2, but 3 years later I had never received an Android version update. I was still getting security updates, but I decided with the Pixel 6 launch it was time for an update.

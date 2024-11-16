@@ -2,6 +2,7 @@
 title: "HTwoO in SharePoint Framework"
 date: "2021-06-04T13:48:00-04:00"
 author: "Ryan Robinson"
+description: "HTwoO is a helpful tool within SharePoint Framework."
 tags:
   - Microsoft 365
 ---

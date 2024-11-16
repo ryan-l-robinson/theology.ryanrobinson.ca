@@ -2,6 +2,7 @@
 title: "My (Freelance) Web Development Workflow"
 date: "2021-05-04T09:11:00-04:00"
 author: "Ryan Robinson"
+description: 'Breaking down some of the tools I use for freelance web development.'
 tags:
   - WordPress
   - Git, GitLab, and GitHub
@@ -107,7 +108,7 @@ When I have a new site to add, I do this:
 3. It should pop up offering different locations of SSH config files on your computer. Select the relevant one.
 4. Add a new section to the file using the format below. I like to organize them alphabetically and use the URL of the site for the host name.
 
-```
+```plain
 Host [URL]
   HostName [URL]
   User [SSH username]

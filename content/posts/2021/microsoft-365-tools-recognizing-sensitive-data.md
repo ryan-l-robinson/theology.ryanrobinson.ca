@@ -2,6 +2,7 @@
 title: 'Microsoft 365: Tools for Recognizing Sensitive Data'
 date: '2021-09-27T07:46:00-04:00'
 author: 'Ryan Robinson'
+description: "It's important to be able to recognize sensitive data. Here are some tools to help."
 tags:
   - Microsoft 365
   - Security

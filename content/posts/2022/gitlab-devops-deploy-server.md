@@ -2,6 +2,7 @@
 title: "GitLab DevOps: Deploy to Server"
 date: 2022-12-30T20:45:05.000Z
 author: Ryan Robinson
+description: "Deploying to servers as part of a GitLab DevOps workflow."
 series: GitLab DevOps
 tags:
   - Git, GitLab, and GitHub
@@ -43,7 +44,7 @@ variables:
 
 ## Project .gitlab-ci.yml
 
-The other key component is the project's file to extend this deploy job. 
+The other key component is the project's file to extend this deploy job.
 
 Start the project's .gitlab-ci.yml file with including the deploy file from the other project. In a scenario where that is a different project but accessible to the same GitLab user, it would look like this, assuming the project is called gitlab-ci:
 
@@ -136,11 +137,7 @@ For this to work smoothly, you can use a project access token. This is a unique 
 
 Create a project token by going to the project -&gt; Settings -&gt; Project Access Tokens. Name the token something descriptive for the server that will be using it, e.g. Dev Server. Specify the permissions for that token. Within this workflow I've been walking through here, that is only read access so it can pull within the deployment job. It does not need to be able to write back to the GitLab project, since code changes will always start at local and push through, never the other way around.
 
-Now when you clone the project or add remote for the new server, add it using a variation on the https format rather than the SSH format:
-
-```
-https://oauth2:[token]@[GitLab project address]
-```
+Now when you clone the project or add remote for the new server, add it using a variation on the https format rather than the SSH format: `https://oauth2:[token]@[GitLab project address]`
 
 ## Next: Drupal Configuration
 

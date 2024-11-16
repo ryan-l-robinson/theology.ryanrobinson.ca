@@ -22,7 +22,7 @@ So I wrote some PowerShell that handled some basic logic for me:
 
 - [Connect to the Microsoft 365 account](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/connect-sposervice?view=sharepoint-ps)
 - [Check if the script already exists](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/get-spositescript?view=sharepoint-ps)
-- If yes, [update that script ](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/set-spositescript?view=sharepoint-ps)reading from the latest file with an incremented version number
+- If yes, [update that script](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/set-spositescript?view=sharepoint-ps)reading from the latest file with an incremented version number
 - If no, [create a new site script](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/add-spositescript?view=sharepoint-ps)
 - [Check if the site design already exists](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/get-spositedesign?view=sharepoint-ps)
 - If yes, [update that design to include the relevant scripts](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/set-spositedesign?view=sharepoint-ps), with an incremented version number

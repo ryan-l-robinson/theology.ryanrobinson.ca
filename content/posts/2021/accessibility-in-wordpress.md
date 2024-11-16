@@ -2,6 +2,7 @@
 title: "WordPress: Accessibility Basics"
 date: "2021-04-16T08:59:00-04:00"
 author: "Ryan Robinson"
+description: 'Some accessibility basics for working with WordPress.'
 tags:
   - WordPress
   - Accessibility

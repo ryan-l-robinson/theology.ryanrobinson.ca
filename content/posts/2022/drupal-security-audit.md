@@ -2,6 +2,7 @@
 title: "Drupal: Security Audit"
 date: 2022-09-19T23:19:19.000Z
 author: Ryan Robinson
+description: "Suggestions for a regular security audit of a Drupal site."
 tags:
     - Drupal
     - Security

@@ -2,6 +2,7 @@
 title: "Koa11y: Accessibility Testing Tool"
 date: 2021-10-28T22:11:00.000Z
 author: Ryan Robinson
+description: "An overview of a desktop app for website accessibility testing."
 tags:
     - Accessibility
 ---

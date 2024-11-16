@@ -2,6 +2,7 @@
 title: "Microsoft Endpoint Manager: Enrolling Devices"
 date: "2021-05-12T04:11:00-04:00"
 author: "Ryan Robinson"
+description: "How to enroll devices in Endpoint Manager."
 series: MS-101
 tags:
   - "Microsoft 365"

@@ -2,7 +2,7 @@
 title: "GitHub and GitLab: Diagrams in Markdown"
 date: 2022-03-10T01:00:00.000Z
 author: Ryan Robinson
-category: Websites
+description: "Using Mermaid for creating diagrams in markdown."
 tags:
   - Git, GitLab, and GitHub
 ---

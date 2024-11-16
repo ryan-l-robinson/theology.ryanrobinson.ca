@@ -2,6 +2,7 @@
 title: 'Browser Extension: Stylus'
 date: '2021-09-21T11:33:00-04:00'
 author: 'Ryan Robinson'
+description: "An introduction to the browser extension Stylus."
 tags:
   - Accessibility
 ---

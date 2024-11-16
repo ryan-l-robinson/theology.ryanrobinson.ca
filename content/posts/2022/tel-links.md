@@ -2,6 +2,7 @@
 title: Tel Links
 date: 2022-05-04T01:46:00.000Z
 author: Ryan Robinson
+description: "How to best format telephone links."
 tags:
   - Accessibility
 ---
@@ -12,7 +13,7 @@ The problem comes with extensions. How do you tell the phone app to dial an exte
 
 Some quick searching of the Internet seems to point toward the use of w (for wait) or p (for pause) as the marker between the number and the extension, e.g. 555-555-5555w555 or 555-555-5555p555. I tested these options on my Android phone and on Skype on a Windows 10 machine (the version from the Store). They did not work.
 
-Some more research found that another option was a comma (,). This one does work on both iOS and Android. It does not work with desktop Skype. 
+Some more research found that another option was a comma (,). This one does work on both iOS and Android. It does not work with desktop Skype.
 
 It also might not cover absolutely everything that has to be pressed. For example, in the system I tested in, it required pressing # after the extension. It did not work to add # to the end of the link, e.g. tel:+1555-555-5555,555#
 

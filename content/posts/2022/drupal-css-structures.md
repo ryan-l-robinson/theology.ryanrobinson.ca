@@ -2,6 +2,7 @@
 title: "Drupal: CSS Structure"
 date: 2022-09-19T21:00:00.000Z
 author: Ryan Robinson
+description: "An overview of how Drupal handles hierarchy of CSS."
 tags:
   - Drupal
   - CSS

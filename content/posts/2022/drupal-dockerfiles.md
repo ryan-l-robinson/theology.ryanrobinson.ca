@@ -2,6 +2,7 @@
 title: "Drupal Docker: The Dockerfiles"
 date: 2022-06-24T01:46:00.000Z
 author: Ryan Robinson
+description: "The Dockerfile for a Drupal Docker setup."
 series: Drupal Docker
 tags:
   - Drupal
@@ -141,7 +142,7 @@ RUN umask 0002
 # Create sudo group, add drupal user to it, and allow those users to sudo without password
 RUN groupadd sudo
 RUN usermod -aG sudo drupal
-RUN sed -i "s/# %wheel	ALL=(ALL)	NOPASSWD: ALL/%sudo	ALL=(ALL)	NOPASSWD: ALL/g" /etc/sudoers
+RUN sed -i "s/# %wheel ALL=(ALL) NOPASSWD: ALL/%sudo ALL=(ALL) NOPASSWD: ALL/g" /etc/sudoers
 ```
 
 It installs composer, an essential for Drupal management:
