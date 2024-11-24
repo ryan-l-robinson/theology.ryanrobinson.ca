@@ -1,0 +1,54 @@
+/** Styles common to main, whether it has a sidebar or not **/
+.main-wrapper {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	background-color: var(--grey);
+}
+
+main {
+    width: 100%;
+	max-width: var(--max-width);
+	padding: var(--main-gutter-y) var(--main-gutter-x);
+    background-color: var(--background-color);
+}
+
+main :first-child {
+	margin-top: 0;
+}
+
+main a {
+    color: var(--text-color-link);
+}
+
+main a:is(:hover,:focus) {
+    background-color: var(--text-color-link-hover-background);
+    color: var(--text-color-link-hover);
+}
+main a[href]:active {
+	color: var(--text-color-link-active);
+}
+
+/* Direct Links / Markdown Headers */
+.header-anchor {
+	text-decoration: none;
+	font-style: normal;
+	font-size: 1em;
+	margin-left: .1em;
+}
+a[href].header-anchor,
+a[href].header-anchor:visited {
+	color: transparent;
+}
+a[href].header-anchor:focus,
+a[href].header-anchor:hover {
+	text-decoration: underline;
+}
+a[href].header-anchor:focus,
+:hover > a[href].header-anchor {
+	color: #aaa;
+}
+
+h2 + .header-anchor {
+	font-size: 1.5em;
+}
