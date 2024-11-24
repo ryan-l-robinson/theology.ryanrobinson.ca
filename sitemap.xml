@@ -40,6 +40,11 @@
 	</url>
 	
 	<url>
+		<loc>https://tech.ryanrobinson.ca/posts/2024/remembrance-day/</loc>
+		<lastmod>2024-11-11</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://tech.ryanrobinson.ca/about/</loc>
 		<lastmod>2024-11-24</lastmod>
 	</url>
@@ -130,6 +135,6 @@
 			</div>
 		</footer>
 
-		<!-- This page `/sitemap.xml` was built on 2024-11-24T20:25:46.936Z -->
+		<!-- This page `/sitemap.xml` was built on 2024-11-24T20:42:36.742Z -->
 	</body>
 </html>
