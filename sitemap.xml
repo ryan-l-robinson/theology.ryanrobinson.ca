@@ -58,6 +58,11 @@
 		<loc>https://tech.ryanrobinson.ca/feed/feed.xml</loc>
 		<lastmod>2024-11-24</lastmod>
 	</url>
+	
+	<url>
+		<loc>https://tech.ryanrobinson.ca/posts/2024/ambs-challenging-christian-nationalism/</loc>
+		<lastmod>2024-11-24</lastmod>
+	</url>
 </urlset>
 				</div>
 				<div class="sidebar">
@@ -125,6 +130,6 @@
 			</div>
 		</footer>
 
-		<!-- This page `/sitemap.xml` was built on 2024-11-24T20:07:40.631Z -->
+		<!-- This page `/sitemap.xml` was built on 2024-11-24T20:25:46.936Z -->
 	</body>
 </html>
