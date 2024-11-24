@@ -3,19 +3,19 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Ryan Robinson Technology</title>
+		<title>Ryan Robinson Theology</title>
 		<meta name="description" content="">
 		<meta name="fediverse:creator" content="@Ryan@mstdn.ca" />
   		<link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Ryan Robinson Technology">
-		<link rel="alternate" href="/feed/feed.json" type="application/json" title="Ryan Robinson Technology">
+		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Ryan Robinson Theology">
+		<link rel="alternate" href="/feed/feed.json" type="application/json" title="Ryan Robinson Theology">
 		<link rel="stylesheet" href="/dist/vQMniyb0vi.css">
 	</head>
 	<body>
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 		<header>
 			<div class="container header-container">
-				<p>Ryan Robinson Technology</p>
+				<p>Ryan Robinson Theology</p>
 				<div id="search" class="search">
 					<script src="/pagefind/pagefind-ui.js" onload="new PagefindUI({ element: '#search', showImages: false, pageSize: 10 });"></script>
 				</div>
@@ -35,37 +35,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://tech.ryanrobinson.ca/posts/2024/new-blog/</loc>
+		<loc>https://theology.ryanrobinson.ca/posts/2024/new-blog/</loc>
 		<lastmod>2024-02-21</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://tech.ryanrobinson.ca/posts/2024/remembrance-day/</loc>
+		<loc>https://theology.ryanrobinson.ca/posts/2024/remembrance-day/</loc>
 		<lastmod>2024-11-11</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://tech.ryanrobinson.ca/about/</loc>
+		<loc>https://theology.ryanrobinson.ca/about/</loc>
 		<lastmod>2024-11-24</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://tech.ryanrobinson.ca/tags/posts/</loc>
+		<loc>https://theology.ryanrobinson.ca/tags/posts/</loc>
 		<lastmod>2024-11-24</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://tech.ryanrobinson.ca/tags/</loc>
+		<loc>https://theology.ryanrobinson.ca/tags/</loc>
 		<lastmod>2024-11-24</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://tech.ryanrobinson.ca/feed/feed.xml</loc>
+		<loc>https://theology.ryanrobinson.ca/feed/feed.xml</loc>
 		<lastmod>2024-11-24</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://tech.ryanrobinson.ca/posts/2024/ambs-challenging-christian-nationalism/</loc>
+		<loc>https://theology.ryanrobinson.ca/posts/2024/ambs-challenging-christian-nationalism/</loc>
 		<lastmod>2024-11-24</lastmod>
 	</url>
 </urlset>
@@ -135,6 +135,6 @@
 			</div>
 		</footer>
 
-		<!-- This page `/sitemap.xml` was built on 2024-11-24T20:42:36.742Z -->
+		<!-- This page `/sitemap.xml` was built on 2024-11-24T20:49:31.736Z -->
 	</body>
 </html>
