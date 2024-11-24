@@ -1,8 +1,8 @@
 export default {
-	title: "Ryan Robinson Technology",
-	url: "https://tech.ryanrobinson.ca/",
+	title: "Ryan Robinson Theology",
+	url: "https://theology.ryanrobinson.ca/",
 	language: "en",
-	site_description: "Technologist writing about web development, Microsoft 365, and more.",
+	site_description: "A guy with a little theological training writing about God, the church, and the world.",
 	author: {
 		name: "Ryan Robinson",
 		url: "https://ryanrobinson.ca"
