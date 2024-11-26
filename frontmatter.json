@@ -62,18 +62,6 @@
     {
       "title": "2024",
       "path": "[[workspace]]/content/posts/2024"
-    },
-    {
-      "title": "2023",
-      "path": "[[workspace]]/content/posts/2023"
-    },
-    {
-      "title": "2022",
-      "path": "[[workspace]]/content/posts/2022"
-    },
-    {
-      "title": "2021",
-      "path": "[[workspace]]/content/posts/2021"
     }
   ],
   "frontMatter.git.enabled": true
