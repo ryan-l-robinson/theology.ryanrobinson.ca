@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="pretty-atom-feed.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>Ryan Robinson Technology</title>
-  <subtitle>Ryan Robinson writes about technology: Drupal and other web development, Microsoft 365, and more.</subtitle>
-  <link href="https://tech.ryanrobinson.ca/feed/feed.xml" rel="self" />
-  <link href="https://tech.ryanrobinson.ca/" />
-  <updated>2024-11-26T11:47:21Z</updated>
-  <id>https://tech.ryanrobinson.ca/</id>
+  <title>Ryan Robinson Theology</title>
+  <subtitle>Ryan Robinson writes about theology: God, the church, the world, and whatever else he feels like that day.</subtitle>
+  <link href="https://theology.ryanrobinson.ca/feed/feed.xml" rel="self" />
+  <link href="https://theology.ryanrobinson.ca/" />
+  <updated>2024-12-04T23:09:46Z</updated>
+  <id>https://theology.ryanrobinson.ca/</id>
   <author>
     <name>Ryan Robinson</name>
   </author>
