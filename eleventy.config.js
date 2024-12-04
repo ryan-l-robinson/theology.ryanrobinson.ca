@@ -52,9 +52,9 @@ export default function (eleventyConfig) {
 		},
 		metadata: {
 			language: "en",
-			title: "Ryan Robinson Technology",
-			subtitle: "Ryan Robinson writes about technology: Drupal and other web development, Microsoft 365, and more.",
-			base: "https://tech.ryanrobinson.ca/",
+			title: "Ryan Robinson Theology",
+			subtitle: "Ryan Robinson writes about theology: God, the church, the world, and whatever else he feels like that day.",
+			base: "https://theology.ryanrobinson.ca/",
 			author: {
 				name: "Ryan Robinson"
 			}

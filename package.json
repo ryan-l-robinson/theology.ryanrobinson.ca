@@ -1,7 +1,7 @@
 {
-	"name": "ryan-robinson-tech",
+	"name": "ryan-robinson-theology",
 	"version": "1.0.0",
-	"description": "Ryan Robinson's tech blog, built using eleventy",
+	"description": "Ryan Robinson's theology blog, built using eleventy",
 	"type": "module",
 	"scripts": {
 		"build": "npx @11ty/eleventy",
@@ -15,7 +15,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ryan-l-robinson/tech.ryanrobinson.ca"
+		"url": "https://github.com/ryan-l-robinson/theology.ryanrobinson.ca"
 	},
 	"author": {
 		"name": "Ryan Robinson",
