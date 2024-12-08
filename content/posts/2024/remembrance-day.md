@@ -3,6 +3,8 @@ title: "To Remember Is To Work for Peace"
 date: 2024-11-11T21:46:00.000Z
 author: Ryan Robinson
 description: "Some reflections on Remembrance Day as a believer in the peace church tradition."
+tags:
+    - Politics
 ---
 
 Remembrance Day often carries two different tones with it:
