@@ -18,6 +18,11 @@ header {
     color: var(--white);
 }
 
+.header-container .header-title-link:is(:hover,:focus) {
+    background-color: var(--white);
+    color: var(--blue);
+}
+
 header .top-nav {
     width: var(--max-width);
 }
