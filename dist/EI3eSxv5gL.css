@@ -1,3 +1,24 @@
+/** Aligns with the tags.njk page **/
+.tags-list {
+	columns: 3;
+}
+
+.tags-list li {
+    margin-left: 1em;
+}
+
+/** Needs to line up with the breakpoint in base.css for when the sidebar moves to the bottom **/
+@media(max-width: 65em) {
+	.tags-list {
+		columns: 2;
+	}
+}
+
+@media(max-width: 35em) {
+	.tags-list {
+		columns: 1;
+	}
+}
 /* Variables and general site-wide styles */
 :root {
     --white: #ffffff;
@@ -113,6 +134,11 @@ header {
 
 .header-container .header-title-link {
     color: var(--white);
+}
+
+.header-container .header-title-link:is(:hover,:focus) {
+    background-color: var(--white);
+    color: var(--blue);
 }
 
 header .top-nav {
@@ -231,36 +257,7 @@ a[href].header-anchor:focus,
 h2 + .header-anchor {
 	font-size: 1.5em;
 }
-/** Styles for main with a sidebar (most pages) **/
-main.main-sidebar {
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-
-/** Sidebar **/
-.sidebar {
-	width: 30%;
-	padding: 1em 1em 0 0;
-}
-
-.sidebar-block {
-	border: 1px dashed var(--red);
-	padding: 0.5em;
-}
-
-/** Main content **/
-.main-content {
-    width: 70%;
-}
-
-@media(max-width: 60em) {
-    .sidebar,
-    .main-content {
-        width: 100%;
-    }
-}
+/** Styles used on main section for pages that don't have a sidebar **/
 footer {
     width: 100%;
     padding: 1em var(--main-gutter-x);
@@ -280,25 +277,6 @@ footer p a {
 footer p a:is(:hover,:focus) {
     background-color: var(--white);
     color: var(--blue);
-}
-/** Aligns with the tagslist.njk include **/
-.tags-list {
-	margin-bottom: 0;
-	padding-left: 1em;
-	columns: 1;
-}
-
-/** Needs to line up with the breakpoint in base.css for when the sidebar moves to the bottom **/
-@media(max-width: 60em) {
-	.tags-list {
-		columns: 2;
-	}
-}
-
-@media(max-width: 30em) {
-	.tags-list {
-		columns: 1;
-	}
 }
 /** Aligns with the sociallinks.njk include file **/
 .social-links {
