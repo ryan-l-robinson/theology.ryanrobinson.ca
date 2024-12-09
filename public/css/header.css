@@ -14,6 +14,10 @@ header {
     padding: 0 var(--main-gutter-x);
 }
 
+.header-container .header-title-link {
+    color: var(--white);
+}
+
 header .top-nav {
     width: var(--max-width);
 }
