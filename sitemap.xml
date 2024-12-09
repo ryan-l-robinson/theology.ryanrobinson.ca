@@ -9,21 +9,23 @@
   		<link rel="icon" type="image/x-icon" href="/img/favicon.ico">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Ryan Robinson Theology">
 		<link rel="alternate" href="/feed/feed.json" type="application/json" title="Ryan Robinson Theology">
-		<link rel="stylesheet" href="/dist/vQMniyb0vi.css">
+		<link rel="stylesheet" href="/dist/-X9Pd4UKv7.css">
 	</head>
 	<body>
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 		<header>
 			<div class="container header-container">
-				<p><a href="/" title="Return to homepage">Ryan Robinson Theology</a></p>
+				<p><a href="/" class="header-title-link" title="Return to homepage">Ryan Robinson Theology</a></p>
 				<div id="search" class="search">
 					<script src="/pagefind/pagefind-ui.js" onload="new PagefindUI({ element: '#search', showImages: false, pageSize: 10 });"></script>
 				</div>
-				<nav class="top-nav" aria-describedby="top-nav">
-					<h2 class="visually-hidden" id="top-nav">Top level navigation menu</h2>
-					<ul class="top-nav-list">
-					</ul>
-				</nav>
+				
+					<nav class="top-nav" aria-describedby="top-nav">
+						<h2 class="visually-hidden" id="top-nav">Top level navigation menu</h2>
+						<ul class="top-nav-list">
+						</ul>
+					</nav>
+				
 			</div>
 		</header>
 
@@ -166,6 +168,6 @@
 			</div>
 		</footer>
 
-		<!-- This page `/sitemap.xml` was built on 2024-12-09T18:39:28.834Z -->
+		<!-- This page `/sitemap.xml` was built on 2024-12-09T18:44:42.060Z -->
 	</body>
 </html>
