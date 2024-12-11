@@ -25,18 +25,21 @@
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 		<header>
 			<div class="container header-container">
-				<p>Ryan Robinson Theology</p>
+				<p><a href="/" class="header-title-link" title="Return to homepage">Ryan Robinson Theology</a></p>
 				<div id="search" class="search">
 					<script src="/pagefind/pagefind-ui.js" onload="new PagefindUI({ element: '#search', showImages: false, pageSize: 10 });"></script>
 				</div>
-				<nav class="top-nav" aria-describedby="top-nav">
-					<h2 class="visually-hidden" id="top-nav">Top level navigation menu</h2>
-					<ul class="top-nav-list">
-					{%- for entry in collections.all | eleventyNavigation %}
-						<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
-					{%- endfor %}
-					</ul>
-				</nav>
+				{# TODO: fix testing to not show this nav if there aren't any, or remove it entirely if I don't think I'll ever use it. #}
+				{% if collections.all | eleventyNavigation %}
+					<nav class="top-nav" aria-describedby="top-nav">
+						<h2 class="visually-hidden" id="top-nav">Top level navigation menu</h2>
+						<ul class="top-nav-list">
+						{%- for entry in collections.all | eleventyNavigation %}
+							<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
+						{%- endfor %}
+						</ul>
+					</nav>
+				{% endif %}
 			</div>
 		</header>
 
@@ -47,6 +50,8 @@
 				</div>
 				<div class="sidebar">
 					{% include "serieslist.njk" %}
+					{% include "about-block.njk" %}
+					{% include "podcasts.njk" %}
 					{% include "tagslist.njk" %}
 				</div>
 			</main>
