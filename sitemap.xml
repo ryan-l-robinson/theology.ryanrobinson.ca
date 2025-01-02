@@ -47,6 +47,11 @@
 	</url>
 	
 	<url>
+		<loc>https://theology.ryanrobinson.ca/posts/2024/recycling-christianity/</loc>
+		<lastmod>2024-10-06</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://theology.ryanrobinson.ca/posts/2024/remembrance-day/</loc>
 		<lastmod>2024-11-11</lastmod>
 	</url>
@@ -137,7 +142,7 @@
 		<li><a href="/tags/politics/" class="post-tag">Politics</a> (3)</li>
 	
 		
-		<li><a href="/tags/sermon/" class="post-tag">Sermon</a> (1)</li>
+		<li><a href="/tags/sermon/" class="post-tag">Sermon</a> (2)</li>
 	
 		
 		<li><a href="/tags/technology/" class="post-tag">Technology</a> (1)</li>
@@ -193,6 +198,6 @@
 			</div>
 		</footer>
 
-		<!-- This page `/sitemap.xml` was built on 2025-01-02T16:24:15.862Z -->
+		<!-- This page `/sitemap.xml` was built on 2025-01-02T17:05:02.856Z -->
 	</body>
 </html>
