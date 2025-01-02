@@ -68,27 +68,32 @@
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/</loc>
-		<lastmod>2024-12-11</lastmod>
+		<lastmod>2025-01-02</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/posts/</loc>
-		<lastmod>2024-12-11</lastmod>
+		<lastmod>2025-01-02</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/tags/posts/</loc>
-		<lastmod>2024-12-11</lastmod>
+		<lastmod>2025-01-02</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/tags/</loc>
-		<lastmod>2024-12-11</lastmod>
+		<lastmod>2025-01-02</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/feed/feed.xml</loc>
-		<lastmod>2024-12-11</lastmod>
+		<lastmod>2025-01-02</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://theology.ryanrobinson.ca/posts/2024/empathetic-imagination/</loc>
+		<lastmod>2025-01-02</lastmod>
 	</url>
 </urlset>
 				</div>
@@ -124,7 +129,10 @@
 		<li><a href="/tags/movies-and-tv/" class="post-tag">Movies and TV</a> (1)</li>
 	
 		
-		<li><a href="/tags/politics/" class="post-tag">Politics</a> (2)</li>
+		<li><a href="/tags/politics/" class="post-tag">Politics</a> (3)</li>
+	
+		
+		<li><a href="/tags/technology/" class="post-tag">Technology</a> (1)</li>
 	
 	</ul>
 </aside>
@@ -177,6 +185,6 @@
 			</div>
 		</footer>
 
-		<!-- This page `/sitemap.xml` was built on 2024-12-11T00:04:59.032Z -->
+		<!-- This page `/sitemap.xml` was built on 2025-01-02T16:00:07.808Z -->
 	</body>
 </html>
