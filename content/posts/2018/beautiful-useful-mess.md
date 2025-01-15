@@ -1,6 +1,6 @@
 ---
 title: "A Beautiful Useful Mess"
-date: 2016-05-06T10:30:00.000Z
+date: 2018-05-06T10:30:00.000Z
 author: Ryan Robinson
 series: Confession of Faith
 description: "A sermon about a Mennonite approach to Scripture."
