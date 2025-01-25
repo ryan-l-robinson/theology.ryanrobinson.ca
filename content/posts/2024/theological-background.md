@@ -25,4 +25,3 @@ I got married right after university and went to The Meeting House when we moved
 Along with the Anabaptist influence, I look heavily toward liberation theologies. I would not normally call myself liberal, at least not without checking what the other person means by it first, since it can mean a lot of things and some of those things apply more than others. I would normally use liberationist instead. Liberal has too much connotation to me of educated white people sitting around and talking about things abstractly without interacting with those who are more oppressed or doing much about that oppression directly, while liberationist is driven by the oppressed.
 
 So that's largely my theological perspective: liberationist Anabaptist with some bits that sound a little evangelical and some liturgical impulses still in there.
-
