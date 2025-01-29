@@ -2,12 +2,12 @@
 title: "Sermon: The Image of the Invisible God"
 date: 2018-02-04T10:30:00.000Z
 series: Confession of Faith
-description: "A sermon about a Mennonite approach to Scripture."
+description: "A sermon about a Mennonite approach to Jesus."
 tags:
     - Sermon
 ---
 
-The following is my transcript from a result sermon. It was the third in a series walking through Confession of Faith in a Mennonite Perspective, with this one covering [Article 2: Jesus Christ](http://home.mennonitechurch.ca/cof/art.2). It has only been lightly edited to remove a couple names from our congregation, add an embedded video, and generally change to more web-friendly formatting.
+The following is my transcript from a recent sermon. It was the third in a series walking through Confession of Faith in a Mennonite Perspective, with this one covering [Article 2: Jesus Christ](http://home.mennonitechurch.ca/cof/art.2). It has only been lightly edited to remove a couple names from our congregation, add an embedded video, and generally change to more web-friendly formatting.
 
 ### Intro
 
