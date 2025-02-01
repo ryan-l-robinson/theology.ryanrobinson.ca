@@ -112,28 +112,33 @@
 	</url>
 	
 	<url>
+		<loc>https://theology.ryanrobinson.ca/posts/2024/lectionary-feb-2/</loc>
+		<lastmod>2025-02-01</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://theology.ryanrobinson.ca/</loc>
-		<lastmod>2025-01-31</lastmod>
+		<lastmod>2025-02-01</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/posts/</loc>
-		<lastmod>2025-01-31</lastmod>
+		<lastmod>2025-02-01</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/tags/posts/</loc>
-		<lastmod>2025-01-31</lastmod>
+		<lastmod>2025-02-01</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/tags/</loc>
-		<lastmod>2025-01-31</lastmod>
+		<lastmod>2025-02-01</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/feed/feed.xml</loc>
-		<lastmod>2025-01-31</lastmod>
+		<lastmod>2025-02-01</lastmod>
 	</url>
 </urlset>
 				</div>
@@ -167,6 +172,9 @@
 	
 		
 		<li><a href="/tags/lectionary/" class="post-tag">Lectionary</a> (1)</li>
+	
+		
+		<li><a href="/tags/lectionary-notes/" class="post-tag">Lectionary Notes</a> (1)</li>
 	
 		
 		<li><a href="/tags/movies-and-tv/" class="post-tag">Movies and TV</a> (1)</li>
@@ -234,6 +242,6 @@
 			</div>
 		</footer>
 
-		<!-- This page `/sitemap.xml` was built on 2025-01-31T23:38:36.724Z -->
+		<!-- This page `/sitemap.xml` was built on 2025-02-01T16:38:08.970Z -->
 	</body>
 </html>
