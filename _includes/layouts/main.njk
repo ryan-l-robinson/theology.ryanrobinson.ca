@@ -5,10 +5,10 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>{{ title or metadata.title }}</title>
 		<meta name="description" content="{{ description or metadata.description }}">
-<meta name="fediverse:creator" content="@Ryan@mstdn.ca" />
+		<meta name="fediverse:creator" content="@Ryan@mstdn.ca" />
   		<link rel="icon" type="image/x-icon" href="/img/favicon.ico">
 
-		{#- Atom and JSON feeds included by default #}
+		{#- Atom and JSON feeds #}
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 		<link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}">
 
@@ -17,7 +17,7 @@
 		{%- css %}{% include "public/css/header.css" %}{% endcss %}
 		{%- css %}{% include "public/css/pagefind.css" %}{% endcss %}
 		{%- css %}{% include "public/css/main.css" %}{% endcss %}
-   		{%- css %}{% include "public/css/main-no-sidebar.css" %}{% endcss %}
+   		{%- css %}{% include "public/css/main-sidebar.css" %}{% endcss %}
 		{%- css %}{% include "public/css/footer.css" %}{% endcss %}
 		<link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
 	</head>
@@ -25,17 +25,31 @@
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 		<header>
 			<div class="container header-container">
-				<p>Ryan Robinson Theology</p>
+				<p><a href="/">Ryan Robinson Theology</a></p>
 				<div id="search" class="search">
 					<script src="/pagefind/pagefind-ui.js" onload="new PagefindUI({ element: '#search', showImages: false, pageSize: 10 });"></script>
 				</div>
+				<nav class="top-nav" aria-describedby="top-nav">
+					<h2 class="visually-hidden" id="top-nav">Top level navigation menu</h2>
+					<ul class="top-nav-list">
+					{%- for entry in collections.all | eleventyNavigation %}
+						<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
+					{%- endfor %}
+					</ul>
+				</nav>
 			</div>
 		</header>
 
 		<div class="main-wrapper">
-			<main id="skip" class="main-no-sidebar">
-				<h1>{{ title }}</h1>
-				{{ content | safe }}
+			<main id="skip" class="main-sidebar">
+				<div class="main-content">
+					{{ content | safe }}
+				</div>
+				<div class="sidebar">
+					{% include "side-nav.njk" %}
+					{% include "serieslist.njk" %}
+					{% include "tagslist.njk" %}
+				</div>
 			</main>
 		</div>
 
