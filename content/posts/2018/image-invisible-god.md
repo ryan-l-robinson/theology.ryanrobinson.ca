@@ -11,7 +11,7 @@ The following is my transcript from a recent sermon. It was the third in a serie
 
 ### Intro
 
-A couple of years ago, Emily and I had some friends over in our apartment. All of us were Christians, but with a variety of traditions and theological leanings. Somebody asked everybody why they were a Christian. We had been sort of talking about forming a small group together, so it wasn't out of the blue. Remarkably, nobody had the same answer. We heard the philosophical arguments, the historical arguments, their own experiences which they could only attribute to the supernatural. We heard a variant on Pascal's wager, basically that if God exists, you want to be on God's side. We heard somebody acknowledging their brokenness and need for a saviour.
+A couple of years ago, we had some friends over in our apartment. All of us were Christians, but with a variety of traditions and theological leanings. Somebody asked everybody why they were a Christian. We had been sort of talking about forming a small group together, so it wasn't out of the blue. Remarkably, nobody had the same answer. We heard the philosophical arguments, the historical arguments, their own experiences which they could only attribute to the supernatural. We heard a variant on Pascal's wager, basically that if God exists, you want to be on God's side. We heard somebody acknowledging their brokenness and need for a saviour.
 
 My answer was that I am a Christian because of Jesus. All those other answers provided that night were probably true for me at some point or another, and they are all still true to some degree or another other than the Pascal's Wager one. I'm not in favour of basing your faith on a starting point involving fear. But ultimately, I am a Christian because the person of Jesus has always continued to be compelling to me. It sounds kind of naïve, I know. I had a youth pastor once who joked that we should just always answer "God, Jesus, Holy Spirit, Bible" because one of those was probably the right answer to the simplistic curriculum. But in this case, my real answer was the simple "Jesus".
 
@@ -95,7 +95,7 @@ They obviously were not trying for subtlety on the show, but this imagery was st
 
 This is an amazing example - not far removed from reality - that demonstrates how much theology does matter. Bad theology can literally kill people. Good theology can literally save lives.
 
-### Son of God, Revelation of God (6 min)
+### Son of God, Revelation of God
 
 Ultimately, though, the most central claim to make of Jesus is that he is the fullest revelation of God.
 
