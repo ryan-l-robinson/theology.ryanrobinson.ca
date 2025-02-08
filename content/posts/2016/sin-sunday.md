@@ -101,7 +101,7 @@ If we do talk about repentance, we often boil it down to just saying you're sorr
 What does repentance look like? Rabbi Danya Ruttenberg, described the Jewish view of repentance this way, specifically discussing in the context of celebrities returning to public life after being called out in the MeToo movement:
 
 > There are specific steps to repentance work:
-> 
+>
 > 1. owning the harm perpetrated (ideally publicly);
 > 2. do the work to become the kind of person who doesn't do harm (which requires a ton of inner work)
 > 3. Make restitution for harm done, in whatever way possible
