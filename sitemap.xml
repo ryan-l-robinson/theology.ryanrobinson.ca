@@ -29,6 +29,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
+		<loc>https://theology.ryanrobinson.ca/posts/2016/life-after-jesus/</loc>
+		<lastmod>2016-05-08</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://theology.ryanrobinson.ca/posts/2016/sin-sunday/</loc>
 		<lastmod>2016-05-08</lastmod>
 	</url>
@@ -145,27 +150,27 @@
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/</loc>
-		<lastmod>2025-02-08</lastmod>
+		<lastmod>2025-02-12</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/posts/</loc>
-		<lastmod>2025-02-08</lastmod>
+		<lastmod>2025-02-12</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/tags/posts/</loc>
-		<lastmod>2025-02-08</lastmod>
+		<lastmod>2025-02-12</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/tags/</loc>
-		<lastmod>2025-02-08</lastmod>
+		<lastmod>2025-02-12</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/feed/feed.xml</loc>
-		<lastmod>2025-02-08</lastmod>
+		<lastmod>2025-02-12</lastmod>
 	</url>
 </urlset>
 				</div>
@@ -253,6 +258,6 @@
 			</div>
 		</footer>
 
-		<!-- This page `/sitemap.xml` was built on 2025-02-08T16:49:25.892Z -->
+		<!-- This page `/sitemap.xml` was built on 2025-02-12T22:21:42.096Z -->
 	</body>
 </html>
