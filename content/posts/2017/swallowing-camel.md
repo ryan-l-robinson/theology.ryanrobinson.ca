@@ -1,7 +1,7 @@
 ---
 title: "Sermon: Swallowing a Camel"
 date: 2017-05-28T10:30:00.000Z
-description: "A sermon about a spiritual trauma and the trap of religious judgement."
+description: "A sermon about spiritual trauma and the trap of religious judgement."
 categories:
   - Sermon
 ---
