@@ -2,7 +2,7 @@
 title: "Lectionary Notes: Mar 2, 2025"
 date: 2025-03-01T11:00:00.000Z
 author: Ryan Robinson
-description: This week includes themes of .
+description: This week for the Transfiguration includes talk of mountains, shining faces, veils, and religious continuity.
 tags:
   - "Lectionary Notes"
 ---
