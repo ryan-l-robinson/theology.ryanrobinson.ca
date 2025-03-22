@@ -174,28 +174,33 @@
 	</url>
 	
 	<url>
-		<loc>https://theology.ryanrobinson.ca/</loc>
+		<loc>https://theology.ryanrobinson.ca/posts/2025/whose-armour/</loc>
 		<lastmod>2025-03-16</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://theology.ryanrobinson.ca/</loc>
+		<lastmod>2025-03-22</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/posts/</loc>
-		<lastmod>2025-03-16</lastmod>
+		<lastmod>2025-03-22</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/tags/posts/</loc>
-		<lastmod>2025-03-16</lastmod>
+		<lastmod>2025-03-22</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/tags/</loc>
-		<lastmod>2025-03-16</lastmod>
+		<lastmod>2025-03-22</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/feed/feed.xml</loc>
-		<lastmod>2025-03-16</lastmod>
+		<lastmod>2025-03-22</lastmod>
 	</url>
 </urlset>
 				</div>
@@ -227,7 +232,7 @@
 		<li><a href="/tags/politics/" class="post-tag">Politics</a> (5)</li>
 	
 		
-		<li><a href="/tags/sermon/" class="post-tag">Sermon</a> (9)</li>
+		<li><a href="/tags/sermon/" class="post-tag">Sermon</a> (10)</li>
 	
 		
 		<li><a href="/tags/technology/" class="post-tag">Technology</a> (2)</li>
@@ -283,6 +288,6 @@
 			</div>
 		</footer>
 
-		<!-- This page `/sitemap.xml` was built on 2025-03-16T17:34:46.262Z -->
+		<!-- This page `/sitemap.xml` was built on 2025-03-22T16:20:25.441Z -->
 	</body>
 </html>
