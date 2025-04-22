@@ -25,6 +25,7 @@
 		<div class="main-wrapper">
 			<main id="skip" class="main-sidebar">
 				<div class="main-content">
+					<h1></h1>
 					<?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
@@ -180,36 +181,64 @@
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/about-block/</loc>
-		<lastmod>2025-04-16</lastmod>
+		<lastmod>2025-04-22</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/</loc>
-		<lastmod>2025-04-16</lastmod>
+		<lastmod>2025-04-22</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/podcasts/</loc>
-		<lastmod>2025-04-16</lastmod>
+		<lastmod>2025-04-22</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/posts/</loc>
-		<lastmod>2025-04-16</lastmod>
+		<lastmod>2025-04-22</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/tags/</loc>
-		<lastmod>2025-04-16</lastmod>
+		<lastmod>2025-04-22</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/feed/feed.xml</loc>
-		<lastmod>2025-04-16</lastmod>
+		<lastmod>2025-04-22</lastmod>
 	</url>
 </urlset>
 				</div>
 				<div class="sidebar">
+					
+						
+						
+	<aside class="sidebar-block" aria-label="About Ryan">
+		<h2>About</h2>
+		<aside class="sidebar-block" aria-label="About Ryan">
+    <p>I'm Ryan Robinson. I have an M.Div. and am active in <a href="https://rockwaymc.ca">a Mennonite church</a>. This site is my personal notepad to place things I've prepared anyway for that church, as well as some other ramblings about God, the church, and the world.</p>
+    <p>If you're interested in more from me, see <a href="https://ryanrobinson.ca">ryanrobinson.ca</a>.</p>
+</aside>
+
+	</aside>
+
+	<aside class="sidebar-block" aria-label="About Ryan">
+		<h2>Podcasts</h2>
+		<aside class="sidebar-block" aria-label="Favourite Podcasts">
+    <p>Some of my favourite theology podcasts include:</p>
+    <ul>
+        <li><a href="https://www.reclaimingmytheology.org/">Reclaiming My Theology</a></li>
+        <li><a href="https://www.homebrewedchristianty.com/podcasts/">Homebrewed Christianity</a></li>
+        <li><a href="https://thebiblefornormalpeople.com/">The Bible for Normal People</a></li>
+        <li><a href="https://www.patreon.com/InVerse">Inverse</a></li>
+    </ul>
+</aside>
+
+	</aside>
+
+
+					
 					
 					
 <aside class="sidebar-block" aria-label="Tags for posts">
@@ -288,6 +317,6 @@
 			</div>
 		</footer>
 
-		<!-- This page `/sitemap.xml` was built on 2025-04-16T21:17:08.717Z -->
+		<!-- This page `/sitemap.xml` was built on 2025-04-22T20:01:17.010Z -->
 	</body>
 </html>
