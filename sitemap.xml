@@ -33,6 +33,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
+		<loc>https://theology.ryanrobinson.ca/posts/2015/bringing-balance-to-the-force/</loc>
+		<lastmod>2015-12-23</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://theology.ryanrobinson.ca/posts/2016/allegiance-to-a-label/</loc>
 		<lastmod>2016-01-28</lastmod>
 	</url>
@@ -280,7 +285,7 @@
 		<li><a href="/tags/mennonerds/" class="post-tag">MennoNerds</a> (1)</li>
 	
 		
-		<li><a href="/tags/movies-and-tv/" class="post-tag">Movies and TV</a> (3)</li>
+		<li><a href="/tags/movies-and-tv/" class="post-tag">Movies and TV</a> (4)</li>
 	
 		
 		<li><a href="/tags/politics/" class="post-tag">Politics</a> (5)</li>
@@ -290,9 +295,6 @@
 	
 		
 		<li><a href="/tags/technology/" class="post-tag">Technology</a> (2)</li>
-	
-		
-		<li><a href="/tags/theology/" class="post-tag">Theology</a> (1)</li>
 	
 	</ul>
 </aside>
@@ -345,6 +347,6 @@
 			</div>
 		</footer>
 
-		<!-- This page `/sitemap.xml` was built on 2025-08-10T20:52:17.195Z -->
+		<!-- This page `/sitemap.xml` was built on 2025-08-10T21:03:51.552Z -->
 	</body>
 </html>
