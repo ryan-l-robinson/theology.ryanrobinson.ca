@@ -33,6 +33,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
+		<loc>https://theology.ryanrobinson.ca/posts/2016/allegiance-to-a-label/</loc>
+		<lastmod>2016-01-28</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://theology.ryanrobinson.ca/posts/2016/life-after-jesus/</loc>
 		<lastmod>2016-05-08</lastmod>
 	</url>
@@ -321,6 +326,6 @@
 			</div>
 		</footer>
 
-		<!-- This page `/sitemap.xml` was built on 2025-08-10T20:20:37.463Z -->
+		<!-- This page `/sitemap.xml` was built on 2025-08-10T20:23:47.982Z -->
 	</body>
 </html>
