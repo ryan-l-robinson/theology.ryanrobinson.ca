@@ -5,7 +5,6 @@ author: Ryan Robinson
 description: "A book review about non-violent atonement and some implications."
 tags:
     - Books
-    - Theology
 ---
 
 ![The Atonement of God by J.D. Myers (cover)](./atonement-god-myers.jpg)
