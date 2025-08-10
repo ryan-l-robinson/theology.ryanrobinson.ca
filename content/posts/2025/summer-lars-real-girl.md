@@ -11,7 +11,7 @@ I gave this short talk at my church where we don't have the full and more formal
 
 ## Scripture Text
 
-[John 8:1-11 (CEB)](https://www.biblegateway.com/passage/?search=ephesians%206%3A10-24&version=CEB)
+[John 8:1-11 (CEB)](https://www.biblegateway.com/passage/?search=john%208%3A1-11&version=CEB)
 
 ## Transcript
 
