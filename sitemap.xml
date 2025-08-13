@@ -33,6 +33,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
+		<loc>https://theology.ryanrobinson.ca/posts/2015/game-of-thrones-season-5/</loc>
+		<lastmod>2015-11-19</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://theology.ryanrobinson.ca/posts/2015/the-rise-of-the-empire/</loc>
 		<lastmod>2015-12-18</lastmod>
 	</url>
@@ -214,32 +219,32 @@
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/about/</loc>
-		<lastmod>2025-08-10</lastmod>
+		<lastmod>2025-08-13</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/</loc>
-		<lastmod>2025-08-10</lastmod>
+		<lastmod>2025-08-13</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/podcasts/</loc>
-		<lastmod>2025-08-10</lastmod>
+		<lastmod>2025-08-13</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/posts/page-1/</loc>
-		<lastmod>2025-08-10</lastmod>
+		<lastmod>2025-08-13</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/tags/</loc>
-		<lastmod>2025-08-10</lastmod>
+		<lastmod>2025-08-13</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/feed/feed.xml</loc>
-		<lastmod>2025-08-10</lastmod>
+		<lastmod>2025-08-13</lastmod>
 	</url>
 </urlset>
 				</div>
@@ -290,7 +295,7 @@
 		<li><a href="/tags/mennonerds/" class="post-tag">MennoNerds</a> (1)</li>
 	
 		
-		<li><a href="/tags/movies-and-tv/" class="post-tag">Movies and TV</a> (5)</li>
+		<li><a href="/tags/movies-and-tv/" class="post-tag">Movies and TV</a> (6)</li>
 	
 		
 		<li><a href="/tags/politics/" class="post-tag">Politics</a> (5)</li>
@@ -352,6 +357,6 @@
 			</div>
 		</footer>
 
-		<!-- This page `/sitemap.xml` was built on 2025-08-10T21:12:00.248Z -->
+		<!-- This page `/sitemap.xml` was built on 2025-08-13T22:26:10.426Z -->
 	</body>
 </html>
