@@ -1,9 +1,8 @@
 ---
 title: "Approaching Apologetics"
-date: "2015-11-04"
-categories:
-  - "evangelism"
-  - "science"
+date: "2015-11-04T21:46:00.000Z"
+author: Ryan Robinson
+description: "Apologetics shouldn't be about convincing people you're right."
 ---
 
 In my later teen and early young adult years, apologetics were a fairly important discipline to me. I read all of Lee Strobel's "Case For..." books. Looking back on them, there were some ok ideas that I'm glad I picked up in an accessible way there instead of in a philosophy class. There were also a lot of things that I soon realized were really bad arguments, such as the treatment of evolution as obviously contrary to true Christianity as well as a lot of thoroughly-debunked arguments against evolution. I have an easier solution to that one: why couldn't God create the world and move it to where we are today through an evolutionary process?
