@@ -33,6 +33,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
+		<loc>https://theology.ryanrobinson.ca/posts/2015/approaching-apologetics/</loc>
+		<lastmod>2015-11-04</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://theology.ryanrobinson.ca/posts/2015/game-of-thrones-season-5/</loc>
 		<lastmod>2015-11-19</lastmod>
 	</url>
@@ -357,6 +362,6 @@
 			</div>
 		</footer>
 
-		<!-- This page `/sitemap.xml` was built on 2025-08-13T22:26:10.426Z -->
+		<!-- This page `/sitemap.xml` was built on 2025-08-13T22:32:32.652Z -->
 	</body>
 </html>
