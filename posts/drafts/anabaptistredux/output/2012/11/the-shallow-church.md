@@ -1,0 +1,38 @@
+---
+title: "The Shallow Church"
+date: "2012-11-29"
+categories: 
+  - "books"
+  - "the-church"
+tags: 
+  - "david-kinnaman"
+  - "you-lost-me"
+---
+
+Continuing our way through _You Lost Me_ by David Kinnaman, we've now come to the chapter talking about the perception/reality that the Western church is shallow. Kinnaman finds this shallowness to have two dimensions, being both an inch deep and a mile wide. Many have a faith which has little substance while also having a faith that "convey\[s\] a lot of information about God rather than discipling young believers to live wholly and deeply in the reality of God." People perceive this shallowness and see no advantage to being a Christian when it is essentially the same as being American but with the added bonus of having prayed a particular prayer which allows them to judge others.
+
+### Moralistic Therapeutic Deism
+
+\[caption id="attachment\_1150" align="alignright" width="300"\][![Deism in a Nutshell](images/Deism-in-a-Nutshell.gif "Deism in a Nutshell")](http://www.anabaptistredux.com/wp-content/uploads/2012/11/Deism-in-a-Nutshell.gif) Deism in a nutshell\[/caption\]
+
+But first a little bit more on the kind of Christianity that is being perceived by at least the emerging generation if not a generation or two before us. Quoting Christian Smith and Melinda Lundquist Denton, Kinnaman speaks of this shallow Christianity as "moralistic therapeutic deism." Unpack that label a little and it is easy to see that this is indeed the version of Christianity which is often being taught in churches... or at the very least, it is the version of Christianity which the emerging generation thinks is being taught (I'll leave the benefit of the doubt that they aren't intentionally teaching this form of Christianity; they may simply be failing to communicate). The purposes of Christianity are primarily seen as a strict source of morality and/or about pleasing the customers (the practitioners), helping them as individuals live a happy and healthy life. The god that completes these goals is generally impersonal and is simply on call to help when his worshippers call on him, which is essentially what we call deism but with a slight twist. Maybe the best analogy I've heard is that **God is seen as a divine vending machine**: put prayer in, get rewards back.
+
+<!--more-->What has led to this shallow view of Christianity? My answer is similar to Kinnaman's, although I will deviate in many ways from Kinnaman's wording so you'll have to read the book if you want more on his particular way of summarizing the problem.
+
+### The Intellectualization of Faith
+
+The first problem to me is that since the Reformation being a Christian has primarily meant subscribing to a certain set of doctrines. You could argue that this was somewhat true before the Reformation, but it definitely accelerated in a hurry once the Protestant movement came along. It is hard for me to exaggerate how far removed this is from the way that the Bible speaks about faith. Unfortunately, we bought into the modern ideal that objective truth is more important than anything else, including love of God and love of neighbour which is what Jesus called the greatest commandment.
+
+Another disturbing element of this factor is how much trouble Christians have getting along with each other. Since what we think about God is more important than how we are living together for God, it is easy to place our worth in our theology and condemn anyone as a heretic who disagrees with us. No wonder we went from 2 denominations in 1500 to several thousand today. In the modern era, this didn't really come back to bite the church that much in terms of its attendance numbers. The threat of Hell for those who left the church, even to another denomination, would be enough to keep most people in line. But in the information age it is far too easy to access other thought and we now have a dislike of condemning others who disagree with us (for good reason, I believe). When those in the emerging generation see the church fighting and condemning each other as well as everybody else, they simply decide that they don't need to deal with it when there are so many other options for more loving spiritualities out there.
+
+The Bible is not a systematic theology textbook and I think there is a very good reason for that: **having our precise theologies correct is not the most important thing for the believer**. Unfortunately, we tend to treat it and being a Christian in general as if it was. We're now stuck trying to deal with the consequences of this attitude, including the mile-wide version of Christianity too focused on getting every details right at an intellectual level.
+
+### The Legal Framework
+
+The other major problem is that **Christianity has been reduced to a legal transaction**. I don't think it is a coincidence that John Calvin was a lawyer. His thought, and much Protestant thought which followed in his footsteps, talks primarily in these terms. By the time John Wesley came along, the Gospel had been boiled down to believing the right things in order to avoid going to Hell. From Wesley onward is about when we start having what we think of as evangelicalism today with its emphasis on personal experience. That's not a bad thing by any means; it is important to continue to emphasize the personal (but not individual) relationship between God and his followers. At the same time, we also started seeing stronger efforts to summarize the Gospel in handy few points in order to efficiently evoke this personal repentance. Unfortunately, this summary of the Gospel was primarily about how God was going to send you to Hell for eternity unless you said the sinner's prayer. It was all about avoiding punishment. Sadly, this is still how many evangelicals define the Gospel.
+
+There are many problems with the legal framework but in the spirit of this conversation I'm going to focus on what it does to those growing up in the church. It creates an inch-deep understanding of Christianity because that is all that is necessary. If the purpose of being a Christian is to avoid Hell, and all it takes to avoid Hell is to say the right prayer or think the right thing, then what's the point of doing anything more than that? It shouldn't be surprising that a large proportion of those who grew up in the church don't see any advantage to sticking around. They've said the prayer as a child. Many still believe the doctrines in theory. They were always told that's what it takes and since there was no benefit to being a Christian other than avoiding Hell, there was really no point to doing any further discipleship.
+
+### Discipleship
+
+That's the key word: discipleship. Jesus did not call people to believe the right things about him. Neither did he call people to figure out the magic formula so that he wasn't obligated to send them to Hell. **He called them, and us, to follow him**. Some will say no to this call and that's ok. What is not ok is changing the call in order to get more people saying that they're Christians. It is not ok to reduce Christianity to an intellectual faith. It is also not ok to reduce Christianity to a legal framework about avoiding Hell. Jesus just didn't leave those options open in how he taught and lived. We will need to allow many who aren't willing to pick up their crosses to walk around. Even Jesus allowed people to walk away who couldn't handle the cost. Without settling for the inch-deep and mile-wide faith, we can focus our efforts on those who have counted the cost and who are willing to be a part of a Gospel that is far bigger and far more beautiful than intellect and Hell-avoidance.

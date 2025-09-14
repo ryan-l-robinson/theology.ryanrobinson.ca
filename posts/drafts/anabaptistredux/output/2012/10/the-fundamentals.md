@@ -1,0 +1,47 @@
+---
+title: "The Fundamentals"
+date: "2012-10-26"
+categories: 
+  - "history"
+  - "evangelicalism"
+---
+
+\[caption id="attachment\_1096" align="alignright" width="200"\][![Christianity 101 on chalkboard](images/Christianity-101.jpg "Christianity 101")](http://www.anabaptistredux.com/wp-content/uploads/2012/10/Christianity-101.jpg) For fundamentals, these things are the basics of any true Christianity\[/caption\]
+
+The word “fundamentalist,” like so many other Christian descriptors, is one that most people don’t really know how to define. Some define it in terms of attitude to say that fundamentalists are those who aggressively push their understanding of the faith on those who don’t agree and then condemn them to Hell if they continue to disagree. Consequently, some basically define fundamentalist as “crazy.” Or some define in terms of their conservative political position, believing that they must retain the Christian morality of the nation on certain issues (same-sex marriage and abortion usually are the big two). Others start to get a little closer to a more technically-correct definition by equating fundamentalist with theologically conservative, holding to some set of traditional beliefs often as defined within their own tradition. <!--more-->
+
+### The History
+
+From a historical perspective, here’s what it actually means. In 1910, after several years of liberal scholars debating with conservative scholars, many conservatives got together to decide on the core truths of the faith. It hasn’t worked out this way since, but initially it was actually a unifying movement – unifying against an enemy of liberalism, but unifying nonetheless. They agreed on five fundamentals which I list below, as well as give a quick answer as to my own position on the doctrine.
+
+### Literal Biblical Inerrancy
+
+This is the one that people most often think of when they think of fundamentalist theology. As much as possible, the Bible is to be interpreted literally – i.e. They do acknowledge that there are metaphors, but if it isn’t clear whether it is to be literally true or not, assume that it is. The creation account in Genesis is one of the most obvious points of discussion but it also includes stories like The Flood, Job, the physical resurrection, and the virgin birth.
+
+I don’t agree with this view of the Bible. The main reason is that the Bible itself never claims to be interested in maintaining literal factual history. It doesn’t even make sense that it would; this whole way of viewing history is a modern idea, not an ancient idea. The biblical authors do not seem interested in preserving things as close to what happened simply for the sake of preserving them as close to what happened. Furthermore, it is a new doctrine historically, only in existence for a relatively short period of time before being enshrined as a Protestant/evangelical fundamental. If only a minority has held it throughout history and the Bible itself doesn’t claim it, plus the obvious issues of occasional minor inconsistencies within the text itself, with science, or with other historical sources… putting it all together, it just isn’t a very convincing doctrine to me especially since I don’t see any real pastoral advantage to it either.
+
+### The Virgin Birth
+
+The next fundamental is that Jesus was born miraculously of a virgin as described in Matthew. I think the need to include this in the fundamentals was primarily a contextual one since it was one of the doctrines under fire at the time. It is also an old doctrine, fairly clear in Scripture and put into the earliest creeds, so unlike literal biblical inerrancy, there is a strong case for this really being considered a fundamental in the grand scheme of Christian history.
+
+I do agree with this fundamental although I don’t think it really matters all that much in terms of practical implications. I’m not sure what theology changes by agreeing or disagreeing with it except for two possible extensions. One: would it suggest that miracles can’t happen? Typically the virgin birth is rejected based on a presupposition that miracles can’t happen, so in that case I would reject the assumption even if I see room for debate on this particular instance. Two: would it suggest that Matthew was wrong? While I am not a literalist (see above), Matthew’s inclusion of that detail didn’t seem to be there for much purpose other than because he thought it was true. So if it comes down to it, if I were to find out that the virgin birth didn’t happen, it wouldn’t shake my faith at all, but forced to pick a side I do agree because it is the most obvious interpretation of Scripture and of church tradition.
+
+### Penal Substitutionary Understanding of the Atonement
+
+In many evangelical/fundamentalist circles (those aren’t synonyms, but it applies to many evangelicals as well as fundamentalists), this is often simply referred to as “the Gospel.” It is usually summed up in something like “the four spiritual laws.” First, we were created good by God to be in relationship with him. Second, we rebelled and sinned, making every subsequent human being a sinner by nature. As sinners, God is obligated to punish us because he is a god of retributive justice. Third, God became a human and took the penalty for us. Therefore, fourth, we are free to be in relationship with God if and only if we accept that Jesus took our place of punishment.
+
+This is a doctrine I discuss fairly often and I want to be brief here. I disagree with this doctrine for a few reasons. It isn’t very clearly established in the Bible if at all – there are some texts that proponents would use to argue but I consider them unconvincing. Like literal inerrancy, it is a modern-era doctrine created by a lawyer (a lawyer emphasizing retributive justice, go figure) - Anselm did come up with a very similar version in the 12th century, but Calvin created the more common evangelical form in the 16th. For the first 11 centuries, Christians did not subscribe to this framework. Many Christians today still do not. Lastly, it has a lot of harmful consequence if you continue to think in these terms. **To be clear, I believe in the atonement: that God on the cross restored us to relationship with him.** I just differ on the metaphysics of how that happened, and I strongly disagree with considering this doctrine an essential or reducing the Gospel to this doctrine.
+
+### Bodily Resurrection of Jesus
+
+If penal substitution isn’t the most emphasized doctrine, then the resurrection usually is instead. It was not just a good story to make people feel better about the fact that their leader died. It was not a collective hallucination. It was not a conspiracy. Jesus really did physically die and really did physically rise again on the third day.
+
+I strongly agree with this dogma and, second only to “Jesus is Lord,” I think it is the most important belief of Christians. If you scrap this belief, then I think most of the rest of Christianity is meaningless. In my understanding of the atonement, the resurrection is essential as the mark of victory over evil and death, ultimately subverting the violence of the world and the accusations of Satan by replacing it with a beautiful conquering sacrifice.
+
+### The Return of Christ
+
+Dispensationalism was a new doctrine at this time but was very popular in evangelical Christianity very quickly. It is still often associated with evangelicalism today. This belief claims that someday, Jesus will physically return – often with violence toward those who are not Christians – in order to set up his Kingdom on earth. It is often paired with the idea of The Rapture, which is that Christians will first be whisked away to Heaven to safely watch God destroy everyone else. If you’re really curious about this doctrine, check out the short documentary below:
+
+I definitely disagree with the violence part. I don’t think that Jesus lived and taught creative non-violence the first time just so he could ignore it himself by becoming the angry destroyer of most of the world later. I think that the world is redeemed by subverting its violent systems, not by playing along but with more force. I also definitely disagree with the Rapture part that Christians are to be taken away so we can laugh at the non-Christians getting obliterated. It really has no biblical basis, it is a new doctrine, and it isn’t consistent with the rest of the biblical message of Christians needing to get their hands dirty to redeem the world instead of escaping from it.
+
+On the general concept, though, I’m not entirely sure. I definitely don’t consider it a fundamental one way or another. I probably lean toward the idea that Jesus is always coming again, through the lives of his followers and the activity of the Holy Spirit. But will he one day perform a more overtly miraculous fix of everything in one fell swoop? Maybe. I honestly don't pretend to know. It definitely wouldn’t be inconsistent with the rest of my theology or how I understand Scripture. But I also am not fully convinced that Scripture really says much one way or another about it. I think God only chose to reveal as much as necessary so that we are able to focus on now and not on arguing over the fine details of the future – which is exactly what many do – so I’m generally not too future-oriented either. ----- What do you think about these fundamentalists? How many do you agree with? How many do you consider essential doctrine?

@@ -1,0 +1,15 @@
+---
+layout: layouts/main.njk
+title: Latest Posts
+eleventyImport:
+  collections: ["posts"]
+pagination:
+  data: collections.posts
+  reverse: true
+  size: 20
+---
+{% set postslist = pagination.items %}
+{% set show_pagination = true %}
+{% include "postslist.njk" %}
+
+{{ content | safe }}

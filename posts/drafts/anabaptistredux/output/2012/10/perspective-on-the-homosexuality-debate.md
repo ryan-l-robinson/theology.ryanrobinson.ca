@@ -1,0 +1,20 @@
+---
+title: "Perspective on the Homosexuality Debate"
+date: "2012-10-17"
+categories: 
+  - "biblical-studies"
+  - "lgbt"
+tags: 
+  - "misused-verses"
+  - "bible-homosexuality"
+---
+
+\[caption id="attachment\_919" align="alignleft" width="300"\] At least this guy could make light of anti-LGBT hatred\[/caption\]
+
+In my opinion, there is one clearly ridiculous part of the homosexuality debate, particularly as found in the political arguing in the United States. The most commonly mentioned sin in the Bible is idolatry. The second is greed, at over 3000 verses, and you could easily argue that greed is just a form of idolatry. Nations are regularly judged in the Old Testament because of their greed, including Sodom (contrary to the usual claim that they were killed for being gay - see [my next post)](http://anabaptistredux.com/the-real-sin-of-sodom/ "The Real Sin of Sodom"). How many verses are there about homosexuality? _At most_ 6: 3 Old Testament and 3 New. And I do mean at most because I will question if that's really what they're saying, but for the sake of this post I'll assume that they are actually referring to homosexuality in general. So we have a ratio in the Bible of 3000:6, or **500 verses on greed for every 1 on homosexuality**.
+
+<!--more-->Yet if you ask the average conservative Christian in the United States what sin is the biggest problem in their nation, what do you think they'd say? To put the question the other way, even if you accept that homosexual activity is a sin, as [Side B and Side X](http://anabaptistredux.com/the-sides-of-the-homosexuality-debate/ "The Sides of the Homosexuality Debate") agree on, then what is the ratio between how much we hear pastors calling out homosexuality to how often we hear them calling out greed or other forms of idolatry? How does that compare to the 500:1 ratio in the Bible? And realistically, which is much more prevalent on a daily basis for the majority of North Americans, including North American Christians? Somewhere between 2% and 10% of people are same-sex attracted at least as much as they are opposite-sex attracted (not active, but attracted). What percentage of Americans do you think struggle with greed or other types of idolatry? I'd put an estimate upwards of 90%, and I think I'm being extremely generous with that one. I think if you really want to blame one sin for the downfall of North American society, as many American conservatives do, then there is a huge list of other problems, starting with greed and other forms of idolatry, that would rank far ahead of homosexuality.
+
+From the biblical perspective, and that is what the B's and X's are claiming that they are holding to, homosexuality - even if it is a sin - is **not that big of a deal**. I get that it is a very hot-button issue and it is a very important issue, which is why I wanted to blog on it. So if you're a Side B or a Side X, I definitely don't suggest shying away from it, but I honestly think that you aren't really paying attention to the Bible by making it the issue over and over again, a la Westboro Baptist Church, either.
+
+Of course, also much more commonly mentioned sins in the Bible are things like violence, anger, and hatred - all things that [are routinely committed in the name of God against LGBTs](http://anabaptistredux.com/child-abuse-in-the-name-of-righteousness/ "Child Abuse in the Name of Righteousness"). Suppose for a second that you really do think there's such a thing as the gay agenda that needs to be stopped politically. In that case, **remember what Jesus said we are to do with our enemies: love them**. It is one thing to say that they are sinning, but it is another to pretend that you are not when you deliberately ignore much clearer teachings of the Bible by treating them like second-class human beings (in your churches or politically). This is a bare minimum that no matter how you interpret the biblical texts (possibly) about homosexuality, we should all be able to agree on this: **we are to be the friend of sinners as Jesus was and love even our enemies**.

@@ -1,0 +1,16 @@
+---
+title: "Perspective on Steve Jobs"
+date: "2012-10-25"
+categories: 
+  - "technology"
+---
+
+As I imagine any of my readers known, Steve Jobs passed away yesterday from his fight with cancer. There is no doubt that Steve was a brilliant businessman. And there is no doubt that, particularly in the early years, Apple under Jobs made a lot of great advances for the technology industry. Most impressive, his Apple repeatedly succeeded in bringing the latest technologies to the masses. He single-handedly revived Apple when they brought him back, building them up from almost bankrupt to the most valuable company in the world. All of that to say, some of the reaction I can't help but think is a bit overblown.
+
+<!--more-->
+
+Twitter is filled with people wishing Steve to Rest in Peace or even in lots of cases saying that they cried because they lost such an inspiration. And this isn't any disrespect to the great things that Steve did, but I do think his death has shown that we as people have some distorted priorities. It would be different if people responded this way to lots of death, but this level of empathy is really only reserved for celebrities. Yet if somebody gives up their life to save others, it isn't noteworthy enough for anybody to notice. If you protest corruptions of Wall Street, the media ignores it. I'm not asking for less empathy for Jobs - in fact the opposite: I wish people showed as much attention and empathy for the deaths of others.
+
+We have to ask ourselves: what are our priorities in deciding who we use as our real role models? I'm not even saying that Jobs' business ability and the technology brought to the masses through his company are not honourable. I'm just saying that there are more honourable traits. While we mourn the loss of a man who made billions of dollars, thousands more die every day because they can't afford food. We do not mourn them. More die or make major sacrifices to try to save those lives. We don't even notice. We show with deaths of the famous, like Jobs, that we are quite capable of caring for others and mourning the loss of life. In one way this should be encouraging because the outpouring is amazing for somebody we know little about except that he had a part in the company that made your MP3 player, but it is also disheartening to realize that we give very few people this kind of love. We honour a great speaker, a great salesman, a great visionary for a technological giant, and we ignore the people representing the really important character traits. Jobs did many remarkable things, but those people who so often remain nameless are the real heroes.
+
+I only suggest that we strive to care for all life equally and not just those who have provided us with charismatic speeches and entertaining products. May Steve rest in peace, and may the thousands of children dead yesterday of AIDS or starvation also rest in peace. Let's look at some great lessons of Steve's life, but let's also look at the lessons of the average Joe who didn't sit around but did something about the real troubles of the world - starvation, disease, lack of clean water, and destruction of our environment just to name a few. Let's hold that average Joe up as demonstrating for us some real goals to strive for: goals of a world in which the Kingdom of God is on earth as it is in heaven.

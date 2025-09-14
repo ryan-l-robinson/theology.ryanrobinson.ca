@@ -1,0 +1,33 @@
+---
+title: "Embracing Ubuntu: Meet James"
+date: "2014-04-29"
+categories: 
+  - "the-church"
+  - "the-gospel-love-and-grace"
+tags: 
+  - "embracing-ubuntu"
+---
+
+\[caption id="attachment\_4059" align="alignright" width="200"\] That's James at the top. Somehow his birthday party involved fitting as many of us as possible into an old phone booth.\[/caption\]
+
+_This post is the second in a short semi-autobiographical series I'm doing called Embracing Ubuntu. Ubuntu, for those who aren't familiar, is an African concept that is hard to translate but means something like "diversity in unity." It is neither uniformity - making everyone the same or not talking about differences - nor is a free-for-all battle where anything goes. It is a recognition that is simple in theory but hard in practice: we are all different and that doesn't make me better than you. I've expressed this idea many times, often using the Anabaptist phrasing the "Third Way," but in this series I want to give examples of where I have encountered it working._
+
+James was a housemate of mine for three years. The house was initially comprised of members of a campus group. We used it for a variety of ministry events. By the end of that year, half of the house was no longer active in [that group because of various concerns](http://anabaptistredux.com/a-sad-tale-of-judgemental-christian-culture/ "A Sad Tale of Judgemental Christian Culture"). It sounds like a recipe for disaster, and with at least one of the other housemates, it did not go over well in the remaining time we lived together (fortunately only a couple of months).
+
+<!--more-->
+
+After that as people graduated and moved out, new people moved in, some a part of that group, some who had left and were now active in [a Home Church together](http://anabaptistredux.com/embracing-ubuntu-kingston-home-church/ "Embracing Ubuntu: Kingston Home Church") that was often portrayed by that group as a group of heretics, some who had no connection to it at all (but still Christian men). It could have still been a recipe for disaster. But it wasn't. We even hosted two different Bible studies in side-by-side rooms on the same night one year. Our Alpha leaders were really casual, asking lots of weird questions like why we aren't nudists, while the other group met next door and seemed to be much more serious about more stereotypically evangelical questions like whether it is ok to tell people they're going to Hell as part of your evangelism.
+
+But despite differences and sometimes significant theological disagreements between groups and the people who lived there, we got along amazingly well. I want to specifically focus on James. In the beginning of our first year in the house we were on a similar page, generally supportive of that initial group but not super-involved either. By the end we were both questioning many of the same things. I started delving into a lot of emerging and Anabaptist thought among others. James ultimately concluded that the views I had steered away from were indeed correct, just not always carried out as well as they should have been. He continued from there to get involved with a complementarian, conservative, neo-Reformed church.
+
+So now I'm living with this guy who likes to talk theology as much as I do but has some very contradictory views. I was always an egalitarian and I only briefly flirted with a tamer version of Reformed theology a couple of years before this. I was still fairly theologically conservative by most standards in the early days, definitely an evangelical, just of a more Wesleyan variety. It wasn't really until the end of this time that I decided it was probably best to ditch the evangelical label as not accurately describing me anymore ([depending on the definition](http://anabaptistredux.com/my-evangelicalism/ "My Evangelicalism")). Regardless, our differences were significant, significant enough that many Christians would simply call off fellowship with each other.
+
+So obviously, **he became one of my best friends**. He referred to my bookshelf as the "wall of heresy," complete with New Atheists along with Emergents and classic Reformeds and neo-Reformeds and Wesleyans and liberals and... He would constantly have a Bible verse ready to ask "but what about...?" when I said something he disagreed with, much more than I could back to him. We genuinely tried to understand each other but rarely changed the other's mind, and we were ok with that. We could go back and forth for a few hours and then leave better friends than when we started.
+
+A couple of years later he was in my wedding party along with a Catholic Best Man, a moderate Baptist, one somewhere between Anabaptist and evangelical, and one not interested in organised religion at all. We even had a good debate on my bachelor party camping weekend where I felt a little sorry for the other two present. James and I live a fair distance from each other now but still try to check in occasionally.
+
+Whenever I am tempted to just dismiss somebody I disagree with as just stupid or not really paying attention to Jesus because their views are different than mine, I think of James. There was (and is) no doubt of his passion. He wanted to do whatever he could to follow Jesus the best he could. He concluded some very different things about what that looks like. Some of those theological ideas I even argue hurt people and so I can get quite passionate about, but James has always been careful about how he spoke to be as loving as he could while still saying what he honestly thinks is right. He also wasn't afraid to criticize those who agreed with him on the theory but were much more of a clanging gong lacking love when they put it in practice, which is something I try to be open to when looking at my "tribe" too.
+
+I've talked about concentric circles of theology before. I regularly emphasize that Jesus alone is at the centre of our faith. It isn't our views on gender roles or predestination or the purpose of the Old Testament or any of those other things that James and I have debated over the years. My faith is in the living Jesus. James' faith is in the living Jesus. We came together as followers of Jesus first.
+
+Then we could talk about the rest as family. It wasn't even on purpose, as if we had this understanding at the time. It just happened because that was what love looked like in that situation and we both wanted to take Jesus seriously, particularly in that Great Commandment to love. That gave us a point of connection that no doctrinal difference could break. Doctrine matters, but love always wins.
