@@ -13,10 +13,7 @@ export default function (eleventyConfig) {
 	// Copy the contents of the `public` folder to the output folder
 	// For example, `./public/css/` ends up in `_site/css/`
 	eleventyConfig
-		.addPassthroughCopy({
-			"./11ty-theme/public/": "/"
-		})
-		.addPassthroughCopy("./public")
+		.addPassthroughCopy({ "public/": "/" })
 		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl")
 		.addPassthroughCopy("./CNAME");
 
@@ -98,43 +95,105 @@ export default function (eleventyConfig) {
 	  execSync(`npx pagefind --site _site`, { encoding: 'utf-8' })
 	})
 
-};
+	eleventyConfig.addCollection("tagPages", function(collectionApi) {
+		const posts = collectionApi.getFilteredByTag("posts").reverse();
+		const tagMap = new Map();
+		const pageSize = 10;
+		const tagPages = [];
+		const slugify = eleventyConfig.getFilter("slugify");
 
-export const config = {
-	// Control which files Eleventy will process
-	// e.g.: *.md, *.njk, *.html, *.liquid
-	templateFormats: [
-		"md",
-		"njk",
-		"html",
-		"liquid",
-		"11ty.js",
-	],
+		// Exclude utility tags
+		const filterTagList = tags => (tags || []).filter(tag => ["all", "posts"].indexOf(tag) === -1);
 
-	// Pre-process *.md files with: (default: `liquid`)
-	markdownTemplateEngine: "njk",
+		// Group posts by tag
+		for (const post of posts) {
+			const tags = filterTagList(post.data.tags);
+			for (const tag of tags) {
+				if (!tagMap.has(tag)) {
+					tagMap.set(tag, []);
+				}
+				tagMap.get(tag).push(post);
+			}
+		}
 
-	// Pre-process *.html files with: (default: `liquid`)
-	htmlTemplateEngine: "njk",
+		// Create paginated pages for each tag
+		for (const [tag, posts] of tagMap.entries()) {
+			const pageCount = Math.ceil(posts.length / pageSize);
+			const tagSlug = slugify(tag);
+			const pages = [];
 
-	// These are all optional:
-	dir: {
-		input: "content",          // default: "."
-		includes: "../11ty-theme/_includes",  // default: "_includes" (`input` relative)
-		data: "../_data",          // default: "_data" (`input` relative)
-		output: "_site"
-	},
+			for (let i = 0; i < pageCount; i++) {
+				const start = i * pageSize;
+				const end = start + pageSize;
+				pages.push({
+					tagName: tag,
+					pageNumber: i,
+					totalPages: pageCount,
+					posts: posts.slice(start, end)
+				});
+			}
 
-	// -----------------------------------------------------------------
-	// Optional items:
-	// -----------------------------------------------------------------
+			// Add pagination data to each page
+			for (let i = 0; i < pageCount; i++) {
+				const hrefs = [];
+				for (let j = 0; j < pageCount; j++) {
+					hrefs.push(j === 0 ? `/tags/${tagSlug}/` : `/tags/${tagSlug}/${j + 1}/`);
+				}
 
-	// If your site deploys to a subdirectory, change `pathPrefix`.
-	// Read more: https://www.11ty.dev/docs/config/#deploy-to-a-subdirectory-with-a-path-prefix
+				pages[i].pagination = {
+					hrefs: hrefs,
+					href: {
+						first: hrefs[0],
+						last: hrefs[hrefs.length - 1]
+					},
+					pages: pages.map((p, j) => ({ url: hrefs[j] })), // Simplified for template compatibility
+					pageNumber: i,
+					totalPages: pageCount
+				};
+			}
 
-	// When paired with the HTML <base> plugin https://www.11ty.dev/docs/plugins/html-base/
-	// it will transform any absolute URLs in your HTML to include this
-	// folder name and does **not** affect where things go in the output folder.
+			tagPages.push(...pages);
+		}
 
-	// pathPrefix: "/",
+		return tagPages;
+	});
+
+	return {
+		// Control which files Eleventy will process
+		// e.g.: *.md, *.njk, *.html, *.liquid
+		templateFormats: [
+			"md",
+			"njk",
+			"html",
+			"liquid",
+			"11ty.js",
+		],
+
+		// Pre-process *.md files with: (default: `liquid`)
+		markdownTemplateEngine: "njk",
+
+		// Pre-process *.html files with: (default: `liquid`)
+		htmlTemplateEngine: "njk",
+
+		// These are all optional:
+		dir: {
+			input: "content",          // default: "."
+			includes: "../11ty-theme/_includes",  // default: "_includes" (`input` relative)
+			data: "../_data",          // default: "_data" (`input` relative)
+			output: "_site"
+		},
+
+		// -----------------------------------------------------------------
+		// Optional items:
+		// -----------------------------------------------------------------
+
+		// If your site deploys to a subdirectory, change `pathPrefix`.
+		// Read more: https://www.11ty.dev/docs/config/#deploy-to-a-subdirectory-with-a-path-prefix
+
+		// When paired with the HTML <base> plugin https://www.11ty.dev/docs/plugins/html-base/
+		// it will transform any absolute URLs in your HTML to include this
+		// folder name and does **not** affect where things go in the output folder.
+
+		// pathPrefix: "/",
+	};
 };
