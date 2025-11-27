@@ -46,7 +46,7 @@ This builds on that, and the one I will be preaching. In the Exodus versions of 
 
 > 12 Keep the Sabbath day and treat it as holy, exactly as the Lord your God commanded: 13 Six days you may work and do all your tasks, 14 but the seventh day is a Sabbath to the Lord your God. Don’t do any work on it—not you, your sons or daughters, your male or female servants, your oxen or donkeys or any of your animals, or the immigrant who is living among you—so that your male and female servants can rest just like you. 15 Remember that you were a slave in Egypt, but the Lord your God brought you out of there with a strong hand and an outstretched arm. That’s why the Lord your God commands you to keep the Sabbath day. (Deuteronomy 5:12-15 CEB)
 
-This newly-freed people aren’t allowed to just turn around and repeat the same injustices on others now that they have some freedom. So, the Sabbath is a reminder not to fall into the trap of constantly trying to increase our power and wealth, pushing others down along the way.
+This newly freed people aren’t allowed to just turn around and repeat the same injustices on others now that they have some freedom. So, the Sabbath is a reminder not to fall into the trap of constantly trying to increase our power and wealth, pushing others down along the way.
 
 ## Week 4: Sabbath as Liberation
 
@@ -55,6 +55,8 @@ The final week is the other side of the resistance coin. If Sabbath as resistanc
 > 10 Jesus was teaching in one of the synagogues on the Sabbath. 11 A woman was there who had been disabled by a spirit for eighteen years. She was bent over and couldn’t stand up straight. 12 When he saw her, Jesus called her to him and said, “Woman, you are set free from your sickness.” 13 He placed his hands on her and she straightened up at once and praised God.
 > 14 The synagogue leader, incensed that Jesus had healed on the Sabbath, responded, “There are six days during which work is permitted. Come and be healed on those days, not on the Sabbath day.”
 > 15 The Lord replied, “Hypocrites! Don’t each of you on the Sabbath untie your ox or donkey from its stall and lead it out to get a drink? 16 Then isn’t it necessary that this woman, a daughter of Abraham, bound by Satan for eighteen long years, be set free from her bondage on the Sabbath day?” 17 When he said these things, all his opponents were put to shame, but all those in the crowd rejoiced at all the extraordinary things he was doing.
+
+Update: I've now realized that part of this overlaps with the Matthew text I put in week 2, so one of them would likely need to change.
 
 I noted that text when [Diana Butler Bass had a good post about it recently](https://dianabutlerbass.substack.com/p/sunday-musings-d8e) when it came up in the lectionary. There are probably a few other Jesus healing on the Sabbath stories that would work just as well.
 
