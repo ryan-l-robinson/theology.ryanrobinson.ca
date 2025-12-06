@@ -80,6 +80,7 @@
 	--blue: #1b2c58;
 	--red: #663333;
 	--black: #000000;
+	--near-black: #1e1e1e;
 	--grey: #d1d9e2;
 	--max-width: 1400px;
 	--main-gutter-x: 1em;
@@ -87,25 +88,29 @@
 	--syntax-tab-size: 2;
 }
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
 	:root {
-		--background-color: var(--white);
-		--text-color: var(--black);
-		--text-color-link: var(--blue);
-		--text-color-link-hover: var(--white);
-		--text-color-link-hover-background: var(--blue);
-		--text-color-link-active: var(--black);
+		--background-color: var(--near-black);
+		--border-color: var(--white);
+		--button-border: var(--white);
+		--color: var(--white);
+		--color-link: var(--white);
+		--color-link-active: var(--grey);
+		--hover-background: var(--white);
+		--hover-color: var(--blue);
 	}
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
 	:root {
-		--background-color: #1e1e1e;
-		--text-color: var(--white);
-		--text-color-link: var(--white);
-		--text-color-link-hover: var(--red);
-		--text-color-link-hover-background: var(--white);
-		--text-color-link-active: var(--white);
+		--background-color: var(--white);
+		--border-color: var(--blue);
+		--button-border: var(--black);
+		--color: var(--black);
+		--color-link: var(--blue);
+		--color-link-active: var(--grey);
+		--hover-background: var(--blue);
+		--hover-color: var(--white);
 	}
 }
 
@@ -124,22 +129,25 @@ body {
 	justify-content: center;
 	margin: 0;
 	background-color: var(--background-color);
-	color: var(--text-color);
+	color: var(--color);
 	font-family: "Atkinson Hyperlegible", sans-serif;
 	font-size: 16pt;
 }
 
-.container {
-	display: block;
-	width: calc(var(--max-width) - 2rem);
-	margin: 0 auto;
-	padding: 1em;
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	background-color: var(--grey);
 }
 
-@media (max-width: 1360px) {
-	.container {
-		width: 100%;
-	}
+.container {
+	display: block;
+	width: 100%;
+	margin: 0 auto;
+	padding: 1em;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
@@ -163,30 +171,31 @@ a {
 	text-underline-position: under;
 }
 
+a.with-icon::before {
+	display: inline-flex;
+	margin-right: 5px;
+	vertical-align: bottom;
+	font-family: "FontAwesome";
+}
+
+a.home-page::before {
+	content: "\e1b0";
+}
+
+a.tech-blog::before {
+	content: "\f5fc";
+}
+
+a.theology-blog::before {
+	content: "\f4ba";
+}
+
 li {
 	line-height: 1.5;
 }
 header {
 	width: 100%;
-	background-color: var(--blue);
-	color: var(--white);
-}
-
-.title-search {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	flex-wrap: wrap;
-	gap: 0 3em;
-	padding: 0 var(--main-gutter-x);
-	background-color: var(--red);
-}
-
-.header-nav {
-	display: flex;
-	justify-content: flex-end;
-	gap: 1em;
-	padding: 0 var(--main-gutter-x) 0.25em var(--main-gutter-x);
+	max-width: var(--max-width);
 	color: var(--white);
 }
 
@@ -197,6 +206,27 @@ header a {
 header a:is(:focus, :hover) {
 	background-color: var(--white);
 	color: var(--red);
+}
+
+.header-nav {
+	display: flex;
+	justify-content: flex-end;
+	gap: 1em;
+	padding: 0 var(--main-gutter-x) 0.25em var(--main-gutter-x);
+	background-color: var(--blue);
+	color: var(--white);
+}
+
+.title-search {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 0 3em;
+	border-top: 1px solid var(--white);
+	border-bottom: 1px solid var(--border-color);
+	padding: 0 var(--main-gutter-x);
+	background-color: var(--red);
 }
 /** Pagefind styles for search **/
 .pagefind-ui__search-input {
@@ -234,66 +264,31 @@ header a:is(:focus, :hover) {
 	color: var(--text-color-link);
 }
 /** Styles common to main, whether it has a sidebar or not **/
-.main-wrapper {
-	display: flex;
-	justify-content: center;
-	width: 100%;
-	background-color: var(--grey);
-}
-
 main {
-    width: 100%;
 	max-width: var(--max-width);
 	padding: var(--main-gutter-y) var(--main-gutter-x);
-    background-color: var(--background-color);
-}
-
-main :first-child {
-	margin-top: 0;
+	background-color: var(--background-color);
 }
 
 main a {
-    color: var(--text-color-link);
+	color: var(--color-link);
 }
 
-main a:is(:hover,:focus) {
-    background-color: var(--text-color-link-hover-background);
-    color: var(--text-color-link-hover);
+main a:is(:hover, :focus) {
+	background-color: var(--hover-background);
+	color: var(--hover-color);
 }
+
 main a[href]:active {
-	color: var(--text-color-link-active);
-}
-
-/* Direct Links / Markdown Headers */
-.header-anchor {
-	text-decoration: none;
-	font-style: normal;
-	font-size: 1em;
-	margin-left: .1em;
-}
-a[href].header-anchor,
-a[href].header-anchor:visited {
-	color: transparent;
-}
-a[href].header-anchor:focus,
-a[href].header-anchor:hover {
-	text-decoration: underline;
-}
-a[href].header-anchor:focus,
-:hover > a[href].header-anchor {
-	color: #aaa;
-}
-
-h2 + .header-anchor {
-	font-size: 1.5em;
+	color: var(--color-link-active);
 }
 
 /** Styles for main with a sidebar (most pages) **/
 main.main-sidebar {
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-between;
-    flex-wrap: wrap;
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: space-between;
+	flex-wrap: wrap;
 }
 
 /** Sidebar **/
@@ -309,20 +304,21 @@ main.main-sidebar {
 
 /** Main content **/
 .main-content {
-    width: 70%;
+	width: 70%;
 }
 
-@media(max-width: 60em) {
-    .sidebar,
-    .main-content {
-        width: 100%;
-    }
+@media (max-width: 60em) {
+	.sidebar,
+	.main-content {
+		width: 100%;
+	}
 }
 footer {
-	width: 100%;
+	max-width: var(--max-width);
+	border-top: 3px solid var(--border-color);
 	padding: 0 var(--main-gutter-x);
 	background-color: var(--red);
-	font-size: 0.7em;
+	font-size: 14px;
 }
 
 footer p {
@@ -358,14 +354,6 @@ footer p a:is(:hover, :focus) {
 	}
 }
 /** Aligns with the sociallinks.njk include file **/
-.site-footer-inner {
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	border-top: 3px solid var(--border-color);
-	padding: 16px 0;
-}
-
 .social-links {
 	display: grid;
 	grid-template-columns: repeat(5, auto);
@@ -373,7 +361,7 @@ footer p a:is(:hover, :focus) {
 	gap: 0.5em;
 	width: 100%;
 	margin: 0;
-	padding: 0;
+	padding: 16px 0;
 	list-style: none;
 }
 
