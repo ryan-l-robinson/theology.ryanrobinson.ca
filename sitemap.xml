@@ -253,33 +253,38 @@
 	</url>
 	
 	<url>
+		<loc>https://theology.ryanrobinson.ca/posts/2025/manger-misunderstanding/</loc>
+		<lastmod>2025-11-30</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://theology.ryanrobinson.ca/about/</loc>
-		<lastmod>2025-12-06</lastmod>
+		<lastmod>2025-12-07</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/</loc>
-		<lastmod>2025-12-06</lastmod>
+		<lastmod>2025-12-07</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/podcasts/</loc>
-		<lastmod>2025-12-06</lastmod>
+		<lastmod>2025-12-07</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/posts/page-1/</loc>
-		<lastmod>2025-12-06</lastmod>
+		<lastmod>2025-12-07</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/tags/</loc>
-		<lastmod>2025-12-06</lastmod>
+		<lastmod>2025-12-07</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://theology.ryanrobinson.ca/feed/feed.xml</loc>
-		<lastmod>2025-12-06</lastmod>
+		<lastmod>2025-12-07</lastmod>
 	</url>
 </urlset>
 				</div>
@@ -313,6 +318,9 @@
 <aside class="sidebar-block" aria-label="Tags for posts">
 	<h2>Posts by Tag</h2>
 	<ul class="tags-list">
+	
+		
+		<li><a href="/tags/adult-education/" class="post-tag">Adult Education</a> (1)</li>
 	
 		
 		<li><a href="/tags/bible/" class="post-tag">Bible</a> (1)</li>
