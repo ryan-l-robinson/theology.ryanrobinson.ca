@@ -29,7 +29,7 @@
 	--grey: #d1d9e2;
 	--max-width: 1400px;
 	--main-gutter-x: 1em;
-	--main-gutter-y: 2em;
+	--main-gutter-y: 0;
 	--syntax-tab-size: 2;
 }
 
@@ -172,6 +172,10 @@ header a:is(:focus, :hover) {
 	border-bottom: 1px solid var(--border-color);
 	padding: 0 var(--main-gutter-x);
 	background-color: var(--red);
+}
+
+.search {
+	padding-bottom: 0.5em;
 }
 /** Pagefind styles for search **/
 .pagefind-ui__search-input {
