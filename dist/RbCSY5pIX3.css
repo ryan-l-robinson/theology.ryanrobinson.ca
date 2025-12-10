@@ -1,16 +1,5 @@
-.postlist { counter-reset: start-from 13 }
+.postlist { counter-reset: start-from 3 }
 /** Styles only needed for the views summarizing multiple posts */
-
-.postlist {
-	list-style: none;
-	padding: 0;
-}
-.postlist-item {
-	display: block;
-	margin: 1em 0;
-	border-bottom: 1px dashed var(--red);
-	padding: 0 0 1em 0;
-}
 
 .postlist-item-title {
 	margin-bottom: 0;
@@ -80,7 +69,7 @@
 	--blue: #1b2c58;
 	--red: #663333;
 	--black: #000000;
-	--near-black: #1e1e1e;
+	--near-black: #2E2C2C;
 	--grey: #d1d9e2;
 	--max-width: 1400px;
 	--main-gutter-x: 1em;
@@ -193,6 +182,67 @@ a.theology-blog::before {
 li {
 	line-height: 1.5;
 }
+
+h1 {
+	margin: 0;
+	font-size: 2.5em;
+}
+
+h2, h3, h4, h5, h6 {
+	margin: 0.75em 0;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1.6em;
+}
+
+h4 {
+	font-size: 1.3em;
+}
+
+h5 {
+	font-size: 1.15em;
+}
+
+h6 {
+	font-size: 1.05em;
+}
+
+/** Border blocks, top (header) and bottom (footer) variations **/
+.border-bottom-section:not(:last-child) {
+  margin-bottom: 1rem;
+}
+
+.border-bottom-section:not(:last-child):after{
+  content: "";
+  display: block;
+  margin: 0 auto;
+  width: 70%;
+}
+
+.border-bottom-section:after {
+  border-bottom: 1px solid var(--border-color);
+}
+
+.border-top-section {
+  padding-top: 1rem;
+}
+
+.border-top-section:before {
+  content: "";
+  display: block;
+  margin: 0 auto;
+  width: 70%;
+  padding-top: 1rem;
+}
+
+.border-top-section:before {
+  border-top: 1px solid var(--border-color);
+}
 header {
 	width: 100%;
 	max-width: var(--max-width);
@@ -200,7 +250,10 @@ header {
 }
 
 header a {
+	display: flex;
+	align-items: center;
 	color: var(--white);
+	text-decoration: none;
 }
 
 header a:is(:focus, :hover) {
@@ -227,6 +280,10 @@ header a:is(:focus, :hover) {
 	border-bottom: 1px solid var(--border-color);
 	padding: 0 var(--main-gutter-x);
 	background-color: var(--red);
+}
+
+.site-title {
+	font-size: 1.5em;
 }
 
 .search {
@@ -310,9 +367,14 @@ main.main-sidebar {
 	margin-bottom: 1em;
 }
 
+.sidebar-block h2 {
+	margin: 0;
+}
+
 /** Main content **/
 .main-content {
 	width: 70%;
+	padding: 1em 0 0 0;
 }
 
 @media (max-width: 60em) {
