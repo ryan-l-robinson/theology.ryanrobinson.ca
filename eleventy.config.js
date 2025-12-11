@@ -3,12 +3,13 @@ import themePlugin from "./11ty-theme/config.js";
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default function (eleventyConfig) {
 	// 1. Add the Theme Plugin
+	// Values passed here impact the Atom feed.
 	eleventyConfig.addPlugin(themePlugin, {
 		feedMetadata: {
-			language: "en",
+			language: "en-ca",
 			title: "Ryan Robinson Theology",
 			subtitle:
-				"Ryan Robinson writes about theology: God, the church, the world, and whatever else he feels like that day.",
+				"A guy with a little theological training writing about God, the church, and the world.",
 			base: "https://theology.ryanrobinson.ca/",
 			author: {
 				name: "Ryan Robinson",
