@@ -1,4 +1,4 @@
-.postlist { counter-reset: start-from 3 }
+.postlist { counter-reset: start-from 4 }
 /** Styles only needed for the views summarizing multiple posts */
 
 /** Lists of posts **/
@@ -185,6 +185,18 @@ a.theology-blog::before {
 
 li {
 	line-height: 1.5;
+}
+
+blockquote:before {
+	content: "“";
+	left: -5rem;
+	top: -2rem;
+}
+
+blockquote:after {
+	content: "”";
+	right: -5rem;
+	bottom: 1rem;
 }
 /* Containers for layout */
 
