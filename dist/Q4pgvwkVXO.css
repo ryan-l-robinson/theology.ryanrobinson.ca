@@ -162,6 +162,10 @@ a.pager-next::after {
 	width: 1px;
 }
 
+ul {
+	padding-left: 1em;
+}
+
 li {
 	line-height: 1.5;
 }
