@@ -1,3 +1,28 @@
+/** Aligns with the tagslist.njk and tags.njk include **/
+@media (min-width: 1201px) {
+	.sidebar-block .tags-list {
+		columns: 1;
+	}
+}
+
+@media (min-width: 1201px) {
+	.tags-list {
+		columns: 3;
+	}
+}
+
+/** Needs to line up with the breakpoint in main.css for when the sidebar moves to the bottom **/
+@media (min-width: 801px) and (max-width: 1200px) {
+	.tags-list {
+		columns: 2;
+	}
+}
+
+@media (max-width: 800px) {
+	.tags-list {
+		columns: 1;
+	}
+}
 /* Variables and general site-wide styles */
 
 :root {
@@ -397,35 +422,6 @@ footer p a {
 footer p a:is(:hover, :focus) {
 	background-color: var(--white);
 	color: var(--blue);
-}
-/** Aligns with the tagslist.njk and tags.njk include **/
-@media (min-width: 1201px) {
-	.sidebar-block .tags-list {
-		columns: 1;
-	}
-}
-
-@media (min-width: 1201px) {
-	.tags-list {
-		columns: 3;
-	}
-}
-
-/** Needs to line up with the breakpoint in main.css for when the sidebar moves to the bottom **/
-@media (min-width: 901px) and (max-width: 1200px) {
-	.tags-list {
-		columns: 2;
-	}
-}
-
-@media (max-width: 900px) {
-	.tags-list {
-		columns: 1;
-	}
-}
-
-.main-content .tags-list li {
-	margin-left: 1em;
 }
 /** Aligns with the sociallinks.njk include file **/
 .social-links {
