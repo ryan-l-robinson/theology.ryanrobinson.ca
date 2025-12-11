@@ -9,4 +9,7 @@ eleventyComputed:
 ---
 {% set postslist = tagPage.posts %}
 {% set pagination = tagPage.pagination %}
+{% if tagDescriptions[tagPage.tagName | slugify] %}
+  <p class="tag-description">{{ tagDescriptions[tagPage.tagName | slugify] }}</p>
+{% endif %}
 {% include "postslist.njk" %}
