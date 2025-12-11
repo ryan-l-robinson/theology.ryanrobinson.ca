@@ -4,8 +4,10 @@ date: 2023-10-01T10:30:00.000Z
 author: Ryan Robinson
 description: "A sermon about communion."
 tags:
-    - Sermon
+  - Sermon
+  - Church
 ---
+
 ## Scripture Text
 
 [Luke 14:7-24](https://bibles.org/bible/1fd99b0d5841e19b-02/LUK.14?passageId=LUK.14.7-LUK.14.16&q=Luke%2014%3A7-24)\
@@ -35,7 +37,7 @@ I think this idea that Ed gave, of an invitation into something good, rather tha
 
 ### Jesus’ Embodied Table
 
-In the book *Searching for Sunday* that a group of us are reading together, author Rachel Held Evans points out that there are lot of varieties in how we do communion across traditions. But one thing that is pretty consistent is the use of the word “remember.” We have it engraved on the front of our table. At the simplest level, the invitation of this ritual is to remember. One of the other names for this ritual is Eucharist, which means the Thanksgiving. It’s a remembering, something that we are thankful for.
+In the book _Searching for Sunday_ that a group of us are reading together, author Rachel Held Evans points out that there are lot of varieties in how we do communion across traditions. But one thing that is pretty consistent is the use of the word “remember.” We have it engraved on the front of our table. At the simplest level, the invitation of this ritual is to remember. One of the other names for this ritual is Eucharist, which means the Thanksgiving. It’s a remembering, something that we are thankful for.
 
 I took a course on human memory in university. I don’t remember most of it.
 
@@ -43,7 +45,7 @@ But I do remember some of how to reinforce memories. Repetition is a huge part o
 
 Another big factor in strengthening memory is embodiment. The more cues we are giving our brain, from multiple senses, the more possibilities for our memory pathways to activate.
 
-In *Searching for Sunday*, Rachel quotes from Barbara Brown Taylor:
+In _Searching for Sunday_, Rachel quotes from Barbara Brown Taylor:
 
 > With all the conceptual truths in the universe at his disposal, Jesus did not give them something to think about together when he was gone. Instead, he gave them concrete things to do – specific ways of being together in their bodies – that would go on teaching them what they needed to know when he was no longer around to teach them himself… ‘Do this,’ he said – not believe this but do this – ‘in remembrance of me.’
 
@@ -67,7 +69,7 @@ In the context of communion and church in general, there might be a few reasons 
 
 Right before the parable in this reading, Jesus says to start with inviting the poor and otherwise marginalized. To use a phrase from liberation theology, God has a preferential option for the poor. That’s where God starts. The rituals, the systems, the structures, need to be centred around the most marginalized.
 
-Starting with the marginalized ensures that everybody who wants to be a part of it gets to eat. This comes toward the so-called paradox of tolerance, the idea that you must be intolerant of the intolerant or else it isn’t safe for those being hurt by the intolerant. It’s my least favourite so-called paradox, because I don’t think of it quite that way. That relies on still using the fence or qualification language. I want to stick with the invitation language. It isn’t simply an invitation to eat and drink, period. It is an invitation into the Way of Jesus.  The table of Jesus is a place of safety and openness for all. If you are entering that table in a way that violates that, you’re not really joining Jesus’ table – you’re trying to replace it with a different table more to your liking.
+Starting with the marginalized ensures that everybody who wants to be a part of it gets to eat. This comes toward the so-called paradox of tolerance, the idea that you must be intolerant of the intolerant or else it isn’t safe for those being hurt by the intolerant. It’s my least favourite so-called paradox, because I don’t think of it quite that way. That relies on still using the fence or qualification language. I want to stick with the invitation language. It isn’t simply an invitation to eat and drink, period. It is an invitation into the Way of Jesus. The table of Jesus is a place of safety and openness for all. If you are entering that table in a way that violates that, you’re not really joining Jesus’ table – you’re trying to replace it with a different table more to your liking.
 
 I initially had a longer section here about a text in Corinthians that you might be familiar with, but I had to cut that for time. If you’re interested, ask about it in the Adult Ed. But the bottom line is that sometimes to maintain a table that remembers the invitation of Jesus for everybody, we have to point out where we are setting up boundaries. Maybe without even realizing it because they’re so built into our culture’s way of doing things. Maybe for a reason that made sense in the past but has become counter-productive now.
 

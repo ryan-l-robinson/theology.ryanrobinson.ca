@@ -4,10 +4,12 @@ date: "2015-11-19T21:46:00.000Z"
 author: Ryan Robinson
 description: "Game of Thrones season 5 had some good things to say about the status quo, breaking down walls, and the dangers of merging church and state."
 tags:
-    - Movies and TV
+  - Movies and TV
+  - Church
+  - Politics
 ---
 
-I recently caught up on this past season (5) of *Game of Thrones*. There were a few big themes I did enjoy that made this the most interesting season to me so far. Spoilers will follow.
+I recently caught up on this past season (5) of _Game of Thrones_. There were a few big themes I did enjoy that made this the most interesting season to me so far. Spoilers will follow.
 
 ## Protect the Status Quo?
 

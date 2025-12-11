@@ -5,6 +5,7 @@ author: Ryan Robinson
 description: "From an Adult Education hour, some notes on the kingship language of the Luke birth narratives."
 tags:
   - Adult Education
+  - Bible
 ---
 
 For the first week of Advent, I led our church's Adult Education hour with a look at the birth narratives in Luke. Below is an adapted version of my notes.

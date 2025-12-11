@@ -5,10 +5,11 @@ author: Ryan Robinson
 series: Searching for Sunday
 description: "Search for Sunday has many profound insights, even if its format is a bit of a stretch."
 tags:
-  - "Books"
+  - Books
+  - Church
 ---
 
-![Searching for Sunday](./Searching-Sunday-Cover.jpg)_Searching for Sunday_ is Rachel Held Evans' best book yet. The main reason for that is because it is full of hope. _A Year of Biblical Womanhood_ was a fantastic analysis of various biblical texts along with a fun engagement of how many different ways genuine Christians (and Jews) interpret those texts. _Faith Unraveled_ (previously _Evolving in Monkey Town_) was very easy for so many to relate to, discussing her departure from conservative Evangelicalism into a world with a lot more questions. Those are definitely valuable, but they are by far the most valuable when those steps in the journey bring you to something more like _Searching for Sunday_. It's a mature faith that has wrestled through many questions and reached answers with a sense of humility intact.
+![Searching for Sunday](./Searching-Sunday-Cover.jpg)*Searching for Sunday* is Rachel Held Evans' best book yet. The main reason for that is because it is full of hope. *A Year of Biblical Womanhood* was a fantastic analysis of various biblical texts along with a fun engagement of how many different ways genuine Christians (and Jews) interpret those texts. *Faith Unraveled* (previously _Evolving in Monkey Town_) was very easy for so many to relate to, discussing her departure from conservative Evangelicalism into a world with a lot more questions. Those are definitely valuable, but they are by far the most valuable when those steps in the journey bring you to something more like *Searching for Sunday*. It's a mature faith that has wrestled through many questions and reached answers with a sense of humility intact.
 
 Since I've already spent time responding to each section, I'll just give some short notes of other positives and negatives about the book to wrap this up.
 

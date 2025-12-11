@@ -4,7 +4,8 @@ date: 2020-12-13T10:30:00.000Z
 author: Ryan Robinson
 description: "Advent, Mary, and eschatological liberatory hope."
 tags:
-    - Sermon
+  - Sermon
+  - Politics
 ---
 
 ## Scripture
@@ -67,7 +68,7 @@ This hope is also fundamentally physical. The prophetic visions of future hope a
 N.T. Wright put it this way in his book Surprised by Hope:
 
 > The word eschatology, which literally means "the study of the last things,” doesn't just refer to death, judgment, heaven, and hell, as used to be thought (and as many dictionaries still define the word). It also refers to the strongly held belief of most first-century Jews, and virtually all early Christians, that history was going somewhere under the guidance of God and that where it was going was toward God's new world of justice, healing, and hope. The transition from the present world to the new one would be a matter not of the destruction of the present space-time universe but of its radical healing… We mean, rather, the entire sense of God's future for the world and the belief that that future has already begun to come forward to meet us in the present.
-> *Surprised by Hope* chapter 7
+> _Surprised by Hope_ chapter 7
 
 ### Grounded in Hope
 
@@ -96,7 +97,7 @@ We need to be able to hope for a good future. We need to be able to think on wha
 N.T. Wright again in Surprised by Hope said this:
 
 > Hope is what you get when you suddenly realize that a different worldview is possible, a worldview in which the rich, the powerful, and the unscrupulous do not after all have the last word. The same worldview shift that is demanded by the resurrection of Jesus is the shift that will enable us to transform the world.
-> from *Surprised by Hope*, chapter 4
+> from _Surprised by Hope_, chapter 4
 
 Advent is a season of waiting, but it isn't just waiting for the sake of waiting. It is a waiting hopefully for the Kingdom of God. As we say when we light the candle every week, we wait in darkness, o lord, for the coming of your light. My hope for this Advent is that we are able to spend some time dreaming about the Kingdom of God, to have our worldview shift, to be a bit more like Mary.
 

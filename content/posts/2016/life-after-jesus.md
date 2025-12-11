@@ -4,11 +4,12 @@ date: 2016-05-08T10:30:00.000Z
 description: "A sermon about witnessing for Jesus after the ascencion."
 categories:
   - Sermon
+  - Church
 ---
 
 ## Intro - Farewell Frodo
 
-There's a major difference in the endings between *The Lord of the Rings* books and the movies. After the hobbits Frodo, Sam, Merry, and Pippin have saved the day, they return home to the Shire. The Shire was an idyllic natural paradise, with minimal industrial interference. It's also succeeded in being safely tucked away, free from the great violent struggles that have consumed so much of this fantasy world called Middle Earth.
+There's a major difference in the endings between _The Lord of the Rings_ books and the movies. After the hobbits Frodo, Sam, Merry, and Pippin have saved the day, they return home to the Shire. The Shire was an idyllic natural paradise, with minimal industrial interference. It's also succeeded in being safely tucked away, free from the great violent struggles that have consumed so much of this fantasy world called Middle Earth.
 
 In the movie, the hobbits return to the Shire exactly as they remembered it. They are seen relaxing in a pub and Sam even gets married. Not only is the Shire a virtual paradise, but all of the other nations of Middle Earth live in peace with each other, too. It's a classic Hollywood ending, suggesting that everybody will now be living happily ever after, with evil completely defeated.
 
@@ -68,7 +69,7 @@ The key word in this commission is "witness." It is a fairly straightforward wor
 
 Being a witness should not be a particularly controversial phrase. This past week I have experienced multiple NBA basketball playoff games and I've experienced a presentation on the future of Microsoft SharePoint. While the basketball games are usually more exciting, what I learned in the SharePoint presentation probably has more practical benefit to how I live my life. I will likely be witnesses to both in the coming weeks, the NBA games being more in talking about how great it was the Raptors won last night, and SharePoint more in implementing new features in my work.
 
-When it comes to Jesus, you'll probably have some times when witnessing is exciting. But the feeling of excitement is not a primary descriptor of following Jesus. Encountering Jesus does always have practical implications, though. Shane Claiborne put it this way in his book *The Irresistible Revolution*:
+When it comes to Jesus, you'll probably have some times when witnessing is exciting. But the feeling of excitement is not a primary descriptor of following Jesus. Encountering Jesus does always have practical implications, though. Shane Claiborne put it this way in his book _The Irresistible Revolution_:
 
 > Then I met Jesus and he wrecked my life. The more I read the gospel, the more it messed me up, turning everything I believed in, valued, and hoped for upside down. I am still recovering from my conversion.
 

@@ -4,8 +4,10 @@ date: 2025-03-16T10:00:00.000Z
 author: Ryan Robinson
 description: "A sermon about hope for the fight based on the God's Armour passage of Ephesians."
 tags:
-    - Sermon
+  - Sermon
+  - Bible
 ---
+
 ## Scripture Text
 
 [Ephesians 6:10-24 (CEB)](https://www.biblegateway.com/passage/?search=ephesians%206%3A10-24&version=CEB)
@@ -22,7 +24,7 @@ We've reached the end of this series on Ephesians. We've covered some big topics
 
 That does put us in positions of relative privilege, as the ones who benefit in the short-term from unjust systems. A very privileged interpretation of this text might be one that is about dominating through force or coercion, that this is about how we need to fight to establish ourselves and protect our people against those other people. It's about being tough.
 
-Or at the very least, maybe it's "spiritual warfare" which for me mostly makes me think of an episode in *Xena Warrior Princess*. Xena and Gabrielle are recruited into a battle between angels and demons and there's lots of flying around and sword fighting and it was really cool to teenage Ryan.
+Or at the very least, maybe it's "spiritual warfare" which for me mostly makes me think of an episode in _Xena Warrior Princess_. Xena and Gabrielle are recruited into a battle between angels and demons and there's lots of flying around and sword fighting and it was really cool to teenage Ryan.
 
 There is still a strong contingent of the Christian tradition that would say things like that, even though it is hard to reconcile with Jesus. It is also hard to reconcile with this text, which quickly establishes that our battle is not against human enemies. That idea falls apart even faster within the context of the rest of the letter spending so much time talking about things like reconciliation between groups that don't get along. It's clearly not about one group needing to dominate the other. Let's quickly discard that framework, because it doesn't really deserve any more attention than that. [See a couple of sermons in the Fall](https://theology.ryanrobinson.ca/posts/2024/cult-innocence/) if you do want to engage more with that topic.
 
@@ -44,9 +46,9 @@ So that's one half of what we saw in the CEB translation, the demon half. And th
 
 Most modern interpreters don't like reducing it to only be about that, though, for a few reasons:
 
-1.	There's the modernist bias, that we often start with a presupposition that there is no evidence to believe that such demons exist. If the text is only about those, and we dismiss those, it doesn't leave us with anything else that it says.
-2.	There's the practical pastoral concern that it can create a scenario of being so focused on these spiritual forces battling out there, it's easy to ignore what's happening right in front of you.
-3.	The one that is most compelling to me: there are plenty of other biblical texts and extra-biblical texts from the same time and even a couple centuries earlier that suggest these two ideas can go together, not be contradictory. These often align the imagery of these spiritual forces with systemic injustices or more broadly the battle between good ways of being in relationship and bad ways of being in relationship. Even within this text, it goes on to explain that the weapons and armour for defeating these evil forces are things like truth, peace, salvation, justice, and the word of God. If it were strictly talking about evil demons, you might expect more "magical" tools like prayer, fasting, maybe some charismatic gifts which Paul isn't afraid to talk about elsewhere. Also, this text references back to Isaiah which was within a context of being conquered by a literal foreign empire and seeking liberation from that.
+1. There's the modernist bias, that we often start with a presupposition that there is no evidence to believe that such demons exist. If the text is only about those, and we dismiss those, it doesn't leave us with anything else that it says.
+2. There's the practical pastoral concern that it can create a scenario of being so focused on these spiritual forces battling out there, it's easy to ignore what's happening right in front of you.
+3. The one that is most compelling to me: there are plenty of other biblical texts and extra-biblical texts from the same time and even a couple centuries earlier that suggest these two ideas can go together, not be contradictory. These often align the imagery of these spiritual forces with systemic injustices or more broadly the battle between good ways of being in relationship and bad ways of being in relationship. Even within this text, it goes on to explain that the weapons and armour for defeating these evil forces are things like truth, peace, salvation, justice, and the word of God. If it were strictly talking about evil demons, you might expect more "magical" tools like prayer, fasting, maybe some charismatic gifts which Paul isn't afraid to talk about elsewhere. Also, this text references back to Isaiah which was within a context of being conquered by a literal foreign empire and seeking liberation from that.
 
 So, there is good reason to believe that it is at least talking about this more abstracted battle between good and bad ways of being, the way of God and the way of the oppressive Empire. Perhaps that's in addition to literal spiritual forces, but I have a hard time believing that it only meant literal spiritual forces.
 
@@ -87,19 +89,19 @@ The main takeaway is that the church is called to a way of being that follows Go
 
 ### Books
 
-Florer-Bixler, M. (2021). *How to have an enemy : righteous anger and the work of peace*. Herald Press.
+Florer-Bixler, M. (2021). _How to have an enemy : righteous anger and the work of peace_. Herald Press.
 
 I have referenced this book multiple times before. It is very good at acknowledging that we do have enemies in the sense that we do have those who are actively opposing what we would consider to be the just way of being in the world, and then looking at how we deal with them in a Jesus-like way. Like I tried to do, it doesn't accept either extreme framing that there is no battle or that our battle is about dominating others.
 
-Du Mez, K. K. (2021). *Jesus and John Wayne : how white evangelicals corrupted a faith and fractured a nation*. Liveright Publishing Corporation, a division of W.W. Norton & Company.
+Du Mez, K. K. (2021). _Jesus and John Wayne : how white evangelicals corrupted a faith and fractured a nation_. Liveright Publishing Corporation, a division of W.W. Norton & Company.
 
 This is a historical book that traces the development of the macho violent Christian masculinity imagery over the past century, more relevant to some discussion of the call to fight version of Christianity that I largely cut out from the sermon.
 
-Arnold, C. E. (1989). *Ephesians, power and magic : the concept of power in Ephesians in light of its historical setting*. Cambridge University Press.
+Arnold, C. E. (1989). _Ephesians, power and magic : the concept of power in Ephesians in light of its historical setting_. Cambridge University Press.
 
 This was the most academic commentary that I went through. It is largely focused on what the "powers and principalities" were in the Ephesians context – how they likely understood these spiritual forces as well as gods like Ephesian Artemis – and what "Paul" was saying about Jesus' victory over them.
 
-Neufeld, T. Y. (2002). *Ephesians*. Herald Press.
+Neufeld, T. Y. (2002). _Ephesians_. Herald Press.
 
 Tom Yoder Neufeld's commentary also covers the whole letter, but from an explicitly Anabaptist perspective. There were a couple of key points that came up in his discussion of the "God's Armour" section which I used in the sermon.
 

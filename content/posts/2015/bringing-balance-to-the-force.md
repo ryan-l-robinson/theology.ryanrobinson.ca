@@ -4,7 +4,8 @@ date: "2015-12-23T21:46:00.000Z"
 author: Ryan Robinson
 description: "The Jedi foolishly assumed a prophecy was all good news for them. We also mistakenly assume things are always about us."
 tags:
-    - Movies and TV
+  - Movies and TV
+  - Bible
 ---
 
 A Facebook conversation with a fellow Star Wars nerd reminded me of one of my annoyances in the prequels. If you've seen the movies, you probably remember the prophecy that somebody - who turned out to be Anakin - would bring balance to the Force. That's it that we ever hear about the prophecy itself. One thing I never got is why the Jedi would assume that "bringing balance to the Force" meant anything good for them. They, practitioners of the light side of the Force, have been in power for millenia. Wouldn't it be logical that balance would mean the light finally losing its power to the dark? I've never been able to think about what else it could possibly mean. We left the conversation by essentially saying that the Jedi probably didn't have any idea what the prophecy meant, and yet they assumed repeatedly that it would be great for them.

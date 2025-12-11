@@ -3,8 +3,10 @@ title: Church and Theological Background
 date: 2025-01-25T10:30:00.000Z
 author: Ryan Robinson
 description: My theological and church background includes United, Anabaptist, liberationist, and liturgical.
-tags: []
+tags:
+  - Church
 ---
+
 I've been invited to join a group spanning a few churches (a Unitarian, a United, and my Mennonite) to share reactions to the lectionary text for the week. We were asked to give a bit of an introduction of our backgrounds first, which is also appropriate to share here as I slowly rebuild some online theological presence.
 
 ## Introduction

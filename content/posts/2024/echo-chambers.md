@@ -4,8 +4,8 @@ date: 2024-11-24T21:46:00.000Z
 author: Ryan Robinson
 description: "There's been a lot of talk about echo chambers recently. I have perhaps a more charitable interpretation."
 tags:
-    - Technology
-    - Politics
+  - Technology
+  - Politics
 ---
 
 A common sentiment is that in the modern world, people are too stuck in their echo chambers. This is mostly used as an insult against the extremely online left wing, most recently a lot about [Bluesky](https://bsky.app/). Interestingly, the extremely online right wing doesn't get the same accusation as much, even though they're steeped in much more extreme networks. But that's an immediate tangent.

@@ -5,7 +5,7 @@ author: Ryan Robinson
 series: Nationalism and Christian Identity
 description: "A recent sermon about Christian nationalism, identity, and being a public voice for a better way."
 tags:
-    - Sermon
+  - Sermon
 ---
 
 This was the first of what turned into a two-part sermon recently.
@@ -54,7 +54,7 @@ We’re talking about two groups. There are people in the Jesus institution – 
 
 In the modern world, that latter group is often those who decided they couldn’t put up with all the problems of the church but are still compelled by Jesus in some way. This is a substantial group, mainly because the church has messed up a lot. There’s a lot of reasons why people might have problems with Christianity. Even within the themes of hierarchy and power, there is a lot to work with, past and present. Crusades and witch hunts and inquisitions and colonialism and residential school and many aspects of the current wave of Christian nationalism, and on and on.
 
-This quest for power, in both the disciples and the modern church, is usually backed up by what Brian McLaren calls a cult of innocence, in his book *Do I Stay Christian*. To justify that your group should rule over others, you need to believe that your group is the correct pure group, and those others are evil that must be punished, or at least inferior that must be controlled.
+This quest for power, in both the disciples and the modern church, is usually backed up by what Brian McLaren calls a cult of innocence, in his book _Do I Stay Christian_. To justify that your group should rule over others, you need to believe that your group is the correct pure group, and those others are evil that must be punished, or at least inferior that must be controlled.
 And it is really easy for me to hear that and think “yeah, I’m so glad I don’t have that attitude like some other people. I’m so glad that I am one of the good guys. I’m never judgemental like those bad guys! We have to find a way to stop them!” And then I realize that I just did my own cult of innocence thinking. It’s a human temptation, not unique to some other group of people we don’t like. It’s one that we aren’t immune to, and the more we think we’re immune to it the more likely we are to fall into it.
 
 ### Cutting It Off
@@ -105,11 +105,11 @@ But those transitional times also give an opportunity, a chance to zoom out a bi
 
 ### Books
 
-*Do I Stay Christian: A Guide for the Doubters, the Disappointed, and the Disillusioned* by Brian McLaren. This is a very pastoral book taking an honest look at the concept of a Christian identity. It acknowledges a lot of very serious harms both past and present that would justifiably cause us to abandon the label. It also includes practical reasons why you may choose to keep the label despite those things, and then offers some suggestions on how to proceed either way. The main idea borrowed for this sermon was the cult of innocence. It will be used more in part two.
+_Do I Stay Christian: A Guide for the Doubters, the Disappointed, and the Disillusioned_ by Brian McLaren. This is a very pastoral book taking an honest look at the concept of a Christian identity. It acknowledges a lot of very serious harms both past and present that would justifiably cause us to abandon the label. It also includes practical reasons why you may choose to keep the label despite those things, and then offers some suggestions on how to proceed either way. The main idea borrowed for this sermon was the cult of innocence. It will be used more in part two.
 
-*How To Have an Enemy: Righteous Anger and the Work of Peace* by Melissa Florer-Bixler, a Mennonite USA pastor. This is a great examination of how Jesus responded to very real enemies and taught us to do the same.
+_How To Have an Enemy: Righteous Anger and the Work of Peace_ by Melissa Florer-Bixler, a Mennonite USA pastor. This is a great examination of how Jesus responded to very real enemies and taught us to do the same.
 
-*God and Empire* by John Dominic Crossan. This is a good overview of the Bible’s conflict between an imperial worldview and a bottom-up peace worldview. At risk of disagreeing with one of the greatest living New Testament scholars, I do think he puts Revelation in the wrong category, though, missing out on what many other scholars will point out are the nonviolent themes.
+_God and Empire_ by John Dominic Crossan. This is a good overview of the Bible’s conflict between an imperial worldview and a bottom-up peace worldview. At risk of disagreeing with one of the greatest living New Testament scholars, I do think he puts Revelation in the wrong category, though, missing out on what many other scholars will point out are the nonviolent themes.
 
 ### YouTube and Podcasts
 

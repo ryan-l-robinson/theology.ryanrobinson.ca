@@ -4,8 +4,8 @@ date: 2017-02-20T21:46:00.000Z
 author: Ryan Robinson
 description: "What does the Good Place have to say about concepts of sin?"
 tags:
-    - Movies and TV
-    - MennoNerds
+  - Movies and TV
+  - MennoNerds
 ---
 
 The following was written for a MennoNerds vlog.
@@ -26,7 +26,7 @@ We have this incredibly violent backdrop. Lent is a time when we are particularl
 
 With resurrection coming, though, we know that this cross is also an incredible symbol of hope. And that hope, standing tall in the middle of a storm, is fascinating and vital.
 
-Last time I vlogged was about movies and TV. I did not mention the newest Star Wars movie, _Rogue One_. One line of the movie really stands out, though:
+Last time I vlogged was about movies and TV. I did not mention the newest Star Wars movie, *Rogue One*. One line of the movie really stands out, though:
 
 > Rebellions are built on hope.
 

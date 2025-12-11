@@ -4,8 +4,8 @@ date: 2025-01-02T21:46:00.000Z
 author: Ryan Robinson
 description: "Musings on the phrase empathetic imagination and how it applies to movies, politics, and web development."
 tags:
-    - Technology
-    - Politics
+  - Technology
+  - Politics
 ---
 
 I heard a phrase recently that has stuck with me: "empathetic imagination."
@@ -22,7 +22,7 @@ It's also, to jump to a different medium, whey I always play videogames with fem
 
 The context for the empathetic imagination comment was after the US election, and one of the hosts was lamenting the lack of empathetic imagination that made the result possible. He found it extremely discouraging that so few people could imagine how their voting choices would hurt the most vulnerable around them. I think that's an important insight.
 
-Carol Off, in her book *At A Loss For Words*, tells a story about speaking to a member of one of Canada's "freedom convoys." Off asked what "freedom" meant to this convoy member, who replied something about individual choices to do whatever she wanted. Off asked her about a common phrase, that "my freedom ends where your freedom begins" and the convoy member had no idea what to do with that. She couldn't understand the concept. Off goes on throughout the book about this fundamental clash through history and the present between those who see the goal as their freedom to hurt and rule over whoever they want, and those who see the goal as an equitable freedom inclusive of everyone.
+Carol Off, in her book _At A Loss For Words_, tells a story about speaking to a member of one of Canada's "freedom convoys." Off asked what "freedom" meant to this convoy member, who replied something about individual choices to do whatever she wanted. Off asked her about a common phrase, that "my freedom ends where your freedom begins" and the convoy member had no idea what to do with that. She couldn't understand the concept. Off goes on throughout the book about this fundamental clash through history and the present between those who see the goal as their freedom to hurt and rule over whoever they want, and those who see the goal as an equitable freedom inclusive of everyone.
 
 That's a lack of empathetic imagination, a total inability to comprehend that other humans exist and your actions will impact them.
 

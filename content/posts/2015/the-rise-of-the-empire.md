@@ -4,9 +4,11 @@ date: "2015-12-18T21:46:00.000Z"
 author: Ryan Robinson
 description: "The Star Wars prequels had some good things to say about how authoritarians gain control."
 tags:
-    - Movies and TV
+  - Movies and TV
+  - Politics
 ---
-I haven't seen *The Force Awakens* yet. I'll get there soon. In the meantime, I decided to rewatch the first six. I will defend III as a respectable movie other than some terrible writing for Anakin and Padme. I won't defend I and II at all except for one area of the plot that does always interest me: the rise of the Empire.
+
+I haven't seen _The Force Awakens_ yet. I'll get there soon. In the meantime, I decided to rewatch the first six. I will defend III as a respectable movie other than some terrible writing for Anakin and Padme. I won't defend I and II at all except for one area of the plot that does always interest me: the rise of the Empire.
 
 Prior to the events that open the first movie, the Galactic Republic had been in relative peace for a long time. Of course there's still violence on the individual level up to the planetary level, but there's no large-scale warfare like that which characterizes the six movies.
 

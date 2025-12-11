@@ -4,7 +4,7 @@ date: 2024-11-24T21:46:00.000Z
 author: Ryan Robinson
 description: "A little before the US election, Anabaptist Mennonite Biblical Seminary held a great discussion of Christian nationalism."
 tags:
-    - Politics
+  - Politics
 ---
 
 See below for a great presentation at Anabaptist Mennonite Biblical Seminary about Christian Nationalism. This was before the US election, but it's no less relevant now.

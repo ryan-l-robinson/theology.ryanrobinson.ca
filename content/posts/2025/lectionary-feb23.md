@@ -6,6 +6,7 @@ description: This week explores power reversals, with or without retribution.
 tags:
   - "Lectionary Notes"
 ---
+
 I've joined a group spanning a few churches to share reactions to the lectionary text for the week. Here are my notes going into February 23, 2025, the seventh Sunday after Epiphany.
 
 ## The Texts

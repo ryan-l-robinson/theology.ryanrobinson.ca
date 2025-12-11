@@ -3,9 +3,11 @@ title: "Recycling Christianity"
 date: 2024-10-06T21:46:00.000Z
 author: Ryan Robinson
 series: Nationalism and Christian Identity
-description: "A recent sermon about Christian nationalism, identity, and being a public voice for a better way."
+description: "A sermon about Christian nationalism, identity, and being a public voice for a better way."
 tags:
-    - Sermon
+  - Sermon
+  - Church
+  - Politics
 ---
 
 This was the second of a two-part sermon series, following up from [The Cult of Innocence](/posts/2024/cult-innocence/).
@@ -40,7 +42,7 @@ The James text gave some tips on avoiding that trap as a community: confession, 
 
 It’s on that question of definition that I am going to pick up. We are a Christian church. We just read from the Christian Scriptures, about the teachings of the one we call the Christ. Not everybody here would individually call themselves a Christian. No judgement from me. There’s a lot of good reasons why that might be. But “here” is a church in the Christian tradition, so I am speaking communally and assuming that at the very least, you aren’t that uncomfortable by others using the label.
 
-What does that mean, to define ourselves as Christian? In *Do I Stay Christian*’s introduction, Brian McLaren names several different categories under which “Christian” can be defined. He includes historically or culturally, institutionally, doctrinally, liturgically or programmatically, spiritually or experientially, moralistically, missionally, demographically, politically, socially, and linguistically. That’s a lot of options. There’s a lot of room in there to able to fit in one definitional category while being completely opposite in another category.
+What does that mean, to define ourselves as Christian? In _Do I Stay Christian_’s introduction, Brian McLaren names several different categories under which “Christian” can be defined. He includes historically or culturally, institutionally, doctrinally, liturgically or programmatically, spiritually or experientially, moralistically, missionally, demographically, politically, socially, and linguistically. That’s a lot of options. There’s a lot of room in there to able to fit in one definitional category while being completely opposite in another category.
 
 Here’s where the conflict really comes in for me: it’s undeniable that when many people in our culture hear the word “Christian,” they picture a violent white patriarchal nationalist.
 
@@ -131,17 +133,17 @@ I have no interest in the violent white patriarchal nationalist Christianity tha
 
 ### Books
 
-*Do I Stay Christian: A Guide for the Doubters, the Disappointed, and the Disillusioned* by Brian McLaren. This is a very pastoral book taking an honest look at the concept of a Christian identity. It acknowledges a lot of very serious harms both past and present that would justifiably cause us to abandon the label. It also includes practical reasons why you may choose to keep the label despite those things, and then offers some suggestions on how to proceed either way. In part one, I borrowed the concept of the cult of innocence. In this part I borrowed some more ideas: the colonial options and recycling Christian language.
+_Do I Stay Christian: A Guide for the Doubters, the Disappointed, and the Disillusioned_ by Brian McLaren. This is a very pastoral book taking an honest look at the concept of a Christian identity. It acknowledges a lot of very serious harms both past and present that would justifiably cause us to abandon the label. It also includes practical reasons why you may choose to keep the label despite those things, and then offers some suggestions on how to proceed either way. In part one, I borrowed the concept of the cult of innocence. In this part I borrowed some more ideas: the colonial options and recycling Christian language.
 
-*How To Have an Enemy: Righteous Anger and the Work of Peace* by Melissa Florer-Bixler, a Mennonite USA pastor. This is a great examination of how Jesus responded to very real enemies and taught us to do the same.
+_How To Have an Enemy: Righteous Anger and the Work of Peace_ by Melissa Florer-Bixler, a Mennonite USA pastor. This is a great examination of how Jesus responded to very real enemies and taught us to do the same.
 
-*God and Empire* by John Dominic Crossan. This is a good overview of the Bible’s conflict between an imperial worldview and a bottom-up peace worldview. At risk of disagreeing with one of the greatest living New Testament scholars, I do think he puts Revelation in the wrong category, though, missing out on what other scholars will point out are the nonviolent themes.
+_God and Empire_ by John Dominic Crossan. This is a good overview of the Bible’s conflict between an imperial worldview and a bottom-up peace worldview. At risk of disagreeing with one of the greatest living New Testament scholars, I do think he puts Revelation in the wrong category, though, missing out on what other scholars will point out are the nonviolent themes.
 
-*Jesus and John Wayne: How White Evangelicals Corrupted a Faith and Fractured a Nation* by Kristen K Du Mez. This covers decades of the history of white evangelicalism in the United States and how it got to be where it is today, especially in terms of the priority on a macho violent masculinity.
+_Jesus and John Wayne: How White Evangelicals Corrupted a Faith and Fractured a Nation_ by Kristen K Du Mez. This covers decades of the history of white evangelicalism in the United States and how it got to be where it is today, especially in terms of the priority on a macho violent masculinity.
 
-*The Kingdom, the Power, and the Glory: American Evangelicals in an Age of Extremism*. This is written by a journalist who is himself a white evangelical, son of a white evangelical pastor, about the descent of US white evangelicalism particularly since 2016. He is focused less on the major influencers and more on the impact on church congregations, where it is now not unusual for people to simultaneously declare they are the only real Christians and anything Jesus said must be dismissed because it is “woke.”
+_The Kingdom, the Power, and the Glory: American Evangelicals in an Age of Extremism_. This is written by a journalist who is himself a white evangelical, son of a white evangelical pastor, about the descent of US white evangelicalism particularly since 2016. He is focused less on the major influencers and more on the impact on church congregations, where it is now not unusual for people to simultaneously declare they are the only real Christians and anything Jesus said must be dismissed because it is “woke.”
 
-*Disunity in Christ: Uncovering the Hidden Forces that Keep Us Apart* by Christena Cleveland. This is a look at divisions within the Christian Church through the lens of social psychology. I read this book many years ago, before the current wave of Christian nationalism really took off, and it would be interesting to revisit now or to ask Christena what she would say differently.
+_Disunity in Christ: Uncovering the Hidden Forces that Keep Us Apart_ by Christena Cleveland. This is a look at divisions within the Christian Church through the lens of social psychology. I read this book many years ago, before the current wave of Christian nationalism really took off, and it would be interesting to revisit now or to ask Christena what she would say differently.
 
 ### YouTube and Podcasts
 
@@ -236,7 +238,7 @@ When we are wrestling with what to do with Christian identity, we often act like
 
 Those line up with a couple of the colonialism options from earlier.
 
-McLaren quotes from Kristin K Du Mez – whose book *Jesus and John Wayne* I also recommend - that whether you stay or leave Christianity, you should do so loudly, especially if you have some privilege to lend:
+McLaren quotes from Kristin K Du Mez – whose book _Jesus and John Wayne_ I also recommend - that whether you stay or leave Christianity, you should do so loudly, especially if you have some privilege to lend:
 
 > Silence in leaving or remaining will only allow those patterns to persist. It is long past time for white Christians to call out injustice, bigotry, violent rhetoric, disparaging language, racism, misogyny, abuse of power, and the idolatry of Christian nationalism in their own communities, even if doing so comes at a cost. The cost of not doing so is undeniable, and it is a cost largely born by others.
 

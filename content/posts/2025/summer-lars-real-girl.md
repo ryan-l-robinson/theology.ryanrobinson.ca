@@ -4,7 +4,9 @@ date: 2025-07-06T10:30:00.000Z
 author: Ryan Robinson
 description: "A looser summer talk about the power of story in Lars and the Real Girl"
 tags:
-    - Sermon
+  - Sermon
+  - Movies and TV
+  - Church
 ---
 
 I gave this short talk at my church where we don't have the full and more formal services in the summer. Instead, we have shorter talks where a different person each week answers a themed question and then there is time for discussion. This is less formal (and shorter) than a typical sermon. The question this year was about a story that helped us learn something about God, the world, or people different than yourself.
@@ -18,7 +20,7 @@ I gave this short talk at my church where we don't have the full and more formal
 The famous film critic Roger Ebert once said:
 
 > We are all born with a certain package. We are who we are. Where we were born, who we were born as, how we were raised. We are kind of stuck inside that person, and the purpose of civilization and growth is to be able to reach out and empathize a little bit with other people, find out what makes them tick, what they care about. For me, the movies are like a machine that generates empathy. If it's a great movie, it lets you understand a little bit more about what it's like to be a different gender, a different race, a different age, a different economic class, a different nationality, a different profession, different hopes, aspirations, dreams and fears. It helps us to identify with the people who are sharing this journey with us."
-There's a movie podcast I listen to that references this idea often, as the "empathy machine" or the need for "empathetic imagination.
+> There's a movie podcast I listen to that references this idea often, as the "empathy machine" or the need for "empathetic imagination.
 
 We don't truly know what it is like to be someone else, but stories, movies or otherwise, can be a great tool to help build those empathetic imagination muscles.
 
@@ -32,7 +34,7 @@ Combined, this can give us a bigger picture of the world, setting aside my exper
 
 ## Lars and the Real Girl
 
-Maybe the biggest example of this in my life is the movie *Lars and the Real Girl*. If you haven't seen it, I think you should, but I will recap the main plot.
+Maybe the biggest example of this in my life is the movie _Lars and the Real Girl_. If you haven't seen it, I think you should, but I will recap the main plot.
 
 Lars lives in the converted garage on the property with his brother Gus and sister-in-law Karin. He's very isolated and has some trauma.
 

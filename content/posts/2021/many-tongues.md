@@ -4,8 +4,10 @@ date: 2021-05-23T10:30:00.000Z
 author: Ryan Robinson
 description: "A sermon about Pentecost and the beauty of diversity."
 tags:
-    - Sermon
+  - Sermon
+  - Politics
 ---
+
 ## Scripture Texts
 
 [Tower of Babel: Genesis 11:1-9](https://bibles.org/bible/1fd99b0d5841e19b-02/GEN.11?passageId=GEN.11.1-GEN.11.9&q=genesis%2011%3A1-9)
@@ -56,7 +58,7 @@ I remember an episode of the Freakonomics podcast a few years ago talking about 
 
 One of these experts concluded that in the ideal world everybody would speak two languages. There would be one language that the entire world spoke. We would have no barrier to be able to communicate with anybody when we wanted to. But then we would also have the language for our own in-group that would strengthen the bonds within that group. It would be both unity and diversity.
 
-That’s what Pentecost does. Pentecost doesn’t reverse Babel. It doesn't make everybody speak the same language again. That would have been the easy way if the goal were to allow everybody to communicate with each other. God offers a much better gift to humanity: the ability to speak across that barrier *without erasing the differences*.
+That’s what Pentecost does. Pentecost doesn’t reverse Babel. It doesn't make everybody speak the same language again. That would have been the easy way if the goal were to allow everybody to communicate with each other. God offers a much better gift to humanity: the ability to speak across that barrier _without erasing the differences_.
 
 That makes me think of [another comic](https://nakedpastor.com/products/eraser), from the "naked pastor," David Hayward. All the people are drawing lines between each other and Jesus is walking around them with an eraser wiping it all out while they give him dirty looks. But he isn’t wiping out their distinctiveness, only the lines between them.
 

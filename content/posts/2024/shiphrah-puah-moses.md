@@ -4,7 +4,7 @@ date: 2024-12-10T19:04:00.000Z
 author: Ryan Robinson
 description: "There's an interesting contrast in the stories of Exodus 1 and Exodus 2 and how different characters respond to injustice."
 tags:
-    - Bible
+  - Bible
 ---
 
 I occasionally think about the contrast of the first two chapters of Exodus.

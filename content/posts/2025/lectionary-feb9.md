@@ -6,6 +6,7 @@ description: This week includes themes of feelings of unworthiness and God calli
 tags:
   - "Lectionary Notes"
 ---
+
 I've joined a group spanning a few churches to share reactions to the lectionary text for the week. Here are my notes going into February 9, 2025, the fifth Sunday after Epiphany.
 
 ## The Texts

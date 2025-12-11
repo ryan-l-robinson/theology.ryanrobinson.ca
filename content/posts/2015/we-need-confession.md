@@ -3,6 +3,8 @@ title: "We Need Confession"
 date: 2015-02-20T21:46:00.000Z
 author: Ryan Robinson
 description: "An invitation to humble healthy confession."
+tags:
+  - Church
 ---
 
 Things like shame, fear, and judgementalism have no place in the Christian life. The perfect love of Jesus casts out that stuff. We have new life in Jesus. We face no condemnation. That is all true and very important to remember.

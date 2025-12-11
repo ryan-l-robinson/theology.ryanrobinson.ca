@@ -4,7 +4,7 @@ date: 2025-11-22T10:30:00.000Z
 author: Ryan Robinson
 description: "Sabbath is a reminder of the character of God, our own worth, the rejection of constant power at the expense of others, and liberation for the marginalized."
 tags:
-    - Sermon
+  - Sermon
 ---
 
 Our church is planning a sermon series on Sabbath. We have a very democratic preaching approach, where speakers are largely free to take their message in whatever direction they want. This is no guarantee that this how the series will actually go at our church, but I figured since I sketched out one particular flow of the idea, I would turn that into a post here.
@@ -29,12 +29,12 @@ The Sabbath is to be observed because God made everything in 6 days and then res
 
 If this is a God who rests and who prioritizes relationship with us, that God also cares about our wellbeing including the need for regular rest. One text I noted for that idea was Matthew 11:28-12:14:
 
->28 “Come to me, all you who are struggling hard and carrying heavy loads, and I will give you rest. 29 Put on my yoke, and learn from me. I’m gentle and humble. And you will find rest for yourselves. 30 My yoke is easy to bear, and my burden is light.”
+> 28 “Come to me, all you who are struggling hard and carrying heavy loads, and I will give you rest. 29 Put on my yoke, and learn from me. I’m gentle and humble. And you will find rest for yourselves. 30 My yoke is easy to bear, and my burden is light.”
 > 12:1 At that time Jesus went through the wheat fields on the Sabbath. His disciples were hungry so they were picking heads of wheat and eating them. 2 When the Pharisees saw this, they said to him, “Look, your disciples are breaking the Sabbath law.”
->3 But he said to them, “Haven’t you read what David did when he and those with him were hungry? 4 He went into God’s house and broke the law by eating the bread of the presence, which only the priests were allowed to eat. 5 Or haven’t you read in the Law that on the Sabbath the priests in the temple treat the Sabbath as any other day and are still innocent? 6 But I tell you that something greater than the temple is here. 7 If you had known what this means, I want mercy and not sacrifice,[a] you wouldn’t have condemned the innocent. 8 The Human One is Lord of the Sabbath.”
-Healing on the Sabbath
->9 Jesus left that place and went into their synagogue. 10 A man with a withered hand was there. Wanting to bring charges against Jesus, they asked, “Does the Law allow a person to heal on the Sabbath?”
->11 Jesus replied, “Who among you has a sheep that falls into a pit on the Sabbath and will not take hold of it and pull it out? 12 How much more valuable is a person than a sheep! So the Law allows a person to do what is good on the Sabbath.” 13 Then Jesus said to the man, “Stretch out your hand.” So he did and it was made healthy, just like the other one. 14 The Pharisees went out and met in order to find a way to destroy Jesus.
+> 3 But he said to them, “Haven’t you read what David did when he and those with him were hungry? 4 He went into God’s house and broke the law by eating the bread of the presence, which only the priests were allowed to eat. 5 Or haven’t you read in the Law that on the Sabbath the priests in the temple treat the Sabbath as any other day and are still innocent? 6 But I tell you that something greater than the temple is here. 7 If you had known what this means, I want mercy and not sacrifice,[a] you wouldn’t have condemned the innocent. 8 The Human One is Lord of the Sabbath.”
+> Healing on the Sabbath
+> 9 Jesus left that place and went into their synagogue. 10 A man with a withered hand was there. Wanting to bring charges against Jesus, they asked, “Does the Law allow a person to heal on the Sabbath?”
+> 11 Jesus replied, “Who among you has a sheep that falls into a pit on the Sabbath and will not take hold of it and pull it out? 12 How much more valuable is a person than a sheep! So the Law allows a person to do what is good on the Sabbath.” 13 Then Jesus said to the man, “Stretch out your hand.” So he did and it was made healthy, just like the other one. 14 The Pharisees went out and met in order to find a way to destroy Jesus.
 
 Jesus says that his yoke is light. That doesn't mean that following the Way of Jesus is easy, but within this context of those being crushed by the world, his way will bring them rest. That transitions into one of a few stories of healing on the Sabbath and Jesus justifying that as because human lives are worth saving.
 
@@ -71,6 +71,6 @@ This process reminded me of another thing I encountered a while ago. I wish I re
 3. Resistance: directly calling out what is causing the harm, so people realize it is a problem that needs to be resolved. This might look like protests and petitions and calling your elected representatives.
 4. Alternative: modelling what an alternative system could look like. This is where, in my opinion, religious and other voluntary communities can truly shine, as they can demonstrate what it is like to live differently. Without this, it is hard for people to catch a vision of what even is the point of all this hard work.
 
-None of these are ever sufficient on their own. For example, if we collectively only ever did reform without any others, we are limiting our imagination, allowing *some* to be hurt because at least it is less than before. If you never do any reform, it's a constant uphill battle demanding an absolutely all or nothing sudden change which is usually not realistic. Importantly, that does not mean that each one of us individually needs to do all of them. We can't. It's too much and we will end up doing most of it badly. Instead, some of us should be really good at reform, some really good at healing, some really good at resistance, some really good at building alternatives. Pick your lane and celebrate those in other lanes, not looking down on them as some form of lesser work.
+None of these are ever sufficient on their own. For example, if we collectively only ever did reform without any others, we are limiting our imagination, allowing _some_ to be hurt because at least it is less than before. If you never do any reform, it's a constant uphill battle demanding an absolutely all or nothing sudden change which is usually not realistic. Importantly, that does not mean that each one of us individually needs to do all of them. We can't. It's too much and we will end up doing most of it badly. Instead, some of us should be really good at reform, some really good at healing, some really good at resistance, some really good at building alternatives. Pick your lane and celebrate those in other lanes, not looking down on them as some form of lesser work.
 
 I think about those fairly often, and I did again here, as all of those came up to some degree within the themes of what is accomplished by Sabbath well understood.

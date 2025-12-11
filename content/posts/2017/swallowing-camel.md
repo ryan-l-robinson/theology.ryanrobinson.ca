@@ -4,6 +4,7 @@ date: 2017-05-28T10:30:00.000Z
 description: "A sermon about spiritual trauma and the trap of religious judgement."
 categories:
   - Sermon
+  - Church
 ---
 
 ## Scripture Texts

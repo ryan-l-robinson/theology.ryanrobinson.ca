@@ -2,7 +2,11 @@
 title: Allegiance to a Label
 date: 2016-01-28T10:30:00.000Z
 description: "A meditation on abandoning the language of evangelicalism."
+tags:
+  - Church
+  - Politics
 ---
+
 Linguistics 101: language changes. Language assigns words or phrases as a way to communicate different ideas. These ideas are not fixed for eternity. English is very different today than it was 1000 years ago. Before that, there were several source languages that became English. Even today, we are adding new words and phrases every year. Language is inherently arbitrary, with the exception of onomatopoeia. That's just how language works.
 
 This is significant for me when talking about questions like why I don't identify as an "evangelical" anymore. Yes, I used to. And yes, by most historical definitions, I would probably still qualify. In the 18th and 19th centuries, even the first half of the 20th, "evangelical" was the majority of Christians. It meant something specific about how you approached the Bible: as authority but something that must be studied and wrestled with. It was the middle ground between liberals who assumed that the Bible was fundamentally untrustworthy and fundamentalists who refused to ask any questions, preferring to retrench in what their tradition had told them.

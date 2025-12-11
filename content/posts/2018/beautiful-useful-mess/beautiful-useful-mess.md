@@ -5,7 +5,8 @@ author: Ryan Robinson
 series: Confession of Faith
 description: "A sermon about a Mennonite approach to Scripture."
 tags:
-    - Sermon
+  - Sermon
+  - Bible
 ---
 
 This is an older sermon from 2018 that I am just now posting in 2025, and I did initially have a slideshow with accompanying photos. I don't have that anymore, so I can't easily piece together what those photos were in order to share them. I did my best, and smoothed over the wording in some other places.

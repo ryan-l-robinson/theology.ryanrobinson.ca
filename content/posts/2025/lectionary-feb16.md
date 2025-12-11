@@ -6,7 +6,8 @@ description: This week includes themes of trust, wealth, and judgement.
 tags:
   - "Lectionary Notes"
 ---
-I've joined a group spanning a few churches  to share reactions to the lectionary text for the week. Here are my notes going into February 16, 2025, the sixth Sunday after Epiphany.
+
+I've joined a group spanning a few churches to share reactions to the lectionary text for the week. Here are my notes going into February 16, 2025, the sixth Sunday after Epiphany.
 
 ## The Texts
 

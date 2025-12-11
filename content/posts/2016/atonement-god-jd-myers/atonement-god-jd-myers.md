@@ -4,12 +4,12 @@ date: 2016-07-19T21:46:00.000Z
 author: Ryan Robinson
 description: "A book review about non-violent atonement and some implications."
 tags:
-    - Books
+  - Books
 ---
 
 ![The Atonement of God by J.D. Myers (cover)](./atonement-god-myers.jpg)
 
-A few years ago I was strongly considering writing a book. My premise was essentially a systematic theology but starting with the idea that God looks like Jesus, particularly when it comes to rejection of violence. _The Atonement of God_ by J.D. Myers is the closest I've encountered to trying for the same goal, with a couple of significant differences:
+A few years ago I was strongly considering writing a book. My premise was essentially a systematic theology but starting with the idea that God looks like Jesus, particularly when it comes to rejection of violence. *The Atonement of God* by J.D. Myers is the closest I've encountered to trying for the same goal, with a couple of significant differences:
 
 - It is not nearly as comprehensive as a systematic theology, sticking to topics that are directly related to a non-violent understanding of the atonement.
 - The starting point is a non-violent understanding of the atonement in particular, rather than a non-violent God in general.
@@ -22,7 +22,7 @@ My main complaints are related to the style, not the content. It feels sloppily 
 
 ### Content
 
-When it comes to content, I'm less critical. The strength of the book is when he explains his understanding of a non-violent atonement. I have read a few of these in recent years, most notably J. Denny Weaver's _The Nonviolent Atonement._
+When it comes to content, I'm less critical. The strength of the book is when he explains his understanding of a non-violent atonement. I have read a few of these in recent years, most notably J. Denny Weaver's *The Nonviolent Atonement.*
 
 #### Christus Victor
 

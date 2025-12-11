@@ -5,8 +5,10 @@ author: Ryan Robinson
 series: Confession of Faith
 description: "A sermon for Peace Sunday about Revelation. No, really."
 tags:
-    - Sermon
+  - Sermon
+  - Politics
 ---
+
 ## Scripture Readings
 
 [Revelation 19:11-21](https://bibles.org/bible/1fd99b0d5841e19b-02/REV.19?passageId=REV.19.11-REV.19.20&q=revelation%2019%3A11-21)

@@ -4,7 +4,7 @@ date: 2022-01-30T10:30:00.000Z
 author: Ryan Robinson
 description: "A sermon about peace: holy war, just war, resisting nonviolently, and the justified anger of the oppressed."
 tags:
-    - Sermon
+  - Sermon
 ---
 
 ## Texts
@@ -47,7 +47,7 @@ Jesus' definition of peace is different. Jesus teaches a peace through justice, 
 
 If the most fundamental theological question is what God is like, I think the second most important to me at least might be the question of eschatology. What's the point of all this? What are we moving toward? What kind of world is possible? That's my little teaser for Scott to talk about the article for the reign of God in a couple weeks, but understanding what Jesus meant by peace I think is a big part of that answer.
 
-These are fundamentally different perspectives on the world, not just a minor ethical question or a new rule that Christians are supposed to follow. To quote Melissa Florer-Bixler's book *How To Have an Enemy*, they are "different and incompatible operating system[s]."
+These are fundamentally different perspectives on the world, not just a minor ethical question or a new rule that Christians are supposed to follow. To quote Melissa Florer-Bixler's book _How To Have an Enemy_, they are "different and incompatible operating system[s]."
 
 ### Nonresistance
 
@@ -82,7 +82,7 @@ With that in mind, it's actually an incredibly powerful decision to be in those 
 
 ### Real Victory
 
-Because I am a nerd, I will reference another recent nerdy TV property. In the first season of *The Wheel of Time*, a couple of the main characters – Perrin and Egwene - encounter a group called the Tuatha'an. They're a nomadic people committed to what they call The Way of the Leaf and to finding the song that will heal the world. Not a weapon that will save the world by enabling them to defeat the villain, but a song that will heal the world.
+Because I am a nerd, I will reference another recent nerdy TV property. In the first season of _The Wheel of Time_, a couple of the main characters – Perrin and Egwene - encounter a group called the Tuatha'an. They're a nomadic people committed to what they call The Way of the Leaf and to finding the song that will heal the world. Not a weapon that will save the world by enabling them to defeat the villain, but a song that will heal the world.
 
 One of the Tuatha'an is explaining their ways and talking about when her family was murdered. Perrin asks her why she didn't want revenge. She clarifies that revenge was all she wanted. In that moment of incredible pain, it was the only thing she could imagine, much like those psalmists. But then she says:
 

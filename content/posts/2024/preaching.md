@@ -4,8 +4,9 @@ date: 2024-12-08T11:46:00.000Z
 author: Ryan Robinson
 description: "I occasionally preach. Here's how I think about things like my context, Scripture, and its role in the service."
 tags:
-    - Church
+  - Church
 ---
+
 I recently joined [a New Leaf Network class on Preaching in a Post-Evangelical World](https://www.newleafnetwork.ca/store/postevangelicalpreaching). I only preach 1-2 times a year, and in [a church](https://rockwaymc.ca) that would not typically be described as post-evangelical or any other kind of evangelical, but I still find the topic very interesting and I anticipated correctly that they would still be talking through some relevant questions.
 
 I'm not going to recap everything they talked about, but will use it as a launching pad to touch on some of the main considerations I have when I am preaching:
