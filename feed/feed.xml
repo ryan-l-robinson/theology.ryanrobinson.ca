@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="pretty-atom-feed.xsl" type="text/xsl"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
   <title>Ryan Robinson Theology</title>
-  <subtitle>Ryan Robinson writes about theology: God, the church, the world, and whatever else he feels like that day.</subtitle>
+  <subtitle>A guy with a little theological training writing about God, the church, and the world.</subtitle>
   <link href="https://theology.ryanrobinson.ca/feed/feed.xml" rel="self" />
   <link href="https://theology.ryanrobinson.ca/" />
   <updated>2025-11-30T11:00:00Z</updated>
