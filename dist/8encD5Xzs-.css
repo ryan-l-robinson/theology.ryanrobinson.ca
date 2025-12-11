@@ -1,4 +1,4 @@
-.postlist { counter-reset: start-from 7 }
+.postlist { counter-reset: start-from 2 }
 /** Styles only needed for the views summarizing multiple posts */
 
 /** Lists of posts **/
@@ -46,6 +46,7 @@
 }
 
 .pager li {
+	display: flex;
 	height: fit-content;
 }
 
@@ -54,10 +55,8 @@
 	padding: 0.5em;
 	text-decoration: none;
 	line-height: 1em;
-}
-
-.pager li a {
 	background-color: var(--blue);
+	color: var(--white);
 }
 
 .pager li a:is(:hover, :focus) {
@@ -154,9 +153,22 @@ a {
 	text-underline-position: under;
 }
 
-a.with-icon::before {
+a.icon-before,
+a.icon-after {
+	display: flex;
+	align-items: center;
+}
+
+a.icon-before::before {
 	display: inline-flex;
 	margin-right: 5px;
+	vertical-align: bottom;
+	font-family: "FontAwesome";
+}
+
+a.icon-after::after {
+	display: inline-flex;
+	margin-left: 5px;
 	vertical-align: bottom;
 	font-family: "FontAwesome";
 }
@@ -171,6 +183,14 @@ a.tech-blog::before {
 
 a.theology-blog::before {
 	content: "\f4ba";
+}
+
+a.pager-first::before {
+	content: "\f100";
+}
+
+a.pager-last::after {
+	content: "\f101";
 }
 
 .visually-hidden {
@@ -275,8 +295,6 @@ header {
 }
 
 header a {
-	display: flex;
-	align-items: center;
 	color: var(--white);
 	text-decoration: none;
 }
