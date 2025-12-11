@@ -7,7 +7,7 @@ tags:
   - Adult Education
 ---
 
-For the first week of Advent, I led our church's Adult Education hour with a look at the birth narratives in Luke. Below are an adapted version of my notes.
+For the first week of Advent, I led our church's Adult Education hour with a look at the birth narratives in Luke. Below is an adapted version of my notes.
 
 ## Credit
 
