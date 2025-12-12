@@ -9,6 +9,21 @@
 			"strings": "off",
 			"other": "off"
 		},
-		"editor.minimap.enabled": false
-	}
+		"editor.minimap.enabled": false,
+
+	},
+	"markdownlint.config": {
+		"MD041": false,
+	},
+	"cSpell.words": [
+		"colours",
+		"favourite",
+		"phpunit",
+		"fediverse"
+	],
+	"cSpell.dictionaries": [
+		"en-gb",
+  	"php",
+  	"css"
+	]
 }
