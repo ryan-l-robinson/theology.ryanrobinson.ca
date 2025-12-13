@@ -1,218 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-	
-	<url>
-		<loc>/posts/we-need-confession/</loc>
-		<lastmod>2015-02-20</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/review-searching-sunday/review-searching-for-sunday/</loc>
-		<lastmod>2015-04-24</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/anno-domini-or-common-era/</loc>
-		<lastmod>2015-09-18</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/approaching-apologetics/</loc>
-		<lastmod>2015-11-04</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/game-of-thrones-season-5/</loc>
-		<lastmod>2015-11-19</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/the-rise-of-the-empire/</loc>
-		<lastmod>2015-12-18</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/bringing-balance-to-the-force/</loc>
-		<lastmod>2015-12-23</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/allegiance-to-a-label/</loc>
-		<lastmod>2016-01-28</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/life-after-jesus/</loc>
-		<lastmod>2016-05-08</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/sin-sunday/</loc>
-		<lastmod>2016-05-08</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/atonement-god-jd-myers/</loc>
-		<lastmod>2016-07-19</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/rebellions-hope/</loc>
-		<lastmod>2017-02-20</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/swallowing-camel/</loc>
-		<lastmod>2017-05-28</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/image-invisible-god/</loc>
-		<lastmod>2018-02-04</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/beautiful-useful-mess/</loc>
-		<lastmod>2018-05-06</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/jesus-break-wheel/</loc>
-		<lastmod>2019-11-10</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/magnificat-hope/</loc>
-		<lastmod>2020-12-13</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/many-tongues/</loc>
-		<lastmod>2021-05-23</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/way-leaf/</loc>
-		<lastmod>2022-01-30</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/appetizer-way/</loc>
-		<lastmod>2023-10-01</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/new-blog/</loc>
-		<lastmod>2024-02-21</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/cult-innocence/</loc>
-		<lastmod>2024-09-29</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/recycling-christianity/</loc>
-		<lastmod>2024-10-06</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/remembrance-day/</loc>
-		<lastmod>2024-11-11</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/ambs-challenging-christian-nationalism/</loc>
-		<lastmod>2024-11-24</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/echo-chambers/</loc>
-		<lastmod>2024-11-24</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/distractions/</loc>
-		<lastmod>2024-11-30</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/hope-sewer-rat/</loc>
-		<lastmod>2024-12-07</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/preaching/</loc>
-		<lastmod>2024-12-08</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/shiphrah-puah-moses/</loc>
-		<lastmod>2024-12-10</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/empathetic-imagination/</loc>
-		<lastmod>2025-01-02</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/theological-background/</loc>
-		<lastmod>2025-01-25</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/lectionary-jan26/</loc>
-		<lastmod>2025-01-25</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/lectionary-feb-2/</loc>
-		<lastmod>2025-02-01</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/lectionary-feb9/</loc>
-		<lastmod>2025-02-08</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/lectionary-feb16/</loc>
-		<lastmod>2025-02-15</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/kingdom-planet-apes/</loc>
-		<lastmod>2025-02-19</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/lectionary-feb23/</loc>
-		<lastmod>2025-02-23</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/lectionary-mar2/</loc>
-		<lastmod>2025-03-01</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/whose-armour/</loc>
-		<lastmod>2025-03-16</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/summer-lars-real-girl/</loc>
-		<lastmod>2025-07-06</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/meanings-sabbath/</loc>
-		<lastmod>2025-11-22</lastmod>
-	</url>
-	
-	<url>
-		<loc>/posts/manger-misunderstanding/</loc>
-		<lastmod>2025-11-30</lastmod>
-	</url>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			<url>
+				<loc>https://theology.ryanrobinson.ca/</loc>
+				<lastmod>2025-12-13</lastmod>
+			</url>
+		
+		
+		
+		
+			
+			<url>
+				<loc>https://theology.ryanrobinson.ca/tags/adult-education/</loc>
+				<lastmod>2025-12-13</lastmod>
+			</url>
+		
+		
+			
+			<url>
+				<loc>https://theology.ryanrobinson.ca/tags/</loc>
+				<lastmod>2025-12-13</lastmod>
+			</url>
+		
+		
+			
+			<url>
+				<loc>https://theology.ryanrobinson.ca/feed/feed.xml</loc>
+				<lastmod>2025-12-13</lastmod>
+			</url>
+		
 </urlset>
