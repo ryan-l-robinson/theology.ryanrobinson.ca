@@ -3,8 +3,7 @@ title: "Lectionary Notes: Feb 23, 2025"
 date: 2025-02-23T13:00:00.000Z
 author: Ryan Robinson
 description: This week explores power reversals, with or without retribution.
-tags:
-  - "Lectionary Notes"
+series: "Lectionary Notes"
 ---
 
 I've joined a group spanning a few churches to share reactions to the lectionary text for the week. Here are my notes going into February 23, 2025, the seventh Sunday after Epiphany.

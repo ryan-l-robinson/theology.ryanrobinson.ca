@@ -3,8 +3,7 @@ title: "Lectionary Notes: Jan 26, 2025"
 date: 2025-01-25T11:00:00.000Z
 author: Ryan Robinson
 description: This week includes themes of communal reflection and unity.
-tags:
-  - "Lectionary Notes"
+series: "Lectionary Notes"
 ---
 
 I've been invited to join a group spanning a few churches (a Unitarian, a United, and my Mennonite) to share reactions to the lectionary text for the week. Here are my notes going into the first week, January 26, 2025, the third Sunday after Epiphany.

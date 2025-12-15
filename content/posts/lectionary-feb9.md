@@ -3,8 +3,7 @@ title: "Lectionary Notes: Feb 9, 2025"
 date: 2025-02-08T11:00:00.000Z
 author: Ryan Robinson
 description: This week includes themes of feelings of unworthiness and God calling us anyway.
-tags:
-  - "Lectionary Notes"
+series: "Lectionary Notes"
 ---
 
 I've joined a group spanning a few churches to share reactions to the lectionary text for the week. Here are my notes going into February 9, 2025, the fifth Sunday after Epiphany.

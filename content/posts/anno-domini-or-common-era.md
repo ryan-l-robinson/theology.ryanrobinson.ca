@@ -3,9 +3,11 @@ title: "Anno Domini or Common Era?"
 date: "2015-09-18T10:30:00.000Z"
 author: Ryan Robinson
 description: "Sometimes simple language has big implications."
+tags:
+  - Politics
 ---
 
-In a previous post I mentioned offhand how I found it strange to see an academic use the term A.D. instead of C.E. 9 years ago this week, I started my postsecondary education. I don't recall ever seeing A.D. used in the following 6 years of academia, plus an audited course after that, except maybe in some classic texts written at least a decade earlier. Many of them were classes that did talk extensively about events in time periods where the clarification is necessary - the biblical time period, essentially. Some of those years of academia were in seminary after all. Most if not all books I've read since then have similarly used C.E. and B.C.E. In fact, I'm pretty certain that seminary - and probably undergrad before it - explicitly specified in style guides for writing that we were to use C.E. and B.C.E.
+In a previous post I mentioned offhand how I found it strange to see an academic use the term A.D. instead of C.E. 9 years ago this week, I started my post-secondary education. I don't recall ever seeing A.D. used in the following 6 years of academia, plus an audited course after that, except maybe in some classic texts written at least a decade earlier. Many of them were classes that did talk extensively about events in time periods where the clarification is necessary - the biblical time period, essentially. Some of those years of academia were in seminary after all. Most if not all books I've read since then have similarly used C.E. and B.C.E. In fact, I'm pretty certain that seminary - and probably undergrad before it - explicitly specified in style guides for writing that we were to use C.E. and B.C.E.
 
 Why the shift? In short, I think A.D. carries some problematic colonialist overtones to it. A.D. stands for Anno Domini, Latin for the year of our Lord. It does not stand for "After Death" as many English-speakers assume - I know I did for years as a kid. To put it simply, how would it feel if every time you referred to something in history, you had to refer to it as the year of our Lord, when you don't believe that Jesus is your Lord? That is a constant reminder that your beliefs are in a position of cultural inferiority to Christendom.
 

@@ -3,8 +3,7 @@ title: "Lectionary Notes: Feb 2, 2025"
 date: 2025-02-01T11:00:00.000Z
 author: Ryan Robinson
 description: This week includes themes of prophecy, love, and in-group/out-group dynamics.
-tags:
-  - "Lectionary Notes"
+series: "Lectionary Notes"
 ---
 
 I've joined a group spanning a few churches (a United, my Mennonite, and another Mennonite - a Unitarian was also invited but they all withdrew late) to share reactions to the lectionary text for the week. Here are my notes going into the second week, February 2, 2025, the fourth Sunday after Epiphany.

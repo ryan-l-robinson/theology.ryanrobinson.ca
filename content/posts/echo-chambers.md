@@ -26,7 +26,7 @@ Where this gets more interesting is that I'm not convinced that's what everybody
 
 A lot of the complaints say they want to restore respectful dialogue with people we don't agree with everything about. On its surface, that is a good goal.
 
-Unfortunately that is not what social media is built to be. It is not designed to have that respectful deep dialogue. Messages are short, struggling to find space for nuance. They are mostly one-directional; one of the interesting changes years ago was shifting from social networking to social media. Networking implies some equality and finding your peers. Media implies there are some creators and the rest are consumers. That's a dynamic that is very hard to have real hard conversation within. Social media may occasionally be able to put a bandaid on loneliness, but it isn't a replacement for real community.
+Unfortunately that is not what social media is built to be. It is not designed to have that respectful deep dialogue. Messages are short, struggling to find space for nuance. They are mostly one-directional; one of the interesting changes years ago was shifting from social networking to social media. Networking implies some equality and finding your peers. Media implies there are some creators and the rest are consumers. That's a dynamic that is very hard to have real hard conversation within. Social media may occasionally be able to put a band-aid on loneliness, but it isn't a replacement for real community.
 
 So I think the good faith interpretation here is that people are realizing that social media is not a replacement for real community and they want that real community again. Where they make a mistake is thinking the way to get it again is by forcing everyone to be on a particular toxic site.
 

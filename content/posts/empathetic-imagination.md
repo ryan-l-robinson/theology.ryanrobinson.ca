@@ -16,7 +16,7 @@ This was on a movie podcast, which might not seem like the most obvious spot for
 
 This is the main reason why I do appreciate good TV and movies so much. I am also interested in technical excellence in directing or acting or effects or any number of other elements of a movie. But primarily, I am interested in movies that tell a good story about people who are different than me in some way learning and growing. I want a movie to help me imagine the world being a little bit different.
 
-It's also, to jump to a different medium, whey I always play videogames with female characters and with non-human characters when given the choice. I'm a human male in real life and the majority of stories are about people like me. It's a little bit boring to do that all the time. If I have a chance to try to see the world in a slightly different way, I want to take it. I'm very confused by certain elements of gamer culture that opposes the very existence of female characters.
+It's also, to jump to a different medium, whey I always play video games with female characters and with non-human characters when given the choice. I'm a human male in real life and the majority of stories are about people like me. It's a little bit boring to do that all the time. If I have a chance to try to see the world in a slightly different way, I want to take it. I'm very confused by certain elements of gamer culture that opposes the very existence of female characters.
 
 ## Empathy and Politics
 
