@@ -1,4 +1,20 @@
 module.exports = {
 	"adult-education":
 		"These posts came from notes used in an Adult Education second hour at my church (or at least considered to be used for one).",
+	"bible":
+		"These posts include some Bible study, sometimes more academic and sometimes more devotional.",
+	"books":
+		"These posts review books or discuss lessons learned from books.",
+	"church":
+		"These posts discuss church, both in the abstract of its purpose as well as some practicalities of operations.",
+	"mennonerds":
+		"These posts came out of my previous involvement with the MennoNerds network of bloggers and podcasters.",
+	"movies-and-tv":
+		"These posts discuss thoughts coming from watching visual storytelling mediums.",
+	"politics":
+		"These posts discuss interactions with the wider world. Politics isn't only about partisanship, and for the most here will not be.",
+	"sermon":
+		"These posts came from notes used initially for a sermon.",
+	"technology":
+		"These posts discuss technology from my Christian perspective. There is lots more about technology on my technology blog."
 };
