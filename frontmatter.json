@@ -84,7 +84,7 @@
 	"frontMatter.data.files": [{
     "id": "general",
     "title": "Used Generally Throughout Site",
-    "file": "[[workspace]]/_data/general.js",
+    "file": "[[workspace]]/_data/general.json",
     "labelField": "title",
     "singleEntry": true,
 		"schema": {
@@ -131,7 +131,7 @@
 	{
 	  "id": "meta",
     "title": "Used For Meta Tags",
-    "file": "[[workspace]]/_data/meta.js",
+    "file": "[[workspace]]/_data/meta.json",
     "labelField": "region",
     "singleEntry": true,
 		"schema": {

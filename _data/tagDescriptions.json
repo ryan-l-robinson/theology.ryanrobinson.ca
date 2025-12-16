@@ -1,4 +1,4 @@
-module.exports = {
+{
 	"adult-education":
 		"These posts came from notes used in an Adult Education second hour at my church (or at least considered to be used for one).",
 	"bible":
@@ -17,4 +17,4 @@ module.exports = {
 		"These posts came from notes used initially for a sermon.",
 	"technology":
 		"These posts discuss technology from my Christian perspective. There is lots more about technology on my technology blog."
-};
+}
