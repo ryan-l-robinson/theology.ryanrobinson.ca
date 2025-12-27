@@ -1,11 +1,10 @@
-.post-list { counter-reset: start-from 11 }
+.post-list { counter-reset: start-from 5 }
 /** Styles only needed for the views summarizing multiple posts */
 
 /** Lists of posts **/
 
 .post-list-item-title {
 	margin: 0;
-	padding-bottom: 0.25em;
 	line-height: 1.4em;
 }
 
@@ -197,6 +196,11 @@ blockquote p:first-child {
 
 blockquote p:last-child {
 	margin-bottom: 0;
+}
+
+picture {
+	display: flex;
+	justify-content: center;
 }
 /* Containers for layout */
 
