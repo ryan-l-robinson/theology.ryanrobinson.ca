@@ -1,17 +1,17 @@
 import { z } from "zod";
-import { fromZodError } from 'zod-validation-error';
+import { fromZodError } from "zod-validation-error";
 
 export default {
-	tags: [
-		"posts"
-	],
-	"layout": "layouts/post.njk",
+	tags: ["posts"],
+	layout: "layouts/post.njk",
 
 	// Draft blog posts, validate `draft` front matter
 	eleventyDataSchema: function (data) {
-		let result = z.object({
-			draft: z.boolean().or(z.undefined()),
-		}).safeParse(data);
+		let result = z
+			.object({
+				draft: z.boolean().or(z.undefined()),
+			})
+			.safeParse(data);
 
 		if (result.error) {
 			throw fromZodError(result.error);
@@ -26,7 +26,7 @@ export default {
 				return false;
 			}
 
-			return data.permalink;
+			return `/${data.page.date.getFullYear()}/${data.page.fileSlug}/index.html`;
 		},
 		eleventyExcludeFromCollections: (data) => {
 			// Always exclude from non-watch/serve builds
@@ -35,6 +35,6 @@ export default {
 			}
 
 			return data.eleventyExcludeFromCollections;
-		}
-	}
+		},
+	},
 };
