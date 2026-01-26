@@ -1,0 +1,19 @@
+---
+title: "The Sacrificial Gods of \"The Cabin In The Woods\""
+date: "2013-07-06"
+categories: 
+  - "the-nature-of-god"
+  - "theology-movies"
+---
+
+Note: this is a huge spoiler. If you haven't seen the movie and want to - I do recommend it - this could ruin it for you. The majority of the movie you don't know what is really going on, but I'm going to outright tell you in the next paragraph.
+
+<!--more-->The gods revealed late in _The Cabin in the Woods_ is like how gods or God have been imagined through most of history. At the centre of their character and interaction with humanity is that they demand a sacrifice. The rules of the sacrifice are clear but they are not easy. There are five necessary characters: the athlete, the scholar, the fool, the whore, and the virgin. In order for the sacrifice to sufficiently satisfy the gods, the virgin must be last. Whether the virgin lives or dies can vary, but everybody else must die first. Surprise, gods and/or their followers who have an obsession with virginity. Some other seemingly-random rules are also thrown in, like the old man warning them not to go.
+
+Basically, the gods demand every possible horror movie cliche, which is part of the brilliance of the film as it creatively critiques other horror movies. If the gods aren't satisfied with this formula being met, they will lash out and destroy everyone.  And sure enough, the ending of the movie is not the typical horror movie ending. There is no loophole whereby the gods are placated without killing off the main characters. Nobody comes in to rescue the surviving one or two characters - the Fool along with the Virgin in this case, which is what messed up the sacrifice - at the last second. No, instead the gods rise up and begin destroying the world. The movie ends with a giant hand thrusting out of the earth, killing the two main characters along with everybody else in the way.
+
+The parallels to how we humans act in real life are obvious. Rene Girard formalized the idea of scapegoat theory. It's fairly simple: we seek scapegoats to pay the price for our sins. Our own sense of judgement declares that somebody or something must suffer as payment, but clearly we don't want to suffer ourselves, so we come up with other sacrificial systems that get us in the clear. Sometimes that is a person that becomes a scapegoat, or sometimes as in a lot of older religions it is an animal. Sometimes the scapegoat is killed, sometimes goes through other physical suffering, or sometimes goes through some other suffering such as ostracizing from the community or public shaming. For an extreme example of the latter, think about how some prominent conservative churches blame natural disasters on a minority, usually a minority that is different than the power holders (women, LGBT persons, teenage mothers, abortionists, people from other nations or races...). This scapegoating is all through human history, including Christian history.
+
+Sometimes we even wrap doctrines around this, claiming that this demand for sacrifice is core to God's nature. We don't like to admit that it is us who are really causing the suffering through scapegoating. Of course, in the movie it actually is the gods, so those who defend a satisfaction or penal substitutionary understanding of the atonement would agree with the bulk of the movie, only changing that at the end God does provide the loophole to keep his anger in check. I have to disagree with that, though, as (aside from a questionable biblical and historical basis) it leads to some serious pastoral problems such as continued scapegoating.
+
+As is often the case in this blog space, we return to the question of the nature of God. Is God like these gods of _The Cabin in the Woods_, demanding sacrifices or at least one grand loophole sacrifice? Or is God one who tries to pull us out of our scapegoating legalistic ways? How you answer that changes everything.

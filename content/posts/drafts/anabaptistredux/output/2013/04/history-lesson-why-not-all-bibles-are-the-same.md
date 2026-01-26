@@ -1,0 +1,24 @@
+---
+title: "History Lesson: Why Not All Bibles are the Same"
+date: "2013-04-17"
+categories: 
+  - "biblical-studies"
+  - "catholicism"
+  - "history"
+---
+
+[](http://www.anabaptistredux.com/wp-content/uploads/2013/04/Canons-of-Scripture.gif)In one of those random bits of trivia from Sunday School as a child, I learned that the Bible has 66 books. It wasn't until I was about 18 that I realized it wasn't that simple thanks to, believe it or not, _The Bible for Dummies_. In case you aren't aware, Protestant Bibles are 66 books, but Catholic Bibles have more and if you throw in various Eastern Orthodox churches you get a few more minor variations. Why?
+
+This may be hard to swallow for certain evangelicals who picture God dropping the Bible from heaven one day a couple thousand years ago complete with everything we need for every detail of our lives. If you're in that camp, you're probably not reading this blog anyway, but just in case, this is your warning that you'll probably think I'm a terrible liberal heretic.
+
+<!--more-->I'm going to start with the time of Jesus. The Jewish people at that point had two sections to their Bibles: the Law and the Prophets. When Jesus says that love of neighbour and love of God sums up the Law and the Prophets, he isn't ignoring the Writings (Psalms, Proverbs, Ecclesiastes, Kings, Chronicles, etc). Those existed, but they were not considered sacred canon in the same way yet. These Writings, along with some that made it into the Catholic canon but not the Protestant, are referenced throughout the New Testament, though, which probably helped the case for their canonization by Christians and (most of them by) Jews.
+
+**Updated note: there is some controversy about the canonicity of the Writings by this time. There are many scholars - the vast majority of both Christian and Jewish I've encountered - suggesting what I've said here but also some who have said they were canonized by this time. In any case, it isn't central to my point.**
+
+Later, with the Temple destroyed and Judaism scattered, Scriptures became even more important to the Jewish people. Sometime around the 100CE area, Jewish leaders formally brought in most of the Writings, except for 7: Tobit, Judith, 1 Maccabees, 2 Maccabees, Wisdom of Solomon, Sirach, and Baruch. There was a theory that this happened at a Council of Jamnia, but most scholars have now rejected this specific theory but still hold to the general claim that the Writings were canonized around this time. The main dividing line was that these 7 books were written first in Greek while the 39 others were older and at least mostly in Hebrew (Daniel is partly Aramaic). Using Hebrew texts helped separate them from the Christians - mostly Gentiles by this point - who only used Greek texts, those 7 which were written in Greek and the others which were translated from Hebrew.
+
+Christians at this point didn't have an explicit canon - after all, they were people of the living Word made flesh, not people of the book - but there was a general consensus on almost all of the books as to what would be authoritative Scripture. For example, all agreed that there were 4 and only 4 Gospels: 1st century documents of the story of Jesus. The 7 listed above were lumped in with the rest of the Hebrew Scriptures, though, as part of the Septuagint (LXX), the Greek translation of the Hebrew Bible. Contrary to _The Da Vinci Code_ and other conspiracy myths, the canon was settled early and there was little dispute, even though it was not formally stamped by political approval after Rome became Christianized in the 4th century. For the next 1100 years or so, there was little debate about whether those 7 books should be removed (Jerome, the compiler of the Latin Vulgate, did want to remove them but the Pope wanted to keep them as per tradition) or whether anything else should be changed about the canon.
+
+When the Reformation came, Protestants claimed that the Bible was the ultimate authority. But which Bible? Although Calvin and Luther both were tempted to dismiss some books that were not as congruent with their theology - such as the book of James and its emphasis on the importance of works and not just faith - they ultimately left everything in the New Testament the same. For the Old Testament, they adopted the smaller Jewish canon, although with the same classifications and organization as Catholicism. For example, Jewish Bibles put Daniel as a Writing, Catholics had sorted it as a Prophet, and Protestants took the Catholic approach. They also took the versification system of Catholics rather the slightly-different-at-times Jewish Bibles. So now Protestants have 66 books, the same 39 books of Hebrew Bible content as Judaism but in a different form plus the same 27 books of the New Testament as Catholicism.
+
+Now you know.

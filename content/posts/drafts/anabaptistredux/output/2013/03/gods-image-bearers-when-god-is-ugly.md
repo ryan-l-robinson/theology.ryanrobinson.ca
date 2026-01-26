@@ -1,0 +1,37 @@
+---
+title: "God's Image-Bearers when God is Ugly"
+date: "2013-03-26"
+categories: 
+  - "social-ethics"
+  - "systematic"
+tags: 
+  - "rachel-held-evans"
+---
+
+> \[caption id="attachment\_1777" align="alignright" width="300"\][](http://www.anabaptistredux.com/wp-content/uploads/2013/03/Angry-God.jpg) Is this your image of God?\[/caption\]
+> 
+> I made you in my image and I'm a complete asshole. - @TheTweetOfGod
+
+That's a comedic account for those who don't know. I share it here not for comedic value but because it leads to an important conversation. Sometimes I shrug off the significant differences even within the umbrella of Christianity. Other times I see a lot of harm done by images of God which are far from Christ-like but are nonetheless promoted by Christians. Here's one big example discussed by [Sarah Moon on Rachel Held Evans' blog: when we allow the definition of love for God to include abusive control and violence, we inevitably allow that of ourselves, too](http://rachelheldevans.com/blog/sarah-moon-abuse-god-is-love "\"God Is Love\" by Sarah Moon").
+
+**Above anything else, this is why it matters how we view God: it changes how we live in very concrete ways.** To pick a few examples I've heard, if we say that God commanding genocide as in the conquest of Israel is love, and we are supposed to love as God's image bearers, why can't we commit genocide? If God can be an abusive husband as in some of the prophetic imagery used, why can't we? If God is a man, then why wouldn't men be considered more god-like and thus inherently bearing much more authority? If God is judgemental... If God gets angry and lashes out... If God is violent... If God plays favourites... If God arbitrarily saves some and condemns others... If God hates gay people... If God's "love" is unilateral and doesn't require relationship... If God is just interested in maintaining the oppressive status quo... and so on and so on...
+
+<!--more-->From the biblical perspective, not just the perspective of The Tweet of God as above, [we are made in God's image](http://anabaptistredux.com/humanity-the-image-bearers-of-god/ "Humanity, the Image-Bearers of God"). In Christ, we are made more like God again, restoring some of the broken image. In some parts of the church this is called Theosis - becoming like God in character - but Protestants in particular prefer the Wesleyan term sanctification - becoming like Jesus in character - since we like to think that this somehow makes us less arrogant and less oriented to good works as important. Whatever you want to call it, it's there in the Bible pretty clearly. We are supposed to be like God - not in power of course but in character. **So when we hold a negative view of God, and we praise that negative view of God, it is only natural that we want to live the same way that we think God is**.
+
+I'm not saying that it is impossible to view God as judgemental, angry, violent, abusive, etc. without doing the same. Of course many who believe these are praiseworthy traits of God do try to not live those out themselves. If pushed on why, they might argue that since God is all-powerful, he gets to be all those terrible traits but we don't. And many of those people basically continue to worship this god out of fear, acknowledging that he isn't really good as we understand it but we have to call him good. That's the standard "might equals right" way of looking at the world.
+
+I'm also not saying the opposite: lots of people who have a very loving vision of God for various reasons do not live in a way that matches that vision. There are many exceptions on both sides and of course this operates on a continuum rather than a strict one side or another.
+
+\[caption id="attachment\_1779" align="alignleft" width="300"\][](http://www.anabaptistredux.com/wp-content/uploads/2013/03/jesus-forskaen-cross.jpg) Or is this your image of God?\[/caption\]
+
+However, **there is clearly a cognitive dissonance at play when we define God's love differently than we define the love we are supposed to show.** This shouldn't be ignored or shrugged off with the usual might equals right response. I think that this dissonance is something built into us to let us know that we're looking at God the wrong way. What if, instead of being afraid of evil God, we honestly asked whether that is the vision of God which best lines up with Jesus? After all, isn't Jesus, "the true image of the invisible God," "the Word made flesh," one with the Father, and the very demonstration of God's character - love - when dying on the cross? What if we started to worship this God, learning about and experiencing this love, instead of evil God?
+
+The Bible defines love this way:
+
+> 4 Love is patient, love is kind. It does not envy, it does not boast, it is not proud. 5 It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. 6 Love does not delight in evil but rejoices with the truth. 7 It always protects, always trusts, always hopes, always perseveres.
+
+Note that this doesn't say that we are supposed to show patient love, but God, whose very essence is love according to 1 John 4:8, is an impatient love. It doesn't say that our love is to be kind but God's love is abusive. Or that our love shouldn't boast but God's primary goal is the "glory" that comes from flexing his muscles just because he can. It doesn't say that we shouldn't delight in evil but God is actually the source of all evil. Are you picking up the dissonance yet or do I need to keep going with all of the traits listed above? **Here's a simple exercise: substitute the word love for the word God above and then ask yourself if that is the god you believe in**. If not, it simply isn't the biblical god and this belief is probably hurting your life in very practical ways.
+
+Here's a central Anabaptist claim: love, and God, is defined by Jesus and this is the model that we are supposed to follow as his image-bearers, his body on earth, his bride (again, look at 1 John 4 as well as so many more New Testament references). God's core essence is love. Sometimes this manifests itself through discipline, sure. Being love is not the same thing as being pushover mr. nice guy. And we do need to wrestle with why we see things which are clearly not love described as part of God's character in the Old Testament: genocide, nationalism, abusive husband imagery. Christians have wrestled with just how the Old Testament testifies to Jesus - as he himself claimed - for 2000 years. But Jesus and all of the early Christians believed that somehow all Scripture was authoritative and also ultimately served the purpose of pointing to Jesus as the complete image of God's love. So the question is **not**: how do we balance the unloving God we occasionally see elsewhere in Scripture with the character of Jesus? The real question is how those texts point to Jesus, even if the pointing is by way of an antithesis or a shadow.
+
+I am more and more convinced that this becomes the central theological question: **what is your image of God?** From that flows so much more, including and especially: how do I live as Jesus' hands and feet to the world? When we start seeing God through his radical sacrifice on the cross instead of the angry old white man in the sky throwing people into Hell, our role as followers of this Jesus-shaped God will change with it.

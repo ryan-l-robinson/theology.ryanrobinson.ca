@@ -1,0 +1,24 @@
+---
+title: "Embracing Ubuntu: Kingston Home Church"
+date: "2014-04-18"
+categories: 
+  - "the-church"
+tags: 
+  - "embracing-ubuntu"
+---
+
+_This post is the first in a short semi-autobiographical series I'm doing called Embracing Ubuntu. Ubuntu, for those who aren't familiar, is an African concept that is hard to translate but means something like "diversity in unity." It is neither uniformity - making everyone the same or not talking about differences - nor is a free-for-all battle where anything goes. It is a recognition that is simple in theory but hard in practice: we are all different and that doesn't make me better than you. I've expressed this idea many times, often using the Anabaptist phrasing the "Third Way," but in this series I want to give examples of where I have encountered it working._
+
+I'll start at the beginning. It is a very good place to start (cue Sound of Music stuck in each of our heads). I had been in churches and campus fellowships that on the surface allowed questioning, but for the most part if your questioning got you to a different conclusion than them, you clearly didn't belong there. The most painful was [another campus group that was particularly judgemental](http://anabaptistredux.com/a-sad-tale-of-judgemental-christian-culture/ "A Sad Tale of Judgemental Christian Culture"), but I think some other examples in my life could have been less blunt versions of the same idea if I had crossed the wrong lines. For the most part we stuck to uniformity.
+
+<!--more-->The first community that seemed to really exemplify the idea of ubuntu in my life was a group that went by a few different names. It started as Relevant Church and followed The Meeting House's model - teachings (in a pub) but the real church happened in home churches. That name and the TMH connection faded out but the group met in a variety of different houses over the years, encompassing a lot of different people. I'm just going to refer to it as Home Church.
+
+\[caption id="attachment\_3999" align="aligncenter" width="660"\] At a reunion in December 2011\[/caption\]
+
+Many were from moderate or conservative evangelical backgrounds. Many from the aforementioned group with the judgement problem ended up here together as a place to heal and to grow. Some still clearly thought in more conservative/evangelical ways while others were exploring other traditions and movements like the emerging church and Anabaptism. Others were charismatic and that stream stayed strong as we would sometimes sing in that living room together for hours, we'd pray for each other with laying on hands, and lots of learning to listen to the Spirit in our lives. Some were still happy to also attend institutional churches and/or campus fellowships; others had trouble finding one where they would fit in so they saw Home Church as their only community (Kingston did have a very weird church landscape).
+
+These people were undoubtedly my family. We argued over different topics. It was not some surface unity forced by not talking about the tough questions. We learned from each other whether or not we agreed when it was all over. We unashamedly made fun of each other, not in a degrading way but because we all benefit from not taking ourselves too seriously. While the music was always good quality, it was this sense of vulnerability that allowed me to really worship and it was the best worship I've ever experienced (at least consistently, not counting some one-off events). This isn't even to mention that this was where I worked through discovering a God who wasn't about being right, who wasn't about judging those outside of the right group, who was characterized by love rather than fear and anger. This is where I discovered a God that actually looked like Jesus precisely because they were a group of people that, while flawed in their own ways, looked like Jesus.
+
+I should say that these people undoubtedly **are** my family. I don't see them very often, but we did recently get together and plan to invite them for an upcoming housewarming since we just moved. Emily (my wife) and I got on our bus home and commented on what an amazing group of people they are. To this day, while some others I'll discuss in this series are amazing groups, I'm not sure I could feel more vulnerable around any of those others. That's partly just a matter of time - I spent a few years with them - but even more I think is because they engrained that ubuntu spirit as part of their DNA from the very beginning and refused to ever let that go.
+
+When I think about what a Christian community needs to look like, they are ones who come to mind first as my example. We talked doctrine, but we weren't defined by doctrine. We talked ethics and politics, but we weren't defined by them. We were defined by trying to follow Jesus the best we could, including and most especially all that stuff about loving each other.

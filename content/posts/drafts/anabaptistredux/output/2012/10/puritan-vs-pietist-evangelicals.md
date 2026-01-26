@@ -1,0 +1,17 @@
+---
+title: "Puritan vs Pietist Evangelicals"
+date: "2012-10-26"
+categories: 
+  - "history"
+  - "evangelicalism"
+---
+
+![Roger E. Olson](images/Roger-E.-Olson-212x300.jpg)This is a really interesting idea that I'd never thought of but immediately made complete sense to me. I grabbed the idea from [this blog from An Anabaptist in Perth](https://perthanabaptists.wordpress.com/2011/12/05/puritan-and-pietist-contending-within-evangelicalism/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AnAnabaptistInPerth+%28An+Anabaptist+in+Perth%29 "Puritan and Pietist contending within evangelicalism") who picked it up from a book by Roger Olson. When we think of evangelicalism, we primarily mean two different traditions, not one. The one which dominates the American news and so we most often tie to the term evangelicalism is that which derives from Puritanism. This is what we typically refer to as "conservative". This also makes sense historically for why evangelical is usually equated to conservative in the United States but not really anywhere else, since the Puritans largely settled in the US. But some parts of evangelicalism as we have it today derived not from the Puritans but from the Pietists. What's the difference? <!--more-->
+
+> The Puritan stream has emphasised doctrinal correctness and seen theology as the task of systemising the Bible into doctrines and then defending these formulations (basically already completed) against innovations. The Pietist stream has tended to make the experience of conversion and discipleship the primary mode of faith, with doctrine flowing from this...
+
+Today, conservative evangelicals (inheritors of the Puritan stream) tend to look at the Bible primarily as a means of information. Postconservative evangelicals (inheritors of the Pietist stream) look at the Bible just as much as a means of transformation and encounter; just as important as propositions are stories, parables, poetry in the Bible which call for our response and participation. Postconservatives also believe that no post-canonical formulation of doctrine can be seen as final and beyond questioning; they tend to encourage theological imagination and creativity.
+
+I'm definitely a lot closer to the Pietists (post-conservative) than I am to the Puritans (conservative). I've always been hesitant to either affirm or deny the label "evangelical" for myself because it is such a vague term. Now I can see where those different definitions are coming from historically. When some say evangelical they mainly mean conservative, or derived from Puritanism. That definition I don't think I fit at all because I encourage theological creativity and care a lot more about a life of discipleship than about ironclad doctrine.
+
+Others mean something closer to Pietism when they say "evangelical", thinking that it is all about the "personal relationship". Even that I would need to ask more clarifying questions before I called myself their definition of evangelical, because it has the potential in very different directions than Pietism. "Personal relationship" sometimes could mean it is an individual faith, neglecting the church community. It could mean it is a selfish faith, just about making sure I don't go to Hell. I'd reject those meanings of evangelical for myself, too. But if you do mean evangelical to be the Pietist idea of discipleship within community, personal but not individual, and open to doctrinal interpretation, I suppose I could call myself an evangelical.

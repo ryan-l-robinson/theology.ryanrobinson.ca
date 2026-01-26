@@ -1,0 +1,20 @@
+---
+title: "Canada's New Militarist Hockey Team"
+date: "2012-10-25"
+categories: 
+  - "nonviolence"
+---
+
+Here's an interesting article on a topic I hadn't really thought of on my own called Winnipeg Jets logo and militarism.  Using the new Winnipeg Jets logo, pictured left, as an example, it talks about how sports are often used as venue to promote nationalism and militarism.  I am a bad Canadian as I don't pay much attention to hockey other than Canada's games in the Olympics and maybe one or two playoff games a year.  I knew that the Winnipeg Jets were back and that there was a fighter jet on the logo, but I hadn't thought about it any further than that.  It seems obvious once you read it: sports are used as a way to promote militarism.
+
+<!--more-->
+
+This is especially true in the United States much more than Canada of course.  It is a frequent occurrence before a lot of sports games to honour one or more soldiers.  And I'm perfectly alright with honouring soldiers, just not necessarily honouring the unjust wars that they are called to fight in.  Either way it does a great job of establishing that killing for your country is the ideal, although one of the great military marketing tricks is that it is always phrased as dying for your country rather than killing for it, which surely does make it sound more noble and in line with the Christian heritage of most of the world's powerful nations.  As this post points out, it isn't completely unusual in Canada either, most predominately right now in the new Jets logo.  The article does a good comparison of the symbolism between the old Jets logo and the new one:
+
+> While the former Jets logo depicted a passenger jet, which has the sole purpose of bringing the world to Winnipeg, and Winnipeg to the world, and could symbolize the expanses of our great country, we should never forget that the **SOLE** purpose of the newly depicted aircraft is to kill people. Real people. And they do. Currently, CF-18s regularly drop 500 pound Paveway bombs (at $100,000 a piece) on Libyan military installations, and in June, [bombed](http://www.ctvnews.ca/canadian-fighter-jets-bomb-targets-in-tripoli-1.657982) parts of Tripoli. CF-18s (as do all fighter jets, missiles and bombs) directly undermine the “right to surrender” clause of the Geneva Convention, which our brave men and women in uniform fight to protect: it’s hard to surrender to a fighter jet at 1,200 km/h, and even harder to seek medical attention from a laser-guided smart bomb.
+
+ 
+
+I believe Jesus (and Paul and the first 300 years of the church in general) called Christians to be pacifists.  Some Christians don't accept that but do accept Just War Theory, which was designed as a check to stop wars unless they were really justified - the criteria of which I might argue has rarely if ever actually been met in history anyway but that's a different point.  I'm fine with Just War Theory guiding the state, but I think this discussion with the militarization of sports demonstrates the general point of the development of Just War Theory throughout history.  While for the first 1000 years or so after Augustine developed it, it remained a check against war: unless all the criteria are met, you don't even have the option of going to war.  If a king committed any violence that didn't meet the criteria, there was church discipline involved.  With the rise of Protestantism which largely coincided with the rise of the nation-state, we largely shifted it to becoming a mandate for war: if at least some of them are met, you must go to war.  Killing people for your country is not seen as an occasionally necessary evil but rather as a noble goal in and of itself, regardless of the cause.  Tying that "noble" nationalist goal with the newest team for our nation's beloved sport is a very smart marketing move for militarism.
+
+I'm not suggesting we boycott the Jets or anything - although if that's where your conscience leads you I wouldn't object either - but I do suggest we pause and consider the subtle symbols in seemingly-harmless things like sports and just what exactly we encourage through them.
