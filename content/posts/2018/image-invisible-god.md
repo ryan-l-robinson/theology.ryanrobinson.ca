@@ -9,7 +9,7 @@ tags:
 
 The following is my transcript from a recent sermon. It was the third in a series walking through Confession of Faith in a Mennonite Perspective, with this one covering [Article 2: Jesus Christ](http://home.mennonitechurch.ca/cof/art.2). It has only been lightly edited to remove a couple names from our congregation, add an embedded video, and generally change to more web-friendly formatting.
 
-### Intro
+## Intro
 
 A couple of years ago, we had some friends over in our apartment. All of us were Christians, but with a variety of traditions and theological leanings. Somebody asked everybody why they were a Christian. We had been sort of talking about forming a small group together, so it wasn't out of the blue. Remarkably, nobody had the same answer. We heard the philosophical arguments, the historical arguments, their own experiences which they could only attribute to the supernatural. We heard a variant on Pascal's wager, basically that if God exists, you want to be on God's side. We heard somebody acknowledging their brokenness and need for a saviour.
 
@@ -21,7 +21,7 @@ At the centre of what drew me to an Anabaptist expression of Christianity was th
 
 Most of these things are shared with other groups of Christians, but Anabaptists have a few differences, sometimes just in emphasis and sometimes more significant differences. Because I only have about 20 minutes, I'm focusing on three of these: teacher, king, and the Word of God. Because I guess there's still enough Baptist in me to like 3 point sermons.
 
-### Teacher
+## Teacher
 
 One of the Anabaptist emphases is discipleship, the idea that we are supposed to actually follow Jesus' example and teaching. In an interesting note in the commentary of the confession article, it points out that most Protestants only cite Jesus' roles as king, prophet, and priest, while this one adds teacher as well.
 
@@ -71,7 +71,7 @@ This was a God who got their hands dirty for the sake of making their love to us
 
 Imagine what the world would look like if we all lived the kind of things Jesus taught. Even imagine what the world would look like if only those of us who identify as Christians lived these things consistently.
 
-### A Strange Kind of King
+## A Strange Kind of King
 
 This kind of teaching is important to keep in mind when looking at the next descriptor given to Jesus, that of King.
 
@@ -95,7 +95,7 @@ They obviously were not trying for subtlety on the show, but this imagery was st
 
 This is an amazing example - not far removed from reality - that demonstrates how much theology does matter. Bad theology can literally kill people. Good theology can literally save lives.
 
-### Son of God, Revelation of God
+## Son of God, Revelation of God
 
 Ultimately, though, the most central claim to make of Jesus is that he is the fullest revelation of God.
 
@@ -121,7 +121,7 @@ What's God's attitude toward marginalized people today: women, LGBTQ, people of 
 
 Even on things which Jesus didn't directly comment on, we can get a pretty good idea by looking at the kind of things Jesus did and taught and how that reveals God to us.
 
-### Conclusion
+## Conclusion
 
 I will conclude with reading a bit from Jessica Kelley's book _Lord Willing?_. Jessica's son Henry died young of a rare brain disorder and she tells the heart wrenching story in this book. Or you could also hear her speak by searching for more of her work online. We even got her on our MennoNerds podcast once and it was one of my favourites we've done - that's a shameless plug, go find MennoNerds on YouTube. It's not just because of her powerful personal story, but because of her ability to wrestle with heavy theological topics, in this case to do with free will and the problem of evil.
 

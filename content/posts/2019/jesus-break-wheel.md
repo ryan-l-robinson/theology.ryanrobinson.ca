@@ -15,6 +15,8 @@ tags:
 
 [Ephesians 6:10-17](https://bibles.org/bible/1fd99b0d5841e19b-02/EPH.6?passageId=EPH.6.10-EPH.6.17&q=ephesians%206%3A10-17)
 
+## Transcript
+
 ### Introduction
 
 It might seem like an odd choice for Peace Sunday to use two texts about battles. These texts are filled with violent imagery of swords and armies and blood flowing. This kind of imagery might be uncomfortable for a lot of people and I can understand why.

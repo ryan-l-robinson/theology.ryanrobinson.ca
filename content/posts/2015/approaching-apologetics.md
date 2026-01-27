@@ -7,7 +7,7 @@ description: "Apologetics shouldn't be about convincing people you're right."
 
 In my later teen and early young adult years, apologetics were a fairly important discipline to me. I read all of Lee Strobel's "Case For..." books. Looking back on them, there were some ok ideas that I'm glad I picked up in an accessible way there instead of in a philosophy class. There were also a lot of things that I soon realized were really bad arguments, such as the treatment of evolution as obviously contrary to true Christianity as well as a lot of thoroughly-debunked arguments against evolution. I have an easier solution to that one: why couldn't God create the world and move it to where we are today through an evolutionary process?
 
-### Arguing Into the Kingdom?
+## Arguing Into the Kingdom?
 
 At the time, the purpose for apologetics was essentially to be able to argue people into the Kingdom. I learned that this never works, and also doesn't seem at all in line with the way of Jesus. Discussing issues with somebody may be helpful and I'll get to that, but if you approach a discussion with the attitude that you need to convince inferior intellects of why you are right, you are never going to convince them you are right. People don't respond well to being treated as inferior. They get defensive and usually end up further entrenched in their prior beliefs.
 
@@ -15,7 +15,7 @@ Jared Byas recently talked about this on Pete Enns' blog (that post no longer e
 
 The world is not that simple. There are good arguments for atheism. There are good arguments for any religion you choose. Yeah, I probably think there's enough good arguments for Christianity for it to win out for me on a purely intellectual contest, but that's not really the point.
 
-### The Foolishness of Christianity
+## The Foolishness of Christianity
 
 I find Christianity to be the most compelling worldview, but that's not even the same thing as being the most logical. **A big part of what I find so compelling about Christianity is that it isn't logical**. I'm not talking about historical facts or trusting the Bible or anything like that which usually dominate apologetics discussions. I'm talking about some of the bigger truths about how God works in the world.
 
@@ -31,7 +31,7 @@ I believe that life conquers death. That's not logical. We know that everybody d
 
 Christianity isn't primarily a logical faith. There's actually quite a bit foolish about it.
 
-### So What About Apologetics?
+## So What About Apologetics?
 
 I don't want to completely scrap a place for apologetics. Christianity isn't primarily a propositional faith, but we are still somewhat logical creatures. The best analogy I have heard is that of running a race with hurdles, where apologetics is removing the hurdles. We can help remove the intellectual roadblocks that are making it a lot harder or sometimes impossible to run the race.
 

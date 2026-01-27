@@ -13,7 +13,7 @@ tags:
 
 Since I've already spent time responding to each section, I'll just give some short notes of other positives and negatives about the book to wrap this up.
 
-### Positives
+## Positives
 
 The writing style is beautiful, as usual for Rachel's books. When I first read one of her books (Biblical Womanhood), I sort of expected it to read like an extended blog post, but was surprised at the depth of the language used. This book is much less intellectual but is far deeper with her language.
 
@@ -23,6 +23,6 @@ On a related note, she is incredibly gracious toward her "enemies." I think of h
 
 I love the glimpses we get into Rachel and Dan's relationship. The way they worked through so many things together is amazing. It's not a book about marriage, other than the last section, but their healthy marriage does stand out.
 
-### Negative
+## Negative
 
 My biggest negative of the book I think is the structuring around the 7 sacraments. For some sections, the themes she discussed were really obvious and that made the imagery powerful; baptism and communion stand out as two particularly powerful sections to me. Others felt more like she was stretching, like confirmation. There may have still been more gained with this structure than lost, but it did stand out as a distraction sometimes when I was trying to draw the connection all through the section instead of maybe focusing as much on what she was actually saying.

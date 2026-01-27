@@ -11,7 +11,7 @@ Things like shame, fear, and judgementalism have no place in the Christian life.
 
 I talk about that kind of thing a lot, but sometimes we over-correct and become afraid of confession. One phrase I've heard is that we are Easter people, not Good Friday people. Yes, that's true. That is where our hope is found. But by definition Easter could not have happened without Good Friday. Jesus couldn't have been resurrected if he didn't die first. We, like Jesus, have new life, but the process of that new life isn't comfortable. It would be wrong to celebrate Easter without Good Friday just as it would be wrong to celebrate Good Friday without Easter.
 
-### The Practice of Confession
+## The Practice of Confession
 
 Confession is an element of faith which has been scrubbed from Protestant tradition. There are good historical reasons. Confession was limited to being said to priests within the Catholic tradition and those priests were often corrupt at the time, helping out the Church institution and themselves rather than trying to help you and those you've hurt heal. The Protestant solution was effectively to wipe out any form of confession at all. The individualism that developed in the West made it much worse as our default is to hide anything from the community while (optimistically) trying to solve it all by yourself.
 
@@ -21,7 +21,7 @@ This isn't about speaking to a priest. As with Protestants, I affirm that all be
 
 It is about being vulnerable and acknowledging where we don't have our shit together. Because we don't. For some, maybe it seems like something minor while for others it seems like your life is falling apart and it is all your fault. But none of us do. We all have things we would benefit from being honest about.
 
-### Confession and Suffering
+## Confession and Suffering
 
 To put it another way, **how much of our own suffering and the suffering of others could we avoid or at least lessen if we lived a more humble and vulnerable life**?
 
