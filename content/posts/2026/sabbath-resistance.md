@@ -14,6 +14,10 @@ tags:
 - [Exodus 5:6-9](https://www.biblegateway.com/passage/?search=Exodus%205%3A6-9&version=CEB)
 - [Matthew 6:25-34](https://www.biblegateway.com/passage/?search=Matthew%206%3A25-34&version=CEB)
 
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WcPqw5hAqdU?si=L6HkSKmYUKlF6S4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Transcript
 
 ### Intro: Recapping The Series So Far
